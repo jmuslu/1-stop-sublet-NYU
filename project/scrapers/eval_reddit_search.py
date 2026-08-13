@@ -125,6 +125,47 @@ CASES = [
         expected_intent="offer",
         expected_location="New York, NY",
     ),
+    # Both of these reached the live site. Their bodies are full of housing
+    # vocabulary, so only the title gives them away.
+    Case(
+        name="question_is_this_legal",
+        title="Is this subletting situation legal?",
+        body=(
+            "I'm in a Brooklyn apartment with 2 other roommates. All 3 of us are on "
+            "separate subletting leases, and the lessee we rent from doesn't live here. "
+            "Is this situation legal? It feels like a workaround to extract more rent."
+        ),
+        expected_intent="question",
+    ),
+    Case(
+        name="question_lost_my_apartment_is_not_an_offer",
+        title="Any Funds for Emergency?",
+        body=(
+            "Hey guys, I just lost my apartment, having nowhere to go and I don't have "
+            "much cash on me. I already depleted my courtesy meals and emergency funds "
+            "applications are declined. What other options are there for me?"
+        ),
+        expected_intent="question",
+    ),
+    # A real listing that happens to end in a question mark must survive.
+    Case(
+        name="offer_with_question_mark_title",
+        title="Subletting my room in Bushwick, anyone interested?",
+        body="$1,500 a month, furnished, available September 1.",
+        expected_intent="offer",
+    ),
+    # Real post: existing roommates with a genuine opening, missed because
+    # "looking for A THIRD roommate" has a descriptor the old regex didn't allow.
+    Case(
+        name="offer_looking_for_a_third_roommate",
+        title="Looking for a third roommate in Hamilton Heights! Move-in between 8/01 and 9/01",
+        body=(
+            "My current roommate and I are looking for a new roommate! Rent is $3700 net "
+            "for the unit, with individual shares ranging from 1150-1200 depending on the "
+            "room. 2 bed 1 bath, utilities average $150/month."
+        ),
+        expected_intent="offer",
+    ),
     Case(
         name="offer_across_the_river_keeps_nj",
         title="Subletting my room in Jersey City",

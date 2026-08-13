@@ -14,13 +14,31 @@
     "photo_attach_window": 8,
     "strong_offer_terms": [
       "lease takeover",
+      "leaving my apartment",
       "my apartment",
       "my bedroom",
+      "my furnished room",
+      "my place",
       "my room",
       "our apartment",
+      "our place",
+      "renting out my",
+      "renting out our",
+      "room in my apartment",
       "someone to sublet my",
+      "someone to take over my",
+      "spot in my",
+      "sublease my",
+      "sublease our",
+      "subleasing my",
+      "sublet for my",
+      "sublet my",
       "subletting my",
-      "take over my"
+      "subletting our",
+      "take over my",
+      "take over our",
+      "taking over my",
+      "vacating my"
     ],
     "offer_terms": [
       "room available",
@@ -49,8 +67,14 @@
       "will be interning"
     ],
     "question_terms": [
+      "any funds",
       "does that mean",
+      "is it legal",
+      "is this",
+      "need help",
+      "what are my options",
       "what if",
+      "what other options",
       "wondering if"
     ],
     "include_terms": [
@@ -88,6 +112,20 @@
       "Nolita",
       "NoHo",
       "SoHo"
+    ],
+    "distress_terms": [
+      "lost my apartment",
+      "lost my place",
+      "losing my apartment",
+      "losing my place",
+      "no where to go",
+      "nowhere to go",
+      "kicked out",
+      "evicted",
+      "homeless",
+      "emergency fund",
+      "emergency funds",
+      "having no where"
     ]
   }
 }

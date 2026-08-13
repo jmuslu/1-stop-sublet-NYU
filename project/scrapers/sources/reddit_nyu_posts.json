@@ -12,6 +12,7 @@
     "photo_attach_window": 0,
     "strong_offer_terms": [
       "fully furnished summer sublet",
+      "leaving my apartment",
       "my apartment",
       "my bedroom",
       "my furnished room",
@@ -19,11 +20,23 @@
       "my room",
       "our apartment",
       "our place",
+      "renting out my",
+      "renting out our",
+      "room in my apartment",
       "someone to sublet my",
+      "someone to take over my",
+      "spot in my",
+      "sublease my",
+      "sublease our",
+      "subleasing my",
       "sublet for my",
+      "sublet my",
       "subletting my",
+      "subletting our",
       "take over my",
-      "take over our"
+      "take over our",
+      "taking over my",
+      "vacating my"
     ],
     "offer_terms": [
       "accommodation available",
@@ -106,6 +119,7 @@
     ],
     "question_terms": [
       "advice",
+      "any funds",
       "best four-person",
       "do you recommend",
       "does that mean",
@@ -114,12 +128,17 @@
       "experiences?",
       "how long do you",
       "how much should",
+      "is it legal",
       "is it normal",
+      "is this",
+      "need help",
       "recommendations",
       "suggestions",
       "thoughts on",
+      "what are my options",
       "what if",
       "what is the best",
+      "what other options",
       "which is better",
       "wondering if",
       "worth it?"
@@ -206,6 +225,20 @@
       "https://www.reddit.com/r/nyu/search.rss?q=roommate&restrict_sr=1&sort=new&limit=100",
       "https://www.reddit.com/r/nyu/search.rss?q=apartment&restrict_sr=1&sort=new&limit=100"
     ],
-    "request_delay_seconds": 3
+    "request_delay_seconds": 3,
+    "distress_terms": [
+      "lost my apartment",
+      "lost my place",
+      "losing my apartment",
+      "losing my place",
+      "no where to go",
+      "nowhere to go",
+      "kicked out",
+      "evicted",
+      "homeless",
+      "emergency fund",
+      "emergency funds",
+      "having no where"
+    ]
   }
 }

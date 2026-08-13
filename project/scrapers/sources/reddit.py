@@ -328,11 +328,20 @@ class RedditThreadScraper(ListingScraper):
             return deterministic
         return self._classify_intent_with_gemini(text) or "seeker"
 
+    # Bare possessives ("my room", "our apartment") are common in real listings
+    # ("looking for someone to take my room") but also show up in distress posts
+    # that are not listings at all ("I just lost my apartment, nowhere to go").
+    # Guarded in _matches_strong_offer_terms rather than dropped outright, since
+    # dropping them broke far more real listings than it fixed.
+    _BARE_STRONG_OFFER_TERMS = frozenset(
+        {"my apartment", "my bedroom", "my furnished room", "my place", "my room", "our apartment", "our place"}
+    )
+
     def _classify_intent_with_rules(self, text: str, has_images: bool) -> str:
         lowered = text.lower().replace("’", "'")
         if self._is_image_only_text(lowered):
             return "seeker"
-        if self._contains_config_term(lowered, "strong_offer_terms"):
+        if self._matches_strong_offer_terms(lowered):
             return "offer"
         if self._contains_config_term(lowered, "question_terms"):
             return "question"
@@ -349,6 +358,26 @@ class RedditThreadScraper(ListingScraper):
         if self._contains_config_term(lowered, "include_terms"):
             return "unclear"
         return "seeker"
+
+    def _matches_strong_offer_terms(self, lowered_text: str) -> bool:
+        """True when a strong_offer_terms entry matches, with a distress guard.
+
+        When the text also reads as a distress/emergency post ("no where to
+        go", "lost my apartment"), a bare possessive alone no longer counts -
+        it is exactly as likely to mean the writer just lost their home as
+        that they are listing it. Verb-qualified terms ("subletting my",
+        "lease takeover") still count regardless: "I lost my job and need to
+        sublet my apartment ASAP" is still a listing.
+        """
+        distress = self._contains_config_term(lowered_text, "distress_terms")
+        for term in self.source.config.get("strong_offer_terms", []):
+            normalized = term.lower().replace("’", "'")
+            if distress and normalized in self._BARE_STRONG_OFFER_TERMS:
+                continue
+            pattern = rf"(?<![a-z0-9]){re.escape(normalized)}(?![a-z0-9])"
+            if re.search(pattern, lowered_text):
+                return True
+        return False
 
     def _contains_config_term(self, lowered_text: str, config_key: str) -> bool:
         for term in self.source.config.get(config_key, []):
@@ -369,10 +398,23 @@ class RedditThreadScraper(ListingScraper):
             or re.search(r"\broommate group\b", lowered_text)
         )
 
+    # "Looking for a THIRD roommate", "...a NEW roommate" - real posts almost
+    # always put a descriptor between the article and "roommate"; a bare
+    # "\blooking for (?:a|one|[1-6]) roommate\b" misses all of them.
+    _ROOMMATE_DESCRIPTOR = (
+        r"(?:new|additional|another|one more|"
+        r"1st|2nd|3rd|4th|5th|6th|first|second|third|fourth|fifth|sixth)"
+    )
+
     def _has_roommate_opening_evidence(self, lowered_text: str) -> bool:
         roommate_opening = bool(
-            re.search(r"\blooking for (?:a|one|[1-6]) roommate\b", lowered_text)
-            or re.search(r"\bneed (?:a|one|[1-6]) roommate\b", lowered_text)
+            re.search(
+                rf"\blooking for (?:a |one |[1-6] )?(?:{self._ROOMMATE_DESCRIPTOR} )?roommate\b",
+                lowered_text,
+            )
+            or re.search(
+                rf"\bneed (?:a |one |[1-6] )?(?:{self._ROOMMATE_DESCRIPTOR} )?roommate\b", lowered_text
+            )
             or re.search(r"\b(?:one more|[1-6](?:st|nd|rd|th)?) roommate\b", lowered_text)
             or "roommate wanted" in lowered_text
             or "fourth ghosted" in lowered_text

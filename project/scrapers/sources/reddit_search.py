@@ -51,8 +51,16 @@ class RedditSearchScraper(RedditThreadScraper):
         if not title:
             return None
         lowered = title.lower().replace("’", "'")
-        if self._contains_config_term(lowered, "strong_offer_terms"):
+        if self._matches_strong_offer_terms(lowered):
             return "offer"
+        # A standalone post whose title is a question is asking about housing,
+        # not offering it - "Is this subletting situation legal?", "Any funds
+        # for emergency?". Their bodies are full of housing vocabulary, so this
+        # has to be decided on the title. Checked after strong_offer so a real
+        # listing that ends in a question ("Subletting my room, anyone?") still
+        # reads as an offer.
+        if lowered.rstrip().endswith("?"):
+            return "question"
         if self._contains_config_term(lowered, "exclude_terms"):
             return "seeker"
         if self._contains_config_term(lowered, "seeker_terms"):

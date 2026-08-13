@@ -143,6 +143,44 @@ the body when the title says nothing either way. Only `strong_offer_terms` can
 settle an offer from the title alone — the weak `offer_terms` are single words
 like "subleasing" that appear just as readily in a title asking for one.
 
+Two more title-level cases, found because both reached the live site:
+
+- **A question-mark title is a question, not a listing.** "Is this subletting
+  situation legal?" and "Any Funds for Emergency?" both matched offer vocabulary
+  in the body (subletting/lease talk is exactly what someone asking about their
+  housing situation writes about) and were classified as offers. A standalone
+  post whose title ends in `?` is now read as a question outright, checked after
+  `strong_offer_terms` so a real listing that happens to end in a question mark
+  ("Subletting my room, anyone interested?") still survives.
+- **Bare possessives need a distress guard, not removal.** `strong_offer_terms`
+  includes bare phrases like "my room" and "my apartment" - "I'm looking for
+  someone to sublet **my room**" is a real, common way to phrase a listing.
+  Removing them (an earlier pass here did exactly that) broke far more genuine
+  listings than it fixed, because most real posts don't pair a possessive with
+  an explicit verb like "subletting". The two bad posts above needed a narrower
+  fix: `_matches_strong_offer_terms` now only lets a bare possessive settle an
+  offer when the post doesn't also read as a distress/emergency post
+  (`distress_terms`: "lost my apartment", "nowhere to go", "emergency funds",
+  ...). A verb-qualified term ("subletting my", "lease takeover") still counts
+  as offer regardless of distress language, since "I lost my job and need to
+  sublet my apartment ASAP" is still a listing.
+
+`_has_roommate_opening_evidence`'s regex also missed real listings phrased with
+a descriptor between the article and "roommate" - "looking for a **third**
+roommate", "...a **new** roommate". Fixed to allow one.
+
+#### Frontend sort order
+
+`App.tsx`'s sort comparator used to apply `nyuScore` (NYU relevance) as the
+*primary* key and only fell back to the chosen sort within a relevance tier. So
+"Newest First" didn't mean newest first: a July post that mentioned NYU by name
+(score 100+) sorted above an August post that didn't (score 0), even though
+there is no "Relevance" option in the sort dropdown to explain why. The chosen
+sort is now the primary key across all listings; `nyuScore` only breaks ties
+within it (same `dateListed`, or both priceless) - which is also where it is
+actually useful, since many listings land on the same date and NYU-relevant
+ones should float to the top of that group rather than sort arbitrarily.
+
 #### Facebook
 
 Facebook group posts are supported through a public mobile-page scrape plus an

@@ -53,25 +53,31 @@ function App() {
     }
 
     result.sort((a, b) => {
-      // NYU listings/asks rank first, other NYC schools last; the chosen sort
-      // then orders listings within each relevance tier.
-      const relevance = nyuScore(b) - nyuScore(a);
-      if (relevance !== 0) {
-        return relevance;
+      // The chosen sort is what the dropdown says it is - there is no
+      // "Relevance" option, so a listing 100 spots newer must never rank
+      // below an older one just because it scores higher on nyuScore.
+      // Relevance only breaks ties within the primary key (same day, or both
+      // priceless), which is also where it is most useful: many listings
+      // land on the same dateListed, and NYU-relevant ones should float to
+      // the top of that group rather than sort arbitrarily.
+      const primary = (() => {
+        switch (sortBy) {
+          case 'date-desc':
+            return new Date(b.dateListed).getTime() - new Date(a.dateListed).getTime();
+          case 'date-asc':
+            return new Date(a.dateListed).getTime() - new Date(b.dateListed).getTime();
+          case 'price-desc':
+            return (b.price ?? -1) - (a.price ?? -1);
+          case 'price-asc':
+            return (a.price ?? Number.MAX_SAFE_INTEGER) - (b.price ?? Number.MAX_SAFE_INTEGER);
+          default:
+            return 0;
+        }
+      })();
+      if (primary !== 0) {
+        return primary;
       }
-
-      switch (sortBy) {
-        case 'date-desc':
-          return new Date(b.dateListed).getTime() - new Date(a.dateListed).getTime();
-        case 'date-asc':
-          return new Date(a.dateListed).getTime() - new Date(b.dateListed).getTime();
-        case 'price-desc':
-          return (b.price ?? -1) - (a.price ?? -1);
-        case 'price-asc':
-          return (a.price ?? Number.MAX_SAFE_INTEGER) - (b.price ?? Number.MAX_SAFE_INTEGER);
-        default:
-          return 0;
-      }
+      return nyuScore(b) - nyuScore(a);
     });
 
     return result;
