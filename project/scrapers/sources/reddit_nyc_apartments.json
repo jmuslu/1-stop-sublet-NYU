@@ -4,8 +4,8 @@
   "enabled": true,
   "vetted_users": false,
   "config": {
-    "subreddit": "r/nyu",
-    "thread_title": "r/nyu housing posts",
+    "subreddit": "r/NYCapartments",
+    "thread_title": "r/NYCapartments housing posts",
     "default_location": "New York, NY",
     "city_suffix": "New York, NY",
     "max_items": 150,
@@ -199,12 +199,10 @@
       "Newark": "NJ"
     },
     "feed_urls": [
-      "https://www.reddit.com/r/nyu/search.rss?q=sublet&restrict_sr=1&sort=new&limit=100",
-      "https://www.reddit.com/r/nyu/search.rss?q=sublease&restrict_sr=1&sort=new&limit=100",
-      "https://www.reddit.com/r/nyu/search.rss?q=subletting&restrict_sr=1&sort=new&limit=100",
-      "https://www.reddit.com/r/nyu/search.rss?q=subleasing&restrict_sr=1&sort=new&limit=100",
-      "https://www.reddit.com/r/nyu/search.rss?q=roommate&restrict_sr=1&sort=new&limit=100",
-      "https://www.reddit.com/r/nyu/search.rss?q=apartment&restrict_sr=1&sort=new&limit=100"
+      "https://www.reddit.com/r/NYCapartments/search.rss?q=sublet&restrict_sr=1&sort=new&limit=100",
+      "https://www.reddit.com/r/NYCapartments/search.rss?q=sublease&restrict_sr=1&sort=new&limit=100",
+      "https://www.reddit.com/r/NYCapartments/search.rss?q=subletting&restrict_sr=1&sort=new&limit=100",
+      "https://www.reddit.com/r/NYCapartments/search.rss?q=lease+takeover&restrict_sr=1&sort=new&limit=100"
     ],
     "request_delay_seconds": 3
   }

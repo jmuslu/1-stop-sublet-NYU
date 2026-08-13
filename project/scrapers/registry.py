@@ -5,6 +5,7 @@ from pathlib import Path
 
 from scrapers.base import ListingScraper, SourceConfig
 from scrapers.sources.facebook_manual import FacebookManualScraper
+from scrapers.sources.listings_project import ListingsProjectScraper
 from scrapers.sources.reddit import RedditThreadScraper
 from scrapers.sources.reddit_search import RedditSearchScraper
 from scrapers.sources.subletr import SubletrScraper
@@ -16,6 +17,7 @@ SCRAPER_TYPES: dict[str, type[ListingScraper]] = {
     "reddit_thread": RedditThreadScraper,
     "reddit_search": RedditSearchScraper,
     "subletr_listings": SubletrScraper,
+    "listings_project": ListingsProjectScraper,
     "facebook_manual": FacebookManualScraper,
 }
 

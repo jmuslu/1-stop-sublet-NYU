@@ -4,6 +4,7 @@ import html
 import json
 import os
 import re
+import time
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -58,23 +59,18 @@ class _TextExtractor(HTMLParser):
 
 class RedditThreadScraper(ListingScraper):
     def scrape(self) -> list[NormalizedListing]:
-        feed_url = self.source.config["feed_url"]
         max_items = int(self.source.config.get("max_items", 75))
-
-        try:
-            feed = self._fetch(feed_url)
-        except urllib.error.URLError as exc:
-            print(f"Warning: could not fetch {self.source.name}: {exc}")
-            return []
-
-        root = ET.fromstring(feed)
         # Search feeds have no originating thread to skip, so this is optional.
         thread_url = self.source.config.get("thread_url", "").rstrip("/")
+
+        entries = self._gather_entries(thread_url)
+        if not entries:
+            return []
+
         thread_title = self.source.config.get("thread_title", "Housing megathread")
         subreddit = self.source.config.get("subreddit", "r/nyu")
         photo_attach_window = int(self.source.config.get("photo_attach_window", 8))
 
-        entries = self._feed_entries(root, thread_url)
         photo_entries = [entry for entry in entries if entry.image_urls]
         listings: list[NormalizedListing] = []
         seen_listing_keys: set[str] = set()
@@ -146,6 +142,64 @@ class RedditThreadScraper(ListingScraper):
 
         return listings
 
+    def _feed_urls(self) -> list[str]:
+        """Every feed this source reads.
+
+        Reddit's search Atom feed returns at most 100 entries and offers no
+        pagination, so a single query is a hard ceiling on how much of a
+        subreddit we can ever see. Listing several queries (and several
+        subreddits) under one source is the only way past it.
+        """
+        urls = self.source.config.get("feed_urls")
+        if urls:
+            return list(urls)
+        single = self.source.config.get("feed_url")
+        return [single] if single else []
+
+    def _gather_entries(self, thread_url: str) -> list[RedditFeedEntry]:
+        """Fetch every feed and merge, de-duplicating posts by permalink.
+
+        One feed failing (Reddit 429s aggressively per IP) must not lose the
+        others, so each is caught individually. Entries are re-indexed across
+        the merged list to keep the photo-attachment window deterministic.
+        """
+        delay = float(self.source.config.get("request_delay_seconds", 2.0))
+        merged: list[RedditFeedEntry] = []
+        seen_links: set[str] = set()
+        urls = self._feed_urls()
+
+        for position, url in enumerate(urls):
+            if position and delay > 0:
+                time.sleep(delay)
+            try:
+                root = ET.fromstring(self._fetch(url))
+            except (urllib.error.URLError, ET.ParseError, ValueError) as exc:
+                print(f"Warning: could not fetch {self.source.name} feed {url}: {exc}")
+                continue
+            for entry in self._feed_entries(root, thread_url):
+                if entry.link in seen_links:
+                    continue
+                seen_links.add(entry.link)
+                merged.append(entry)
+
+        if not merged:
+            print(f"Warning: {self.source.name} returned no entries from {len(urls)} feed(s)")
+            return []
+
+        print(f"{self.source.name}: {len(merged)} unique posts from {len(urls)} feed(s)")
+        return [
+            RedditFeedEntry(
+                index=index,
+                link=entry.link,
+                author=entry.author,
+                date=entry.date,
+                content=entry.content,
+                image_urls=entry.image_urls,
+                title=entry.title,
+            )
+            for index, entry in enumerate(merged)
+        ]
+
     def _analysis_text(self, entry: RedditFeedEntry) -> str:
         """Text the extractors and the intent classifier read.
 
@@ -162,6 +216,14 @@ class RedditThreadScraper(ListingScraper):
         return self._classify_intent(text, has_images=bool(entry.image_urls))
 
     def _fetch(self, url: str) -> str:
+        """GET a feed, retrying on Reddit's 429s with exponential backoff.
+
+        Reddit rate-limits hard per IP and returns 429 rather than throttling,
+        so a burst of feed reads will lose most of them without a retry. Only
+        429 and 5xx are retried; anything else fails straight through.
+        """
+        attempts = int(self.source.config.get("fetch_attempts", 4))
+        backoff = float(self.source.config.get("fetch_backoff_seconds", 5.0))
         request = urllib.request.Request(
             url,
             headers={
@@ -171,8 +233,26 @@ class RedditThreadScraper(ListingScraper):
                 )
             },
         )
-        with urllib.request.urlopen(request, timeout=30) as response:
-            return response.read().decode("utf-8")
+
+        last_error: Exception | None = None
+        for attempt in range(attempts):
+            try:
+                with urllib.request.urlopen(request, timeout=30) as response:
+                    return response.read().decode("utf-8")
+            except urllib.error.HTTPError as exc:
+                last_error = exc
+                if exc.code != 429 and exc.code < 500:
+                    raise
+                if attempt == attempts - 1:
+                    break
+                time.sleep(backoff * (2**attempt))
+            except urllib.error.URLError as exc:
+                last_error = exc
+                if attempt == attempts - 1:
+                    break
+                time.sleep(backoff * (2**attempt))
+
+        raise last_error if last_error else urllib.error.URLError("fetch failed")
 
     def _feed_entries(self, root: ET.Element, thread_url: str) -> list[RedditFeedEntry]:
         entries: list[RedditFeedEntry] = []

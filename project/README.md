@@ -26,24 +26,26 @@ npm run build
 
 ### AI-assisted listing cleanup
 
-When `GEMINI_API_KEY` is set, the scraper can use Gemini for lightweight ambiguous
-Reddit classification and optional concise listing titles. The key is used only
-during the server-side build and is never included in the frontend bundle.
+Classification is deterministic rules first. Gemini is only a **fallback**: it is
+called for the posts the rules return `unclear` for (see `_classify_intent` in
+`scrapers/sources/reddit.py`), plus optional concise listing titles. Everything
+else never reaches it, so the build is fully reproducible without a key.
 
-For local builds:
+The scraper reads `GEMINI_API_KEY` from the environment. `.env` is gitignored and
+`.env.example` is the committed template:
 
 ```bash
 export GEMINI_API_KEY="your_api_key_here"
 npm run build
 ```
 
-For GitHub Pages, add `GEMINI_API_KEY` as a repository Actions secret. If the key
-is absent or the API request fails, the build keeps the deterministic scraper
-output.
+If the key is absent or the request fails, the build keeps the deterministic
+scraper output — that is the normal path, not an error. Optionally add the key as
+an Actions secret to get the same fallback in scheduled builds.
 
-Each clone or fork must supply its own API key. Never commit a real key or name it
-`VITE_GEMINI_API_KEY`: Vite exposes `VITE_` variables in the browser bundle. The
-committed `.env.example` contains only placeholders.
+Never commit a real key or name it `VITE_GEMINI_API_KEY`: Vite exposes `VITE_`
+variables in the browser bundle. The key is used only during the server-side
+build and never reaches the frontend.
 
 ## Scraper Structure
 
@@ -52,22 +54,48 @@ Scrapers live in `scrapers/`.
 - `scrapers/base.py` defines the shared `ListingScraper`, `SourceConfig`, and `NormalizedListing` contract.
 - `scrapers/sources/` is where source-specific scraper classes and JSON configs live.
 - `scrapers/registry.py` maps config `type` values to Python scraper classes.
-- `scrapers/run.py` runs enabled sources, de-duplicates by `sourceUrl`, sorts newest first, and writes the frontend JSON.
+- `scrapers/run.py` runs enabled sources, merges them into the stored listings, de-duplicates by `sourceUrl`, prunes stale entries, sorts newest first, and writes the frontend JSON.
 
 Each website can have its own config and parser without changing the React app.
 The frontend only needs the normalized JSON contract.
-
-If a source returns no listings during a scheduled run, the scraper keeps existing
-listings for that source instead of wiping good data from the static site.
 
 ### Sources
 
 | Source | Type | Status |
 | --- | --- | --- |
-| r/nyu sublet posts | `reddit_search` | **Live.** The main source. |
+| r/nyu sublet posts | `reddit_search` | Live. 6 query feeds. NYU-specific, lower volume. |
+| r/NYCapartments | `reddit_search` | Live. 4 query feeds. The high-volume NYC source. |
+| Listings Project | `listings_project` | Live. ~12 curated NYC sublets with photos and prices. |
 | Subletr | `subletr_listings` | Live, but NYC inventory is currently near zero. |
 | NYU Facebook housing group | `facebook_manual` | Live via manual export (see below). |
-| r/nyu housing megathread | `reddit_thread` | **Disabled.** Dormant since March 2024. |
+| r/nyu housing megathread | `reddit_thread` | Disabled. Dormant since March 2024. |
+
+### Accumulation and aging
+
+This is the single biggest driver of how much the site shows.
+
+Reddit's search Atom feed caps at 100 entries per query and offers no pagination,
+so any one query is a hard ceiling. Two things get past it:
+
+1. **Multiple feeds per source.** `feed_urls` lists several queries (and the
+   sources cover two subreddits), merged and de-duplicated by permalink.
+2. **Accumulation across runs.** `scrapers/run.py` unions the previously stored
+   listings with the current scrape instead of replacing them. Without this the
+   site can only ever show the current rolling window, and a listing disappears
+   the moment it scrolls out of it.
+
+Because accumulating forever would turn the feed into an archive of dead posts,
+`run.py` prunes on write: anything whose `dateListed` is older than
+`LISTING_MAX_AGE_DAYS` (default 180) is dropped, as is anything whose
+`availableTo` has already passed. On merge, a re-scraped listing refreshes every
+field except `dateListed`, which keeps the earliest value — a stable first-seen
+date, so sources that publish no post date don't reset to "today" every rebuild
+and camp at the top of the feed.
+
+Reddit rate-limits hard per IP and returns 429 rather than throttling, so
+`_fetch` retries 429/5xx with exponential backoff and feeds are spaced by
+`request_delay_seconds`. A feed that still fails is skipped without losing the
+others, and a source that returns nothing at all keeps its stored listings.
 
 #### Why the NYU sources differ from the Northeastern ones
 
@@ -88,9 +116,19 @@ Two Boston sources have no NYU equivalent and were removed:
   sits behind a NetID login, so it cannot be aggregated. The site links students
   there directly instead of pretending to mirror it.
 
-Craigslist NYC and Listings Project were both evaluated as replacements and
-rejected: Craigslist blocks unauthenticated clients outright, and Listings Project
-renders its listings client-side.
+Replacements evaluated, in place of those two:
+
+- **Listings Project** — adopted. Its NYC sublets index is server-rendered, with
+  photos, prices, and date ranges in the initial HTML.
+- **r/NYCapartments** — adopted. Not NYU-specific, so `nyuScore` ranks it below
+  r/nyu content, but it is by far the most active current source: its sublet
+  queries return ~100 posts covering only the last two weeks.
+- **Craigslist NYC** — rejected, blocks unauthenticated clients (403).
+- **Columbia's OCHA board** — rejected. It is public and has ~335 embedded
+  listings, but they are overwhelmingly Morningside Heights landlord buildings,
+  which would swamp the feed with results five miles from Washington Square.
+- **SpareRoom, Kopa, Leasebreak, sublet.com** — no usable server-rendered NYC
+  sublet index at the paths checked.
 
 #### Intent classification on standalone posts
 
