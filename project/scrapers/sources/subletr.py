@@ -16,29 +16,57 @@ _TAG_RE = re.compile(r"<[^>]+>")
 _LEAD_RE = re.compile(r'^href="[^"]*"[^>]*>\s*')
 _RESERVED_RE = re.compile(r"^Reserved\s+", re.IGNORECASE)
 
-# Greater-Boston municipalities we surface to Northeastern students. Subletr lists
-# campuses nationwide, so a listing whose city is not in this set (or whose state is
-# not MA) is dropped — this is what keeps non-Boston listings out of the feed.
-_BOSTON_CITIES = (
-    "Jamaica Plain",
-    "Charlestown",
-    "Dorchester",
-    "Somerville",
-    "Watertown",
-    "Arlington",
-    "Brookline",
-    "Cambridge",
-    "Brighton",
-    "Allston",
-    "Belmont",
-    "Medford",
-    "Malden",
-    "Everett",
+# Subletr lists campuses nationwide, so a listing whose state is not in
+# ``states`` (or whose city is not in ``cities``) is dropped — this is what keeps
+# out-of-area listings out of the feed. Both come from the source's JSON config so
+# the same scraper serves any campus; these are the NYU-area defaults.
+_DEFAULT_STATES = ("NY", "NJ")
+_DEFAULT_CITIES = (
+    # Manhattan
+    "Greenwich Village",
+    "West Village",
+    "East Village",
+    "Lower East Side",
+    "Financial District",
+    "Hell's Kitchen",
+    "Upper East Side",
+    "Upper West Side",
+    "Murray Hill",
+    "Union Square",
+    "Morningside Heights",
+    "Washington Heights",
+    "Kips Bay",
+    "Gramercy",
+    "Chinatown",
+    "Flatiron",
+    "Tribeca",
     "Chelsea",
-    "Quincy",
-    "Newton",
-    "Roxbury",
-    "Boston",
+    "Nolita",
+    "Harlem",
+    "NoHo",
+    "SoHo",
+    "Manhattan",
+    # Brooklyn
+    "Downtown Brooklyn",
+    "Bedford-Stuyvesant",
+    "Brooklyn Heights",
+    "Prospect Heights",
+    "Crown Heights",
+    "Williamsburg",
+    "Fort Greene",
+    "Greenpoint",
+    "Park Slope",
+    "Bushwick",
+    "DUMBO",
+    "Brooklyn",
+    # Queens + nearby
+    "Long Island City",
+    "Sunnyside",
+    "Astoria",
+    "Queens",
+    "Jersey City",
+    "Hoboken",
+    "New York",
 )
 
 
@@ -117,7 +145,7 @@ class SubletrScraper(ListingScraper):
 
         school, city = self._split_place(place, state)
         if city is None:
-            # Outside greater Boston (e.g., other-state campuses) — skip it.
+            # Outside the configured area (e.g., other-state campuses) — skip it.
             return None
 
         description = self._description(text)
@@ -127,7 +155,7 @@ class SubletrScraper(ListingScraper):
             title=self._trim(self._title(description, term, city), 80),
             description=self._trim(description, 280),
             price=self._price(text),
-            location=f"{city}, MA",
+            location=f"{city}, {state.upper()}",
             bedrooms=self._beds(text),
             bathrooms=self._baths(text),
             platform=self.source.name,
@@ -143,12 +171,13 @@ class SubletrScraper(ListingScraper):
     def _split_place(self, place: str, state: str) -> tuple[str | None, str | None]:
         """Split Subletr's "{School} {City}" label into (school, city).
 
-        Returns ``(None, None)`` when the listing is not in greater Boston, which is
-        the signal the caller uses to drop out-of-area listings.
+        Returns ``(None, None)`` when the listing is outside the configured area,
+        which is the signal the caller uses to drop out-of-area listings.
         """
-        if state.upper() != "MA":
+        states = self.source.config.get("states", _DEFAULT_STATES)
+        if state.upper() not in {s.upper() for s in states}:
             return None, None
-        for city in _BOSTON_CITIES:
+        for city in self.source.config.get("cities", _DEFAULT_CITIES):
             match = re.search(rf"\b{re.escape(city)}\s*$", place, re.IGNORECASE)
             if match:
                 school = place[: match.start()].strip(" ,")

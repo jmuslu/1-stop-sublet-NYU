@@ -1,6 +1,6 @@
 import { useMemo, useState, type CSSProperties } from 'react';
 import type { Listing } from '../types/listing';
-import { isNortheastern } from '../utils/northeastern';
+import { isNyu } from '../utils/nyu';
 
 // Resolve the hero photo if it has been added to src/assets. Using import.meta.glob
 // (instead of a static import) means the app still builds when the file is absent,
@@ -27,24 +27,24 @@ function Home({ listings, onBrowse }: HomeProps) {
   const stats = useMemo(() => {
     const sources = new Set(listings.map((listing) => listing.platform));
     const verified = listings.filter((listing) => listing.sourceVettedUsers).length;
-    const northeastern = listings.filter(isNortheastern).length;
+    const nyu = listings.filter(isNyu).length;
     return {
       total: listings.length,
       sources: sources.size,
       verified,
-      northeastern,
+      nyu,
     };
   }, [listings]);
 
   return (
     <main className="home">
       <section className={`hero ${heroUrl ? 'hero-photo' : ''}`} style={heroStyle}>
-        <p className="hero-eyebrow">For the Northeastern community</p>
-        <h1 className="hero-title">Every Boston-area sublet, in one place.</h1>
+        <p className="hero-eyebrow">For the NYU community</p>
+        <h1 className="hero-title">Every NYC sublet, in one place.</h1>
         <p className="hero-mission">
           1StopSublet gathers short-term sublets from across the web and ranks them for
-          Northeastern students - so you can find a safe, simple place to live without
-          checking ten different sites.
+          NYU students - so you can find a safe, simple place to live without checking
+          ten different sites.
         </p>
         <div className="hero-actions">
           <button className="btn btn-primary" onClick={onBrowse}>
@@ -65,8 +65,8 @@ function Home({ listings, onBrowse }: HomeProps) {
             <dd>sources, one feed</dd>
           </div>
           <div className="stat">
-            <dt>{stats.northeastern}</dt>
-            <dd>near Northeastern</dd>
+            <dt>{stats.nyu}</dt>
+            <dd>near NYU</dd>
           </div>
           <div className="stat">
             <dt>{stats.verified}</dt>
@@ -86,10 +86,10 @@ function Home({ listings, onBrowse }: HomeProps) {
             </p>
           </article>
           <article className="info-card">
-            <h3>We rank for NU</h3>
+            <h3>We rank for NYU</h3>
             <p>
-              Listings on or near campus and from the Northeastern community rise to the
-              top, so the most relevant options come first.
+              Listings near Washington Square or Tandon and from the NYU community rise
+              to the top, so the most relevant options come first.
             </p>
           </article>
           <article className="info-card">
@@ -112,15 +112,19 @@ function Home({ listings, onBrowse }: HomeProps) {
           <article className="info-card">
             <span className="trust-badge trust-verified">Verified student</span>
             <p>
-              From platforms that require a student account to post, like SBLT and
-              Subletr. The lister is a confirmed student.
+              From platforms that require a student account to post, like Subletr. The
+              lister is a confirmed student.
             </p>
           </article>
           <article className="info-card">
             <span className="trust-badge trust-official">Official portal</span>
             <p>
-              From Northeastern&rsquo;s own off-campus housing portal - an official
-              channel, though not peer-verified.
+              NYU&rsquo;s own off-campus housing portal sits behind a NetID login, so we
+              can&rsquo;t mirror it here.{' '}
+              <a href="https://offcampushousing.nyu.edu" target="_blank" rel="noreferrer">
+                Search it directly
+              </a>{' '}
+              with your NYU account - it is worth checking alongside this feed.
             </p>
           </article>
           <article className="info-card">
@@ -164,19 +168,19 @@ function Home({ listings, onBrowse }: HomeProps) {
             <div className="modal-actions">
               <a
                 className="btn btn-primary"
-                href="https://www.sblt.app"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Post on SBLT
-              </a>
-              <a
-                className="btn btn-secondary"
                 href="https://www.subletr.com"
                 target="_blank"
                 rel="noreferrer"
               >
                 Post on Subletr
+              </a>
+              <a
+                className="btn btn-secondary"
+                href="https://www.reddit.com/r/nyu/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Post on r/nyu
               </a>
             </div>
           </div>

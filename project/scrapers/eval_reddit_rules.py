@@ -27,14 +27,14 @@ CASES = [
             "- June 15th through August 31st (flexible with timeline) "
             "- $1,000/month, utilities included (1GB/s Fios internet) "
             "- Central AC, in-unit laundry, hardwood floors "
-            "- Super close to Brigham Circle. It's a furnished room in a 6 bed / 3 bath "
-            "house on Stockwell St in Mission Hill. DM me if you're interested?"
+            "- Two blocks from Washington Square. It's a furnished room in a 6 bed / 3 bath "
+            "apartment on Bleecker St in Greenwich Village. DM me if you're interested?"
         ),
         has_images=True,
         expected_intent="offer",
         expected_price=1000,
         expected_availability="June 15th through August 31st",
-        expected_location="Mission Hill, Boston, MA",
+        expected_location="Greenwich Village, New York, NY",
     ),
     Case(
         name="image_only_reply",
@@ -51,20 +51,20 @@ CASES = [
     ),
     Case(
         name="question_about_lease",
-        text="I applied for Lightview but the lease says 8/2025-8/2027. Does that mean I rent for an entire year?",
+        text="I applied for Broome Street but the lease says 8/2025-8/2027. Does that mean I rent for an entire year?",
         has_images=False,
         expected_intent="question",
     ),
     Case(
         name="offer_subletting_room",
-        text="Subletting a room in 3B/1B in front of Northeastern for 900$ + utilities from 8th August - 31 August.",
+        text="Subletting a room in 3B/1B right by Washington Square for 900$ + utilities from 8th August - 31 August.",
         has_images=False,
         expected_intent="offer",
         expected_price=900,
     ),
     Case(
         name="offer_take_over_lease",
-        text="My roommate and I are looking for 2 students to take over our Lightview lease July 1 to August 14 for $1600.",
+        text="My roommate and I are looking for 2 students to take over our Third North lease July 1 to August 14 for $1600.",
         has_images=True,
         expected_intent="offer",
         expected_price=1600,
@@ -75,7 +75,7 @@ CASES = [
         text=(
             "LOOKING FOR A ROOMMATE "
             "Mixed gender group looking to sign on a yearly lease. Our fourth ghosted us "
-            "but the rent is 1475. Place is 7 min away from orange line. Only requirement "
+            "but the rent is 1475. Place is 7 min away from the L train. Only requirement "
             "is to keep communal areas clean. You can invite over whoever you want but a "
             "heads up to everyone would be nice. 4 bed, 3 bath kitchen has dishwasher and "
             "in unit laundry. Would like to meet prior to signing lease. If interested "
@@ -102,7 +102,7 @@ CASES = [
     ),
     Case(
         name="non_listing_student_assumption",
-        text="Hi assuming everyone here are NEU students. Fill out this form for housing interest.",
+        text="Hi assuming everyone here are NYU students. Fill out this form for housing interest.",
         has_images=True,
         expected_intent="seeker",
     ),

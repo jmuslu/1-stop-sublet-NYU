@@ -1,0 +1,93 @@
+{
+  "type": "reddit_thread",
+  "name": "Reddit",
+  "enabled": false,
+  "vetted_users": false,
+  "config": {
+    "subreddit": "r/nyu",
+    "thread_title": "NYU Housing Megathread",
+    "thread_url": "https://www.reddit.com/r/nyu/comments/18elmin/megathread_searches_for_oncampus_or_offcampus/",
+    "feed_url": "https://www.reddit.com/r/nyu/comments/18elmin/.rss",
+    "default_location": "New York, NY",
+    "city_suffix": "New York, NY",
+    "max_items": 75,
+    "photo_attach_window": 8,
+    "strong_offer_terms": [
+      "lease takeover",
+      "my apartment",
+      "my bedroom",
+      "my room",
+      "our apartment",
+      "someone to sublet my",
+      "subletting my",
+      "take over my"
+    ],
+    "offer_terms": [
+      "room available",
+      "sublease available",
+      "subleasing",
+      "sublet available",
+      "subletting",
+      "vacancy in",
+      "we have"
+    ],
+    "seeker_terms": [
+      "am looking to rent",
+      "does anyone",
+      "hoping to stay near",
+      "i am looking for",
+      "i'm looking for",
+      "im looking for",
+      "in search of",
+      "iso",
+      "looking for a place",
+      "looking for a sublet",
+      "looking for housing",
+      "looking to sublease",
+      "need a place",
+      "searching for",
+      "will be interning"
+    ],
+    "question_terms": [
+      "does that mean",
+      "what if",
+      "wondering if"
+    ],
+    "include_terms": [
+      "apartment",
+      "bedroom",
+      "housing",
+      "lease",
+      "rent",
+      "room",
+      "roommate",
+      "sublet"
+    ],
+    "exclude_terms": [
+      "bed for bed",
+      "dorm room change",
+      "looking for housing"
+    ],
+    "location_terms": [
+      "Greenwich Village",
+      "West Village",
+      "East Village",
+      "Lower East Side",
+      "Financial District",
+      "Hell's Kitchen",
+      "Downtown Brooklyn",
+      "Union Square",
+      "Williamsburg",
+      "Murray Hill",
+      "Gramercy",
+      "Kips Bay",
+      "Chinatown",
+      "Tribeca",
+      "Chelsea",
+      "Harlem",
+      "Nolita",
+      "NoHo",
+      "SoHo"
+    ]
+  }
+}

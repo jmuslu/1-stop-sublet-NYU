@@ -11,13 +11,13 @@
   --bg: #ffffff;
   --bg-secondary: #f7f8fa;
   --border: #e6e8ec;
-  /* Northeastern-community red. --accent is the readable TEXT/link/border color;
+  /* NYU-community violet. --accent is the readable TEXT/link/border color;
      --accent-strong is the solid FILL color (white text on it passes AA). */
-  --accent: #c8102e;
-  --accent-strong: #c8102e;
-  --accent-hover: #a60d26;
+  --accent: #57068c;
+  --accent-strong: #57068c;
+  --accent-hover: #440570;
   --accent-contrast: #ffffff;
-  --accent-light: #fdecef;
+  --accent-light: #f4ecfa;
   /* Keyboard focus ring - resolves per-theme because --accent changes. */
   --focus-ring: color-mix(in srgb, var(--accent) 50%, transparent);
   /* Semantic trust colors (distinct from brand red), AA on their own tints. */
@@ -35,8 +35,8 @@
   --section-dark-bg-2: #1d2228;
   --section-dark-text: #f1f3f5;
   --section-dark-muted: #b2b8c0;
-  /* Lighter red that meets contrast on the dark fills. */
-  --accent-on-dark: #ff8089;
+  /* Lighter violet that meets contrast on the dark fills. */
+  --accent-on-dark: #c9a2ea;
 }
 
 html {
@@ -789,7 +789,7 @@ body {
   text-align: center;
   padding: 72px 24px 84px;
   margin-top: 48px;
-  background: linear-gradient(135deg, var(--accent-strong) 0%, #8f0b20 100%);
+  background: linear-gradient(135deg, var(--accent-strong) 0%, #33044f 100%);
   color: #ffffff;
 }
 

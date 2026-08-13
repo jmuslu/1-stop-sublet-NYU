@@ -5,9 +5,8 @@ from pathlib import Path
 
 from scrapers.base import ListingScraper, SourceConfig
 from scrapers.sources.facebook_manual import FacebookManualScraper
-from scrapers.sources.neu_aptsearch import NeuAptSearchScraper
 from scrapers.sources.reddit import RedditThreadScraper
-from scrapers.sources.sblt import SbltScraper
+from scrapers.sources.reddit_search import RedditSearchScraper
 from scrapers.sources.subletr import SubletrScraper
 
 ROOT = Path(__file__).resolve().parent
@@ -15,9 +14,8 @@ SOURCES_DIR = ROOT / "sources"
 
 SCRAPER_TYPES: dict[str, type[ListingScraper]] = {
     "reddit_thread": RedditThreadScraper,
-    "sblt_supabase": SbltScraper,
+    "reddit_search": RedditSearchScraper,
     "subletr_listings": SubletrScraper,
-    "neu_aptsearch": NeuAptSearchScraper,
     "facebook_manual": FacebookManualScraper,
 }
 

@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import type { Listing } from '../types/listing';
-import { groupByNeighborhood, NORTHEASTERN, TRANSIT_STOPS } from '../utils/geo';
+import { groupByNeighborhood, CAMPUSES, MAP_CENTER, TRANSIT_STOPS } from '../utils/geo';
 
 interface MapViewProps {
   listings: Listing[];
@@ -25,14 +25,15 @@ function neighborhoodIcon(label: string, count: number): L.DivIcon {
 
 const campusIcon = L.divIcon({
   className: '',
-  html: '<span class="map-campus">NU</span>',
+  html: '<span class="map-campus">NYU</span>',
   iconSize: [0, 0],
   iconAnchor: [0, 0],
 });
 
+// NYC subway roundel rather than the MBTA "T".
 const transitIcon = L.divIcon({
   className: '',
-  html: '<span class="map-transit">T</span>',
+  html: '<span class="map-transit">M</span>',
   iconSize: [0, 0],
   iconAnchor: [0, 0],
 });
@@ -49,8 +50,8 @@ function MapView({ listings }: MapViewProps) {
       </div>
 
       <MapContainer
-        center={NORTHEASTERN.coords}
-        zoom={13}
+        center={MAP_CENTER}
+        zoom={12}
         scrollWheelZoom={false}
         className="map-container"
       >
@@ -59,11 +60,13 @@ function MapView({ listings }: MapViewProps) {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
 
-        <Marker position={NORTHEASTERN.coords} icon={campusIcon}>
-          <Popup>
-            <strong>{NORTHEASTERN.name}</strong>
-          </Popup>
-        </Marker>
+        {CAMPUSES.map((campus) => (
+          <Marker key={campus.name} position={campus.coords} icon={campusIcon}>
+            <Popup>
+              <strong>{campus.name}</strong>
+            </Popup>
+          </Marker>
+        ))}
 
         {TRANSIT_STOPS.map((stop) => (
           <Marker key={stop.name} position={stop.coords} icon={transitIcon}>
@@ -115,10 +118,10 @@ function MapView({ listings }: MapViewProps) {
 
       <div className="map-legend" aria-hidden="true">
         <span>
-          <i className="legend-dot legend-campus">NU</i> Campus
+          <i className="legend-dot legend-campus">NYU</i> Campus
         </span>
         <span>
-          <i className="legend-dot legend-transit">T</i> Transit
+          <i className="legend-dot legend-transit">M</i> Subway
         </span>
         <span>
           <i className="legend-dot legend-nu" /> Sublets by neighborhood

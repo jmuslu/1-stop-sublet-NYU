@@ -7,7 +7,7 @@ import FilterBar from './components/FilterBar';
 import SearchBar from './components/SearchBar';
 import ListingGrid from './components/ListingGrid';
 import MapView from './components/MapView';
-import { northeasternScore } from './utils/northeastern';
+import { nyuScore } from './utils/nyu';
 import { matchesSearch } from './utils/search';
 import { locationFilterValue } from './utils/geo';
 import './App.css';
@@ -53,9 +53,9 @@ function App() {
     }
 
     result.sort((a, b) => {
-      // Northeastern listings/asks rank first, other Boston schools last; the
-      // chosen sort then orders listings within each relevance tier.
-      const relevance = northeasternScore(b) - northeasternScore(a);
+      // NYU listings/asks rank first, other NYC schools last; the chosen sort
+      // then orders listings within each relevance tier.
+      const relevance = nyuScore(b) - nyuScore(a);
       if (relevance !== 0) {
         return relevance;
       }
@@ -131,7 +131,7 @@ function App() {
         </main>
       )}
       <footer className="footer">
-        <p>1StopSublet - your centralized sublet marketplace for the Northeastern community</p>
+        <p>1StopSublet - your centralized sublet marketplace for the NYU community</p>
       </footer>
     </div>
   );

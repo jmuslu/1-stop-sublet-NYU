@@ -44,9 +44,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Install scraper dependencies
-        run: python -m pip install curl_cffi
-
       - name: Build
         run: npm run build
         env:

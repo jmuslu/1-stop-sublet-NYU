@@ -28,6 +28,9 @@ class RedditFeedEntry:
     date: str
     content: str
     image_urls: list[str]
+    # Post title. Empty for megathread comments (they have none); set for
+    # standalone posts, where the title carries most of the intent signal.
+    title: str = ""
 
 
 class _TextExtractor(HTMLParser):
@@ -65,9 +68,10 @@ class RedditThreadScraper(ListingScraper):
             return []
 
         root = ET.fromstring(feed)
-        thread_url = self.source.config["thread_url"].rstrip("/")
+        # Search feeds have no originating thread to skip, so this is optional.
+        thread_url = self.source.config.get("thread_url", "").rstrip("/")
         thread_title = self.source.config.get("thread_title", "Housing megathread")
-        subreddit = self.source.config.get("subreddit", "r/NEU")
+        subreddit = self.source.config.get("subreddit", "r/nyu")
         photo_attach_window = int(self.source.config.get("photo_attach_window", 8))
 
         entries = self._feed_entries(root, thread_url)
@@ -77,25 +81,28 @@ class RedditThreadScraper(ListingScraper):
         seen_listing_slots: set[str] = set()
         seen_author_fingerprints: dict[str, list[set[str]]] = {}
         for entry in entries:
-            intent = self._classify_intent(entry.content, has_images=bool(entry.image_urls))
+            # Everything is read off _analysis_text so a subclass can fold the post
+            # title in; the description below stays the untouched body text.
+            text = self._analysis_text(entry)
+            intent = self._entry_intent(entry, text)
             if intent != "offer":
                 continue
 
-            price = self._extract_price(entry.content)
-            location = self._extract_location(entry.content)
-            bedrooms = self._extract_bedrooms(entry.content)
-            bathrooms = self._extract_bathrooms(entry.content)
-            title = self._build_title(entry.content, price, location, entry.author)
-            amenities = self._extract_amenities(entry.content, subreddit, thread_title)
+            price = self._extract_price(text)
+            location = self._extract_location(text)
+            bedrooms = self._extract_bedrooms(text)
+            bathrooms = self._extract_bathrooms(text)
+            title = self._entry_title(entry, price, location)
+            amenities = self._extract_amenities(text, subreddit, thread_title)
             attached_images = self._images_for_entry(entry, photo_entries, photo_attach_window)
-            availability = self._extract_availability(entry.content)
+            availability = self._extract_availability(text)
             listing_key = self._listing_key(entry.author, title)
             if listing_key in seen_listing_keys:
                 continue
             slot_key = self._listing_slot_key(entry.author, price, location, availability["label"])
             if slot_key and slot_key in seen_listing_slots:
                 continue
-            fingerprint = self._listing_fingerprint(entry.content)
+            fingerprint = self._listing_fingerprint(text)
             if self._is_near_duplicate(entry.author, fingerprint, seen_author_fingerprints):
                 continue
             seen_listing_keys.add(listing_key)
@@ -127,10 +134,10 @@ class RedditThreadScraper(ListingScraper):
                     availableTo=availability["to"],
                     termTags=availability["tags"],
                     amenities=amenities,
-                    roommatesTotal=self._extract_roommates(entry.content),
-                    parking=self._extract_parking(entry.content),
-                    extraCosts=self._extract_extra_costs(entry.content),
-                    utilitiesNotes=self._extract_utilities(entry.content),
+                    roommatesTotal=self._extract_roommates(text),
+                    parking=self._extract_parking(text),
+                    extraCosts=self._extract_extra_costs(text),
+                    utilitiesNotes=self._extract_utilities(text),
                 )
             )
 
@@ -138,6 +145,21 @@ class RedditThreadScraper(ListingScraper):
                 break
 
         return listings
+
+    def _analysis_text(self, entry: RedditFeedEntry) -> str:
+        """Text the extractors and the intent classifier read.
+
+        Megathread comments have no title, so this is just the body. The search
+        scraper folds the post title in, because for a standalone post the title
+        is where "subletting my room" vs "looking for a room" actually lives.
+        """
+        return entry.content
+
+    def _entry_title(self, entry: RedditFeedEntry, price: int | None, location: str) -> str:
+        return self._build_title(entry.content, price, location, entry.author)
+
+    def _entry_intent(self, entry: RedditFeedEntry, text: str) -> str:
+        return self._classify_intent(text, has_images=bool(entry.image_urls))
 
     def _fetch(self, url: str) -> str:
         request = urllib.request.Request(
@@ -167,9 +189,14 @@ class RedditThreadScraper(ListingScraper):
                     date=self._entry_date(entry),
                     content=content,
                     image_urls=image_urls,
+                    title=self._entry_feed_title(entry),
                 )
             )
         return entries
+
+    def _entry_feed_title(self, entry: ET.Element) -> str:
+        node = entry.find("atom:title", ATOM_NS)
+        return html.unescape(node.text).strip() if node is not None and node.text else ""
 
     def _images_for_entry(
         self,
@@ -411,11 +438,21 @@ class RedditThreadScraper(ListingScraper):
         plausible = [price for price in prices if 400 <= price <= 6000]
         return plausible[0] if plausible else None
 
+    def _default_location(self) -> str:
+        return self.source.config.get("default_location", "New York, NY")
+
+    def _city_suffix(self) -> str:
+        """City/state appended to a matched neighborhood, e.g. "New York, NY"."""
+        return self.source.config.get("city_suffix", self._default_location())
+
     def _extract_location(self, text: str) -> str:
+        # Some matched neighborhoods sit outside the default city/state - Jersey
+        # City is "Jersey City, NJ", not "Jersey City, New York, NY".
+        overrides = self.source.config.get("location_suffix_overrides", {})
         for location in self.source.config.get("location_terms", []):
             if re.search(rf"\b{re.escape(location)}\b", text, re.IGNORECASE):
-                return f"{location}, Boston, MA"
-        return self.source.config.get("default_location", "Boston, MA")
+                return f"{location}, {overrides.get(location, self._city_suffix())}"
+        return self._default_location()
 
     def _extract_bedrooms(self, text: str) -> int:
         patterns = [
@@ -530,12 +567,14 @@ class RedditThreadScraper(ListingScraper):
         return amenities[:6]
 
     def _build_title(self, text: str, price: int | None, location: str, author: str | None) -> str:
-        if price and location != self.source.config.get("default_location", "Boston, MA"):
-            return f"${price:,} housing lead near {location.replace(', Boston, MA', '')}"
+        if price and location != self._default_location():
+            neighborhood = location.replace(f", {self._city_suffix()}", "")
+            return f"${price:,} housing lead near {neighborhood}"
         title = self._best_title_sentence(text)
         if title:
             return title
-        return f"Reddit housing lead from {author or 'r/NEU'}"
+        subreddit = self.source.config.get("subreddit", "Reddit")
+        return f"Reddit housing lead from {author or subreddit}"
 
     def _best_title_sentence(self, text: str) -> str:
         generic = {
