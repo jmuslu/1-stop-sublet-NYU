@@ -52,6 +52,79 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-27m_looking_for_a_roommate_to_take_over_a_room",
+    "title": "27M, looking for a roommate to take over a room near Central Park -- Nov 1 move...",
+    "description": "Hey all- my roommate's moving out and I'm looking for someone to take over his room in my 2BR/2BA on Central Park South and 6th. It's a full-service doorman building right across from Central Park, high floor, really nice apartment. A little about me: I'm 27, work in real estate...",
+    "price": 3145,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-14",
+    "imageUrl": "https://preview.redd.it/iiosdk20o8jh1.jpg?width=140&height=105&auto=webp&s=cf18f660c748a3690e8eb367b5cbcd65078c91e3",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vnsuzq/27m_looking_for_a_roommate_to_take_over_a_room/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/WillMNYC",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/iiosdk20o8jh1.jpg?width=140&height=105&auto=webp&s=cf18f660c748a3690e8eb367b5cbcd65078c91e3"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Near campus",
+      "Sublet",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_studio_at_park_ave_murray_hill",
+    "title": "Lease Takeover \u2013 Studio at Park Ave Murray hill with a lot of space.",
+    "description": "Lease takeover available for a beautiful, fully furnished studio in Murray Hill. The apartment features a spacious layout, large windows with plenty of natural light, a full kitchen with stainless steel appliances, hardwood floors, and a clean, modern feel. Conveniently located...",
+    "price": 3150,
+    "location": "Murray Hill, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-14",
+    "imageUrl": "https://preview.redd.it/8rg2bwbw3ajh1.jpg?width=140&height=78&auto=webp&s=d161f59d1874d2e6bb67a7b562e5d7b2a8b7f713",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vnyozc/lease_takeover_studio_at_park_ave_murray_hill/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Sanette_Ralph3020",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/8rg2bwbw3ajh1.jpg?width=140&height=78&auto=webp&s=d161f59d1874d2e6bb67a7b562e5d7b2a8b7f713"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-dfefd8ddbe48",
     "title": "Sun-Soaked Townhouse Apartment w/ Outdoor Space",
     "description": "Enjoy a stylish Brooklyn stay in a bright, south-facing apartment on the border of Bed-Stuy and Clinton Hill. The space opens into a large living and dining area designed for relaxing, working, and entertaining. The chef\u2019s kitchen is fully stocked and ready for real...",
@@ -552,6 +625,72 @@
     "extraCosts": [
       "Fees mentioned"
     ]
+  },
+  {
+    "id": "reddit-opinions_on_flatbush_in_brooklyn",
+    "title": "Opinions on Flatbush in Brooklyn",
+    "description": "I\u2019m currently considering a lease takeover in Flatbush on Beverly Road. The financials are good and the apartment is nice, but I\u2019m not used to such a quiet part of Brooklyn and it doesn\u2019t seem like there\u2019s much to do. I\u2019m a homebody, but I want to be able to walk to a deli or to...",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-13",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vnr7wj/opinions_on_flatbush_in_brooklyn/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Firm_Trash_2955",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_studio_in_midtown_mid_augsept",
+    "title": "Lease takeover studio in Midtown - Mid Aug/Sept Start, 3.7k",
+    "description": "Fully renovated studio available in a central Midtown location in Herald Square, including walk in closet, renovated kitchen and bathroom with rainfall shower. Flexible with start date, Ideally mid August - Sept \ud83d\udccd 50 W 34th St., New York, NY 10001 (Herald Towers) 3750 + wifi and...",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-13",
+    "imageUrl": "https://preview.redd.it/7qnbtewdu6jh1.jpg?width=140&height=105&auto=webp&s=62ca2043b5889c5dc516a0f318fbbe37f059813a",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vnjl6b/lease_takeover_studio_in_midtown_mid_augsept/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/CheesyWalnut",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/7qnbtewdu6jh1.jpg?width=140&height=105&auto=webp&s=62ca2043b5889c5dc516a0f318fbbe37f059813a"
+    ],
+    "availabilityLabel": "August - Sept",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [
+      "Fall"
+    ],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": []
   },
   {
     "id": "reddit-2400month_ridgewood_1br1ba_12month_sublet",
