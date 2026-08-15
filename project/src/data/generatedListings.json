@@ -63,6 +63,41 @@
     ]
   },
   {
+    "id": "reddit-lease_takeover_1520mins_from_manhattan",
+    "title": "Lease Takeover 15/20mins from Manhattan",
+    "description": "Hello I\u2019m looking for someone to take over my lease by November 2026 and wanted to share it here first before it goes wider. It\u2019s a ground-floor 1-bed/1-bath in a 4-story brownstone at 216 5th St, right in the heart of downtown JC. About 900 sqft and it comes with private access...",
+    "price": 2750,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-15",
+    "imageUrl": "https://preview.redd.it/5z4jdp1zhhjh1.jpeg?width=640&crop=smart&auto=webp&s=e491fd7f7ef035566eb34d244afbf0b36dd256d0",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vovhud/lease_takeover_1520mins_from_manhattan/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/east2west1988",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/5z4jdp1zhhjh1.jpeg?width=640&crop=smart&auto=webp&s=e491fd7f7ef035566eb34d244afbf0b36dd256d0",
+      "https://i.redd.it/5z4jdp1zhhjh1.jpeg"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-12a2498a902e",
     "title": "Cozy Studio in Prospect Heights",
     "description": "My comfortable, cozy 3-room studio is tucked away on the perfect tree-lined block in Prospect Heights. It is steps to grocery stores and great bagels/cafes/restaurants on Vanderbilt & Washington Aves as well as minutes to Prospect Park and several subway lines. This...",
