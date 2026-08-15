@@ -1,5 +1,68 @@
 [
   {
+    "id": "listingsproject-sublease",
+    "title": "Spacious East Harlem Studio Available for Sublease",
+    "description": "Hello, I'm relocating temporarily for work and am looking for someone to sublease my apartment while I'm gone. About the space: Large studio (540 ft\u00b2) on the 5th floor of a 12 floor building Two sizeable closets A/C unit Balcony with floor-to-ceiling windows Dark...",
+    "price": 2102,
+    "location": "East Harlem, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-08-15",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/mAwhFvEsjbm9vmsf8b7aHw/JTv7kt-closet%201.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/spacious-east-harlem-studio-available-for-sublease",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-10-01 to 2027-05-31",
+    "availableFrom": "2026-10-01",
+    "availableTo": "2027-05-31",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-large_sunny_bedroom_in_brooklyn_fully_furnished",
+    "title": "\u2600\ufe0f Large Sunny Bedroom in Brooklyn | Fully Furnished | September Sublet | $1300",
+    "description": "Hi everyone! I\u2019m subletting my extra-large, fully furnished bedroom in Brooklyn through the month of September , with some flexibility on the dates. The room is spacious, bright, and set up to feel like a real home. It comes fully furnished with: \ud83d\udecf\ufe0f Luxury queen-size mattress \ud83d\udecb\ufe0f...",
+    "price": 1300,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-15",
+    "imageUrl": "https://preview.redd.it/2ne3yg0hyfjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b18e6880011b267ed0f2a86409561964e6d79421",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vopi7r/large_sunny_bedroom_in_brooklyn_fully_furnished/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/alip23",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/2ne3yg0hyfjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b18e6880011b267ed0f2a86409561964e6d79421"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-12a2498a902e",
     "title": "Cozy Studio in Prospect Heights",
     "description": "My comfortable, cozy 3-room studio is tucked away on the perfect tree-lined block in Prospect Heights. It is steps to grocery stores and great bagels/cafes/restaurants on Vanderbilt & Washington Aves as well as minutes to Prospect Park and several subway lines. This...",
@@ -270,6 +333,40 @@
       "r/NYCapartments",
       "Furnished",
       "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-can_i_cancel_my_nyu_meal_plan_as_a_spring_2026",
+    "title": "Can I cancel my NYU meal plan as a Spring 2026 student living in Second Street",
+    "description": "Hi everyone, I\u2019m an NYU Tandon undergraduate who started in Spring 2026 . I completed Spring 2026 and Summer 2026, and I\u2019m now starting Fall 2026 under a new 2026\u201327 housing contract . I currently live in Second Street , in an Efficient Double Studio . My room has a kitchen, sin...",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-14",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/nyu/comments/1voki6o/can_i_cancel_my_nyu_meal_plan_as_a_spring_2026/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/nyu",
+    "sourceThreadTitle": "r/nyu housing posts",
+    "sourceAuthor": "/u/Icy-Goal-195",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "Summer, Fall, Spring",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [
+      "Summer",
+      "Fall",
+      "Spring"
+    ],
+    "amenities": [
+      "Reddit",
+      "r/nyu",
       "Housing megathread"
     ],
     "extraCosts": []
