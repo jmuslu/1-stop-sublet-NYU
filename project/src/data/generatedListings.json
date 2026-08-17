@@ -26,6 +26,40 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-lease_takeover_inwood_2br2ba_3950_new_build",
+    "title": "Inwood 2BR/2BA \u2013 $3,950 \u2013 New Build + In-Unit W/D \u2013 Sept 16",
+    "description": "$3,950/month | 2BR / 2 full baths | Inwood Looking for someone to take over our lease starting around September 15 (move-in date can potentially be flexible). Lease runs through June 30, 2027 . We\u2019ve really enjoyed the apartment and building \u2014 we\u2019re only leaving because we were...",
+    "price": 3950,
+    "location": "Inwood, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-16",
+    "imageUrl": "https://preview.redd.it/7h8ssgg56sjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=747223d79d3427503f4b46f09ad365bbc02d6a8d",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vq4p81/lease_takeover_inwood_2br2ba_3950_new_build/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/DrMaybeYesNo",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/7h8ssgg56sjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=747223d79d3427503f4b46f09ad365bbc02d6a8d"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-sublease",
     "title": "Spacious East Harlem Studio Available for Sublease",
     "description": "Hello, I'm relocating temporarily for work and am looking for someone to sublease my apartment while I'm gone. About the space: Large studio (540 ft\u00b2) on the 5th floor of a 12 floor building Two sizeable closets A/C unit Balcony with floor-to-ceiling windows Dark...",
