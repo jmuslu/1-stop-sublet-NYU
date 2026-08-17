@@ -60,6 +60,40 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-lease_takeover_greenpoint_1br1ba_4401_gorgeous",
+    "title": "Greenpoint 1BR/1BA - $4,401 - Gorgeous Skyline Views + In Unit W/D - 10/1 Start",
+    "description": "Serene 1-bed apartment located on a quiet, tree-lined street in the vibrant community of Greenpoint. Sweeping views of the Manhattan skyline, the East River and Queens. Eagle + West is pet friendly and overlooks a dog park. 12-month lease takeover at 227 West St, Brooklyn, NY 11...",
+    "price": 4401,
+    "location": "Greenpoint, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-16",
+    "imageUrl": "https://preview.redd.it/o3ykhmclrsjh1.jpg?width=140&height=105&auto=webp&s=86747643869e219298564b37e8f093a1465a9bb0",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vq7to0/lease_takeover_greenpoint_1br1ba_4401_gorgeous/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/jnathaniel1206",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/o3ykhmclrsjh1.jpg?width=140&height=105&auto=webp&s=86747643869e219298564b37e8f093a1465a9bb0"
+    ],
+    "availabilityLabel": "Fall",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [
+      "Fall"
+    ],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-sublease",
     "title": "Spacious East Harlem Studio Available for Sublease",
     "description": "Hello, I'm relocating temporarily for work and am looking for someone to sublease my apartment while I'm gone. About the space: Large studio (540 ft\u00b2) on the 5th floor of a 12 floor building Two sizeable closets A/C unit Balcony with floor-to-ceiling windows Dark...",
