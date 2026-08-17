@@ -1,5 +1,43 @@
 [
   {
+    "id": "reddit-subletting_my_1_bedroom_railroad_apartment",
+    "title": "Subletting my 1 Bedroom Railroad apartment Bushwick, Brooklyn near Myrtle-Wycko...",
+    "description": "Subletting my 1 Bedroom Railroad apartment Bushwick, Brooklyn near Myrtle-Wyckoff Sep 1 2026 through Nov 1 2026, dates flexible $1,766/month rent. Security deposit of one month\u2019s rent, refunded Nov 1st. I\u2019ll cover all utilities. Apartment comes furnished and has AC (wasn\u2019t insta...",
+    "price": 1766,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-17",
+    "imageUrl": "https://preview.redd.it/smoteplrjxjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=02201b97007b40f41a0e10268459bc34ac81a284",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vqr4ka/subletting_my_1_bedroom_railroad_apartment/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/LSGG100",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/smoteplrjxjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=02201b97007b40f41a0e10268459bc34ac81a284"
+    ],
+    "availabilityLabel": "Nov 1 - Sep 1",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "I\u2019ll cover all utilities."
+  },
+  {
     "id": "listingsproject-york",
     "title": "Autumn in New York",
     "description": "Classic pre-war 1bdrm on the top floor of an elevator building that's home to a novelist/journalist. Absurd amount of light. Super clean, eclectically mid-century, great vibes. Amenities galore! Big TV with lots of streaming goodies. Dishwasher. Big kitchen, big dining...",
