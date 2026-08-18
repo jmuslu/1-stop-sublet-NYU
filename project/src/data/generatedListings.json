@@ -1,5 +1,69 @@
 [
   {
+    "id": "listingsproject-6cd04a08b695",
+    "title": "Big, New, Bright, Beachfront 3 bedroom in Rockaway Park",
+    "description": "Welcome to your peaceful, partially furnished home \u2014 just steps from the beach in Rockaway Park, Queens. Located on the second floor of a family home, this spacious live/work space offers a partial ocean view, abundant natural light, and the salty breeze of the Atlantic....",
+    "price": 3350,
+    "location": "New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-08-18",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/iQmSMLXhZC05XBqnQAvWrQ/mxpmyb-_ON_4816.jpg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/big-new-bright-beachfront-3-bedroom-in-rockaway-park-df9f43e4-42c7-4a9d-bc3b-6cd04a08b695",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-10-01 to 2027-05-31",
+    "availableFrom": "2026-10-01",
+    "availableTo": "2027-05-31",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_full_basement_in_3b_15_bath",
+    "title": "Lease Takeover | FULL Basement in 3B 1.5 Bath BUSHWICK Apt w/ PRIVATE 0.5 BATH,...",
+    "description": "Hello! We're looking for a roommate to join our lease starting September 1 in Bushwick. (Sublet one month and re-sign with us for October 1st) The apartment is a duplex occupied by two long-term tenants (both two men in our late 20s, one working in design and the other in hospit...",
+    "price": 1250,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "platform": "Reddit",
+    "dateListed": "2026-08-18",
+    "imageUrl": "https://preview.redd.it/p4p8hxv3z0kh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=76a8c4c1eff3df02aa31422ee7d97d5f118e44a1",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vr9h6c/lease_takeover_full_basement_in_3b_15_bath/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Razrz",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/p4p8hxv3z0kh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=76a8c4c1eff3df02aa31422ee7d97d5f118e44a1"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Lease Takeover | FULL Basement in 3B 1.5 Bath BUSHWICK Apt w/ PRIVATE 0.5 BATH, Backyard, Laundry in building | $1,250/month + Utilities +..."
+  },
+  {
     "id": "reddit-subletting_my_1_bedroom_railroad_apartment",
     "title": "Subletting my 1 Bedroom Railroad apartment Bushwick, Brooklyn near Myrtle-Wycko...",
     "description": "Subletting my 1 Bedroom Railroad apartment Bushwick, Brooklyn near Myrtle-Wyckoff Sep 1 2026 through Nov 1 2026, dates flexible $1,766/month rent. Security deposit of one month\u2019s rent, refunded Nov 1st. I\u2019ll cover all utilities. Apartment comes furnished and has AC (wasn\u2019t insta...",
@@ -36,6 +100,43 @@
       "Utilities mentioned"
     ],
     "utilitiesNotes": "I\u2019ll cover all utilities."
+  },
+  {
+    "id": "reddit-lease_takeover_large_bright_hamilton_heights_1br",
+    "title": "Large, bright Hamilton Heights 1BR | Sept 1\u2013June 30 | $4,000/month",
+    "description": "Bright 706 sq ft one-bedroom on W 150th Street between Amsterdam and St Nicholas. The apartment has a large open living area, lots of natural light, 11'3\" ceilings, and a quiet courtyard-facing bedroom. Available September 1, 2026 through June 30, 2027 for $4,000/month (negotiab...",
+    "price": 4000,
+    "location": "Hamilton Heights, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-17",
+    "imageUrl": "https://preview.redd.it/umzohx6r60kh1.jpg?width=140&height=105&auto=webp&s=3101a63f8aba093a7d87c1e480154cbd4bdc3f58",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vr5i7n/lease_takeover_large_bright_hamilton_heights_1br/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/conundrumer",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/umzohx6r60kh1.jpg?width=140&height=105&auto=webp&s=3101a63f8aba093a7d87c1e480154cbd4bdc3f58"
+    ],
+    "availabilityLabel": "Sept 1\u2013June 30",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Available September 1, 2026 through June 30, 2027 for $4,000/month (negotiable) plus utilities."
   },
   {
     "id": "listingsproject-york",
