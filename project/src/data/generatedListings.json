@@ -26,6 +26,81 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-short_term_sublet_in_south_slope_1_bedroom",
+    "title": "Short term sublet in south slope, 1 Bedroom",
+    "description": "Subletting a 1 furnished room in a fully furnished 2 bedroom apartment in south slope. Price will be 700dollars flat. Looking to find someone asap. You will be staying with a very nice roommate as well who will keep to their space. Dates will be end of end of August to September...",
+    "price": null,
+    "location": "Downtown Brooklyn, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-19",
+    "imageUrl": "https://preview.redd.it/9rkdg4h6g8kh1.jpg?width=140&height=105&auto=webp&s=f100458ed56e0a0460e27136ea77e9ebe9853cbf",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vs821y/short_term_sublet_in_south_slope_1_bedroom/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Imaginary_Attempt456",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/9rkdg4h6g8kh1.jpg?width=140&height=105&auto=webp&s=f100458ed56e0a0460e27136ea77e9ebe9853cbf"
+    ],
+    "availabilityLabel": "August to September",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_greenpoint_36thfloor_corner_1br",
+    "title": "Greenpoint 36th-Floor Corner 1BR \u2013 $5,625 \u2013 Sept/Oct Move-In \u2013 No Broker Fee",
+    "description": "Hi everyone \u2014 I\u2019m looking for someone to take over my lease at The Dupont (16 Dupont St, Greenpoint) because I need to leave the U.S. due to a visa status change. This is an official lease assignment through building management , not a sublet. Details: 36th-floor corner 1BR / 1B...",
+    "price": 5625,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-19",
+    "imageUrl": "https://preview.redd.it/0q3ikl28f8kh1.jpeg?width=640&crop=smart&auto=webp&s=0f0b4c472926edda22dbd9d9ce66d75ae75e75fd",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vs7xll/lease_takeover_greenpoint_36thfloor_corner_1br/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/BicycleBusiness5041",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/0q3ikl28f8kh1.jpeg?width=640&crop=smart&auto=webp&s=0f0b4c472926edda22dbd9d9ce66d75ae75e75fd",
+      "https://i.redd.it/0q3ikl28f8kh1.jpeg"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-6cd04a08b695",
     "title": "Big, New, Bright, Beachfront 3 bedroom in Rockaway Park",
     "description": "Welcome to your peaceful, partially furnished home \u2014 just steps from the beach in Rockaway Park, Queens. Located on the second floor of a family home, this spacious live/work space offers a partial ocean view, abundant natural light, and the salty breeze of the Atlantic....",
@@ -226,6 +301,81 @@
       "Housing megathread"
     ],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_467_sq_ft_50thfloor_lic_studio",
+    "title": "467 sq ft 50th-Floor LIC Studio, $4,150, Flexible Sept 1 Move-In, No Fee",
+    "description": "Hi! I\u2019m relocating to Japan and looking for a qualified renter to take over the remainder of my lease at Gotham Point North, 1-15 57th Avenue, Long Island City, NY 11101. This is a landlord-approved lease assignment. The replacement tenant completes Gotham\u2019s application and appr...",
+    "price": 4150,
+    "location": "Long Island City, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-18",
+    "imageUrl": "https://preview.redd.it/6ha6fr9b77kh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=6e2611cab8667a30a0959ea48f5375403e144531",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vs1zok/lease_takeover_467_sq_ft_50thfloor_lic_studio/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/leoyagami26",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/6ha6fr9b77kh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=6e2611cab8667a30a0959ea48f5375403e144531"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_greenpoint_brooklyn_1233month_oct_1",
+    "title": "Lease Takeover \u2013 Greenpoint, Brooklyn \u2013 $1,233/month \u2013 Oct. 1",
+    "description": "Looking for third roommate to join our lease in Greenpoint! Hi! My roommate, myself, and our well-behaved cat are looking for someone interested in joining for onto the lease for our second year at our three bedroom in Greenpoint, Brooklyn! Looking for one person to take the roo...",
+    "price": 1233,
+    "location": "Greenpoint, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-18",
+    "imageUrl": "https://preview.redd.it/xng8wet117kh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2dc7eca1e0f9293b0e1f9150230ffdbfd280f02b",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vs11nh/lease_takeover_greenpoint_brooklyn_1233month_oct_1/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/NotHarlan",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/xng8wet117kh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2dc7eca1e0f9293b0e1f9150230ffdbfd280f02b"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Near campus",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Rent is $1233/month ($3700 split 3 ways) Utilities typically work out to be between $50 and $100 a person depending on the month."
   },
   {
     "id": "reddit-subletting_my_1_bedroom_railroad_apartment",
