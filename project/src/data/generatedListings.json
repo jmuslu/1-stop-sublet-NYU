@@ -104,6 +104,146 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-3_bedroom_in_clinton_hill",
+    "title": "3 Bedroom in Clinton Hill",
+    "description": "I'm subletting my furnished bedroom while I'm out of the country, available from Sept 1st through September 30th. It's a 3-bedroom apartment in really chill Clinton Hill. The apartment has laundry in-unit and a dishwasher, which is honestly a lifesaver. The whole place has cozy...",
+    "price": 1760,
+    "location": "New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-20",
+    "imageUrl": "https://preview.redd.it/u9lciq9kykkh1.jpg?width=140&height=104&auto=webp&s=992d62fc0d81f6593963bdf65a9d7d872114d0af",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vtt6ji/3_bedroom_in_clinton_hill/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/yeat-enthusiast",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/u9lciq9kykkh1.jpg?width=140&height=104&auto=webp&s=992d62fc0d81f6593963bdf65a9d7d872114d0af"
+    ],
+    "availabilityLabel": "Sept 1st through September 30th",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Near campus",
+      "Sublet"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-room_available_in_spacious_ridgewood_2br",
+    "title": "Room available in spacious Ridgewood 2BR",
+    "description": "I\u2019m looking for a lease takeover starting September 16 (move-in date is flexible) for my room in this lovely 2-bedroom on Himrod and Cypress, right by the Ridgewood/Bushwick border. Rent is $1,750 per month. The apartment is spacious, has a lot of natural light, and includes in-...",
+    "price": 1750,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-20",
+    "imageUrl": "https://preview.redd.it/9z38w287mlkh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=012a02e976a5a3b9b628eaa0422e3ee6410bb898",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vtwr0o/room_available_in_spacious_ridgewood_2br/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/RabbitSignificant520",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/9z38w287mlkh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=012a02e976a5a3b9b628eaa0422e3ee6410bb898"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_2400_1_br_private_bathroom_in_a",
+    "title": "$2,400 / 1 BR + Private Bathroom in a two-bedroom unit in Williamsburg/East Wil...",
+    "description": "Good afternoon friends: Unfortunately, I have to move out of the city somewhat unexpectedly so I'm looking to transfer my lease for 1 BR within a two-bedroom unit that's right by the Grand St. L-train stop in Williamsburg. My bedroom goes for $2,400 (my roommate pays slightly mo...",
+    "price": 2400,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-20",
+    "imageUrl": "https://external-preview.redd.it/anhlYzhmZXdnbGtoMQZQkFT3wiHMvPQsuKrHQ9oyEl5WyIkWrXgHFMXx5BSo.png?width=640&crop=smart&auto=webp&s=462af23143acb9c0b7fc1da60d5e5bccf5c067eb",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vtw1g8/lease_takeover_2400_1_br_private_bathroom_in_a/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/LostInJonkers",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/anhlYzhmZXdnbGtoMQZQkFT3wiHMvPQsuKrHQ9oyEl5WyIkWrXgHFMXx5BSo.png?width=640&crop=smart&auto=webp&s=462af23143acb9c0b7fc1da60d5e5bccf5c067eb"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-1_bed_1_bath_in_2b2b_lease_takeover_fort_greene",
+    "title": "1 Bed / 1 Bath in 2B/2B - Lease Takeover - Fort Greene, Brooklyn - $2,500/mo",
+    "description": "Hi, looking for someone to take over my 1 Bed / 1 Bath lease in Fort Greene, Brooklyn at 151 South Elliott Place Apt #1A from October 1, 2026 to March 31, 2027. It is a 2 Bed / 2 Bath apartment and the current roommate is a close friend (25M). Rent is $2500/mo 1 Bed, 1 Bath In-u...",
+    "price": 2500,
+    "location": "Fort Greene, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-20",
+    "imageUrl": "https://preview.redd.it/7mmacwm4wkkh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f3e583468a839f4aebeafdf7c7dc5bb459d2e37f",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vtsukb/1_bed_1_bath_in_2b2b_lease_takeover_fort_greene/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/kjampala",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/7mmacwm4wkkh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f3e583468a839f4aebeafdf7c7dc5bb459d2e37f"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-d6de17de0c9b",
     "title": "Cozy 2 Bedroom in Prospect Heights/North Park Slope",
     "description": "*Start date flexible until Nov 1 + end date flexible between Jan 31-Feb 28, please contact us directly with any questions!* We\u2019ll be traveling and looking for someone to stay in our light-filled, fully furnished two-bedroom apartment \u2014 located in prime Brooklyn on the...",
@@ -132,8 +272,8 @@
   {
     "id": "reddit-short_term_sublet_in_south_slope_1_bedroom",
     "title": "Short term sublet in south slope, 1 Bedroom",
-    "description": "Subletting a 1 furnished room in a fully furnished 2 bedroom apartment in south slope. Price will be 700dollars flat. Looking to find someone asap. You will be staying with a very nice roommate as well who will keep to their space. Dates will be end of end of August to September...",
-    "price": null,
+    "description": "Subletting a 1 furnished room in a fully furnished 2 bedroom apartment in south slope. Price will be 600 dollars flat. Looking to find someone asap. You will be staying with a very nice roommate as well who will keep to their space. Dates will be end of end of August to Septembe...",
+    "price": 600,
     "location": "Downtown Brooklyn, New York, NY",
     "bedrooms": 1,
     "bathrooms": 1,
@@ -1064,7 +1204,7 @@
   {
     "id": "reddit-lease_takeover_large_bright_hamilton_heights_1br",
     "title": "Large, bright Hamilton Heights 1BR | Sept 1\u2013June 30 | $4,000/month",
-    "description": "Bright 706 sq ft one-bedroom on W 150th Street between Amsterdam and St Nicholas. The apartment has a large open living area, lots of natural light, 11'3\" ceilings, and a quiet courtyard-facing bedroom. Available September 1, 2026 through June 30, 2027 for $4,000/month (negotiab...",
+    "description": "Bright 706 sq ft one-bedroom on W 150th Street between Amsterdam and St Nicholas. The apartment has a large open living area, lots of natural light, 11'3\" ceilings, and a quiet courtyard-facing bedroom. Available September 1, 2026 on a new 12-month lease with the building's mana...",
     "price": 4000,
     "location": "Hamilton Heights, New York, NY",
     "bedrooms": 1,
@@ -1090,13 +1230,13 @@
       "Reddit",
       "r/NYCapartments",
       "Furnished",
-      "Sublet",
       "Housing megathread"
     ],
     "extraCosts": [
-      "Utilities mentioned"
+      "Utilities mentioned",
+      "Fees mentioned"
     ],
-    "utilitiesNotes": "Available September 1, 2026 through June 30, 2027 for $4,000/month (negotiable) plus utilities."
+    "utilitiesNotes": "Utilities not included."
   },
   {
     "id": "reddit-lease_takeover_room_in_4bd2ba_available_now",
