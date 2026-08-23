@@ -1,5 +1,79 @@
 [
   {
+    "id": "reddit-furnished_room_in_sunset_park_950_ready_for_asap",
+    "title": "Furnished room in Sunset Park, $950, ready for ASAP move-in",
+    "description": "Furnished room in 3 bed 2 bath apartment available in Sunset Park (bed, mattress, microwave, dresser, mirror, A/C, etc). One of the other rooms has its own bathroom, so you would be sharing a bathroom with another person. The room has a decently sized closet. It's available now,...",
+    "price": 950,
+    "location": "New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-23",
+    "imageUrl": "https://preview.redd.it/5acn6fhds1lh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=4ec3e4fc6a579b36ea4b7f4aba330aa748df5d53",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vvwxhn/furnished_room_in_sunset_park_950_ready_for_asap/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Acceptable_Stress852",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/5acn6fhds1lh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=4ec3e4fc6a579b36ea4b7f4aba330aa748df5d53"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-listing_bedstuycrown_heights_3_bed_2_bath_1",
+    "title": "Bed-Stuy/Crown Heights, 3 Bed / 2 Bath \u2013 [1 Furnished Room + Private Bath] [$2,...",
+    "description": "I\u2019m the current tenant subletting my furnished private bedroom and private bathroom in a modern 3-bedroom, 2-bathroom apartment shared with one roommate. Location: Bedford Avenue and Fulton Street, right above the A/C trains Availability: September\u2013December 2026; dates flexible...",
+    "price": 2600,
+    "location": "Crown Heights, New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-23",
+    "imageUrl": "https://preview.redd.it/9sbal7pgw0lh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0bdb90a8e5896fa773893a9986c52eab6caf097c",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vvt6dr/listing_bedstuycrown_heights_3_bed_2_bath_1/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Actual-Hospital6888",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/9sbal7pgw0lh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0bdb90a8e5896fa773893a9986c52eab6caf097c"
+    ],
+    "availabilityLabel": "September\u2013December",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Gym",
+      "Sublet",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Location: Bedford Avenue and Fulton Street, right above the A/C trains Availability: September\u2013December 2026; dates flexible Term: Three mo..."
+  },
+  {
     "id": "listingsproject-up",
     "title": "Sunny 1-Bedroom in a Charming Brooklyn Walk-Up",
     "description": "This bright one-bedroom, one-bathroom apartment sits on the 2nd floor of a walk-up. Hardwood floors run throughout, and the whole unit is filled with natural light from large windows. The bedroom is a comfortable, quiet retreat with a large barred window overlooking the...",
