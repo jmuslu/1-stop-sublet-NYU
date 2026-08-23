@@ -175,6 +175,78 @@
     "utilitiesNotes": "Bedroom Area ~200 sq ft \u2705Very spacious \u2705Private washroom \u2705Lots of Sunlight and front street facing windows.\u2600\ufe0f \u2705Huge Closet for your belongi..."
   },
   {
+    "id": "reddit-furnished_1_bed_1_bathroom_lease_takeover_4900_in",
+    "title": "Furnished 1 Bed, 1 Bathroom - Lease Takeover ($4,900) in Manhattan (27th and Le...",
+    "description": "Furnished lease takeover starting 10/1: East 26th & Lexington, Manhattan (1BR/1Ba - $4,850-$4,900/mo) Moving out of the city (the only reason I\u2019m giving this place up!) and looking for someone to take over my lease. Two lease options: take over the remaining ~3 months at $4,850/...",
+    "price": 4900,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-22",
+    "imageUrl": "https://preview.redd.it/80l408kieykh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c16d641941cc1a740dfb708f921361af715eb58e",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vvgzg5/furnished_1_bed_1_bathroom_lease_takeover_4900_in/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/tigertofuu",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/80l408kieykh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c16d641941cc1a740dfb708f921361af715eb58e"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Utilities not included."
+  },
+  {
+    "id": "reddit-lease_takeover_101_1_bed1_bath_apartment_in_the",
+    "title": "Lease Takeover 10/1 - 1 Bed/1 Bath Apartment in the Heart of the UWS; 1 Block f...",
+    "description": "We have loved living here for the past 4 years. It's a great, well maintained, quiet building with nice neighbors. One block from Central Park on W76 and directly above a bunch of great restaurants on Columbus Avenue. Looking for someone to take over the lease officially startin...",
+    "price": 4350,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-22",
+    "imageUrl": "https://preview.redd.it/gt1nv0xjaukh1.jpg?width=140&height=91&auto=webp&s=7cde7ad3f24fbd71a76dc37f22727fbfe68bb6be",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vv0dvi/lease_takeover_101_1_bed1_bath_apartment_in_the/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/_hang_loose",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/gt1nv0xjaukh1.jpg?width=140&height=91&auto=webp&s=7cde7ad3f24fbd71a76dc37f22727fbfe68bb6be"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-0b50582fa40f",
     "title": "Fun and Simple 1 bedroom unit",
     "description": "WEEKLY RATES AVAILABLE!! Cozy one-bedroom in vibrant Brooklyn. This comfortable, simple unit is a great value. This unit is ideal for urban explorers - experienced travelers looking to spend most of their time taking in the city and all it has to offer. It's a perfect...",
