@@ -1,5 +1,36 @@
 [
   {
+    "id": "reddit-sublet_with_2_month_rent_upfront",
+    "title": "Sublet with 2 month rent upfront",
+    "description": "I\u2019ve gotten in touch in with a person that\u2019s subleasing the last 3 months of their studio. I got to this person through an agent i found online. I\u2019ve seen the place, met the owner and everything is fine but the guy subleasing the place wants a 2 months rent upfront plus security...",
+    "price": 1000,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-26",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vyjnsw/sublet_with_2_month_rent_upfront/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Weight-Logical",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-5553b7fd6c67",
     "title": "Union Square -- Industrial Loft-style Apartment",
     "description": "Available December 1st. Short term (one month) or a full year. Fully furnished, industrial style loft. One-bedroom. Elevator building. Near Union Square. Newly renovated kitchen, bathroom, floors, walls and recessed lighting. Great natural light. Strong WiFi by Spectrum....",
