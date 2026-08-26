@@ -381,6 +381,141 @@
     "utilitiesNotes": "\u2705Huge Closet for your belongings\ud83e\udde5\ud83d\udc56 Move-In = 1st Sept 2026 (+1 week flexible: Mention it to me if you need some time) Rent- $1300/month(Max..."
   },
   {
+    "id": "listingsproject-in",
+    "title": "Sunny Bedroom in Greenpoint, Backyard Access, with studio space. September 1st M",
+    "description": "I am looking for a roommate/subletter for September 1st potentially into 2027 in my spacious live/work apartment in Greenpoint near McGolrick Park. This listing is for a private bedroom in the apartment, I will be your only roommate. For $1750, you\u2019ll have: \ud83d\udeaa Private...",
+    "price": 1750,
+    "location": "Greenpoint, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-08-26",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/FYF9ptCQ5ldUdQ1A4xA8SA/VIu0KV-IMG_2364.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/sunny-bedroom-in-greenpoint-backyard-access-with-studio-space-september-1st-move-in",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-09-01 to 2027-01-31",
+    "availableFrom": "2026-09-01",
+    "availableTo": "2027-01-31",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-morgan_l_2bed2bath_lease_takeover_nov_1",
+    "title": "Morgan L 2bed/2bath Lease takeover Nov 1",
+    "description": "Looking for someone or a set of roommates to take over my $3100 lease on or around November 1st (can be flexible). 2 bed / 2 bath 147 George St, off the Morgan L, around 20 min to Manhattan 2nd floor This is a great apartment on a quiet street, mostly homes with driveways so the...",
+    "price": 3100,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-26",
+    "imageUrl": "https://preview.redd.it/lpci3ut2uqlh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0b638e16edba55a7d844041ad62dea719230c6f6",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vz1h8s/morgan_l_2bed2bath_lease_takeover_nov_1/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/juliyummy",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/lpci3ut2uqlh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0b638e16edba55a7d844041ad62dea719230c6f6"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Parking",
+      "Driveway",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "parking": "Driveway access",
+    "utilitiesNotes": "Other utilities not included."
+  },
+  {
+    "id": "reddit-listing_4400_1br_duplex_w_private_yard_inunit_wd",
+    "title": "$4,400 - 1BR Duplex w/ Private Yard & In-Unit W/D - Bed-Stuy / Clinton Hill (Oc...",
+    "description": "Hey everyone! Looking for someone to take over our lease starting October 1, 2026 for a modern duplex 1-bedroom with private outdoor space in Bedford-Stuyvesant. We have truly loved living here, it\u2019s a quiet building with great neighbors and quick access to everything. We are on...",
+    "price": 4400,
+    "location": "Bedford-Stuyvesant, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-26",
+    "imageUrl": "https://preview.redd.it/75piey9hqqlh1.jpg?width=140&height=104&auto=webp&s=7a7452f288af29c99c8167abf79560b40d181e70",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vz0x65/listing_4400_1br_duplex_w_private_yard_inunit_wd/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/perdonquetesalpique",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/75piey9hqqlh1.jpg?width=140&height=104&auto=webp&s=7a7452f288af29c99c8167abf79560b40d181e70"
+    ],
+    "availabilityLabel": "Oct 1 - June 30",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-nyc_1b1b_lease_takeover",
+    "title": "NYC 1B1B Lease Takeover",
+    "description": "Hey guys! I am relocating to California in October and thus need someone to take over my lease! Address: 10 Nevins APT 5F Brooklyn, NY (Fort Greene) Rent: $4250 This comfortable one-bedroom offers bright, natural light and a efficient floor plan. It delivers an open living space...",
+    "price": 4250,
+    "location": "Fort Greene, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-26",
+    "imageUrl": "https://preview.redd.it/pfznpsu52qlh1.jpg?width=140&height=93&auto=webp&s=d3f75651af47743b3ee6fca4708a7c3bd4c3c47e",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vyxajm/nyc_1b1b_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Logical_Maybe18",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/pfznpsu52qlh1.jpg?width=140&height=93&auto=webp&s=d3f75651af47743b3ee6fca4708a7c3bd4c3c47e"
+    ],
+    "availabilityLabel": "Fall",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [
+      "Fall"
+    ],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-5553b7fd6c67",
     "title": "Union Square -- Industrial Loft-style Apartment",
     "description": "Available December 1st. Short term (one month) or a full year. Fully furnished, industrial style loft. One-bedroom. Elevator building. Near Union Square. Newly renovated kitchen, bathroom, floors, walls and recessed lighting. Great natural light. Strong WiFi by Spectrum....",
@@ -441,7 +576,7 @@
   {
     "id": "reddit-lease_takeover_in_east_village_sunny_1_bedroom",
     "title": "Lease Takeover in East Village: Sunny 1 bedroom with W/D and DW in unit",
-    "description": "Very sunny 1 bed 1 bath in East Village (on 2nd street between Ave A and Ave B). Unit is on the 5th floor with large unobstructed west facing windows along the entire apartment, providing ample light in every room. Street is a quiet tree-lined side street with some art studios a...",
+    "description": "EDIT: received many applications, no longer taking tour requests Very sunny 1 bed 1 bath in East Village (on 2nd street between Ave A and Ave B). Unit is on the 5th floor with large unobstructed west facing windows along the entire apartment, providing ample light in every room....",
     "price": 3625,
     "location": "East Village, New York, NY",
     "bedrooms": 1,
