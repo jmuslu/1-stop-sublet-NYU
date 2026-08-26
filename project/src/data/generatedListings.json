@@ -156,6 +156,114 @@
     "utilitiesNotes": "$1250 plus utilities and internet."
   },
   {
+    "id": "reddit-lease_takeover_fidi_1_br1_ba_can_be_flexed_to_2",
+    "title": "Lease Takeover - Fidi 1 BR/1 BA (can be flexed to 2 BR) - $5,423",
+    "description": "Looking for someone to take over our lease for a large 1-bed 1-bath, can be flexed into 2 BR at 10 Hanover Square in Fidi - AVAIL SEPT 1 (flexible on move-in date) \u2022 \u2060Rent: $5,423 \u2022 \u2060Lease through August 15th, 2027 \u2022 \u2060This is a management-approved lease takeover, not a sublet. Y...",
+    "price": 5423,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-25",
+    "imageUrl": "https://preview.redd.it/a6v5kfzboklh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f8ded1bf3726e6820aa5e12473b62efe2dc8452b",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vy9s02/lease_takeover_fidi_1_br1_ba_can_be_flexed_to_2/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/pransv",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/a6v5kfzboklh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f8ded1bf3726e6820aa5e12473b62efe2dc8452b"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-2350mo_williamsburg_sept_start_roomiesublease_for",
+    "title": "$2350/Mo Williamsburg Sept. Start Roomie/Sublease for 1Br/1Ba in 2B/2B doorman,...",
+    "description": "Howdy! I am looking for a roommate in this wonderfully green and sunny space Williamsburg, near Grand and Union. Looking for a September 1st start or as close to as possible. Rent is $2,350/month, open to long term lease or Sublease. The pictures are of the room in its previous...",
+    "price": 2350,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-25",
+    "imageUrl": "https://preview.redd.it/wod1a5i78klh1.jpg?width=140&height=105&auto=webp&s=695ee46ec04bcc5e37a6b00b3eda403bb10ad56a",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vy7a3y/2350mo_williamsburg_sept_start_roomiesublease_for/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/The_TowelWashesMe",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/wod1a5i78klh1.jpg?width=140&height=105&auto=webp&s=695ee46ec04bcc5e37a6b00b3eda403bb10ad56a"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Gym",
+      "Near campus"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-2_bedroom_lease_takeover",
+    "title": "2 bedroom lease takeover",
+    "description": "Lease takeover - 836 Dekalb Ave $3275 rent 2 bedrooms, 1 bath. Dishwasher. Full kitchen. Small patio. Roof and gym access in building. Will be unfurnished Listing video - https://youtu.be/6Fz7yUF9TIg?is=dzRWaKbFhRemVAUd submitted by /u/sarah_dillabaugh [link] [comments]",
+    "price": 3275,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-25",
+    "imageUrl": "https://preview.redd.it/eaweq2769klh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c2ead1dd8328a16b740187b97f34093c8af417cb",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1vy7cb6/2_bedroom_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/sarah_dillabaugh",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/eaweq2769klh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c2ead1dd8328a16b740187b97f34093c8af417cb"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-9391739c5c5f",
     "title": "Two bedroom + sleeping couch - open, airy, former firehouse - Williamsburg",
     "description": "Experience Brooklyn from a home unlike any other \u2014 the full 2nd & 3rd floors of a lovingly converted Williamsburg firehouse. This fully furnished, two-bedroom loft blends soaring 14-ft ceilings, original character, and refined, modern finishes. Current availability:...",
