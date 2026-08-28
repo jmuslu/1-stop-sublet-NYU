@@ -1,5 +1,57 @@
 [
   {
+    "id": "listingsproject-sublet",
+    "title": "Hell's Kitchen One Bedroom - One Month Sublet",
+    "description": "Bright, colorful and fully furnished one-bedroom in the heart of Hell\u2019s Kitchen. The apartment has tons of personality, great natural light including a living-room skylight, a full kitchen with dishwasher, and everything you need for a comfortable month-long stay....",
+    "price": 4000,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-08-28",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/MEJ9ZGyVgRkpLynlwY_nxg/sLZCeV-IMG_9230.jpg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/hell-s-kitchen-one-bedroom-one-month-sublet",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-08-28 to 2026-09-27",
+    "availableFrom": "2026-08-28",
+    "availableTo": "2026-09-27",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "listingsproject-2380cf422b18",
+    "title": "Upper West Side Sublet /Fall in the City",
+    "description": "Live your best Upper West Side life in this spacious, fully furnished one-bedroom loft\u2014just steps from Central Park. Located on the parlor floor of a charming brownstone (just one short flight up), this bright and quiet spot overlooks trees and gardens of the building...",
+    "price": null,
+    "location": "Upper West Side, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-08-28",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/OBu94xNpj1jm9xIoNzycuA/HRSx6B-IMG_3636.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/upper-west-side-sublet-fall-in-the-city-d0a01da8-429e-48a8-a7bf-2380cf422b18",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-09-06 to 2026-10-19",
+    "availableFrom": "2026-09-06",
+    "availableTo": "2026-10-19",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-weekend",
     "title": "1 Bed in Gramercy Park 9/3 - 9/7 (Labor Day Long Weekend)",
     "description": "AVAILABLE DATES 9/3-9/7 (Primarily Labor Day Weekend, +/- 1 or 2 days is possible. Please feel free to enquire if your dates are around this time!) APARTMENT OVERVIEW You won't find a better deal for this price in Gramercy! This wonderful 1 bedroom apartment is...",
@@ -213,6 +265,43 @@
     "extraCosts": [
       "Fees mentioned"
     ]
+  },
+  {
+    "id": "reddit-september_sublet_sunny_3_bedroom_williamsburg",
+    "title": "September sublet: Sunny 3 bedroom williamsburg apartment",
+    "description": "[3,100$, S 4th & Hewes] Looking for a trusted individual to sublet my sunny pre-war, 3rd floor walk up 3-bedroom apartment for September. (photos taken on a rainy evening, sorry) * \ud83c\udfe1 Fully furnished * \ud83d\udecf\ufe0f 3 bedrooms: 1 home office, 1 empty bedroom, and 1 bedroom with a full-size...",
+    "price": 3100,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-27",
+    "imageUrl": "https://preview.redd.it/b17z0maq30mh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=097be4229b7a89c4dc8b0bcf8b1c62abe9016b40",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w09wfw/september_sublet_sunny_3_bedroom_williamsburg/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Brotherino9000",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/b17z0maq30mh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=097be4229b7a89c4dc8b0bcf8b1c62abe9016b40"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "(photos taken on a rainy evening, sorry) * \ud83c\udfe1 Fully furnished * \ud83d\udecf\ufe0f 3 bedrooms: 1 home office, 1 empty bedroom, and 1 bedroom with a full-siz..."
   },
   {
     "id": "reddit-sublet_with_2_month_rent_upfront",
@@ -8224,36 +8313,5 @@
     "extraCosts": [
       "Fees mentioned"
     ]
-  },
-  {
-    "id": "reddit-mayaug_sublease",
-    "title": "May-aug sublease",
-    "description": "Hi! I\u2019m subleasing my apartment on Thompson near nyu from may 1-aug 1 if anyone\u2019s interested pls lmk! I\u2019ll send u more info submitted by /u/Hippiestuff1 [link] [comments]",
-    "price": null,
-    "location": "New York, NY",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "platform": "Reddit",
-    "dateListed": "2026-02-28",
-    "imageUrl": null,
-    "sourceUrl": "https://www.reddit.com/r/nyu/comments/1rh587q/mayaug_sublease/",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": "r/nyu",
-    "sourceThreadTitle": "r/nyu housing posts",
-    "sourceAuthor": "/u/Hippiestuff1",
-    "sourceIntent": "offer",
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": "may 1-aug 1",
-    "availableFrom": null,
-    "availableTo": null,
-    "termTags": [],
-    "amenities": [
-      "Reddit",
-      "r/nyu",
-      "Near campus",
-      "Housing megathread"
-    ],
-    "extraCosts": []
   }
 ]
