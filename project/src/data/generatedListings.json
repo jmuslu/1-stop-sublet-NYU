@@ -115,7 +115,7 @@
     "title": "LEASE TAKEOVER \u2014 3BR + Balcony in Sunnyside (~1100 sq ft)",
     "description": "Available September 11, 2026. Current lease runs through September 30, 2027. We have loved living here and sad to move and looking for someone to take over our lease. This apartment is under the market price. A 3 bedroom/1 bath floor-through, just one flight up, on the corner of...",
     "price": 3500,
-    "location": "New York, NY",
+    "location": "Long Island City, New York, NY",
     "bedrooms": 3,
     "bathrooms": 1.0,
     "platform": "Reddit",
@@ -178,6 +178,73 @@
       "Housing megathread"
     ],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-last_ditch_effort_to_find_housing_by_91",
+    "title": "Last Ditch Effort to Find Housing By 9/1",
+    "description": "Not sure if this is the right place for this but... Is anyone subletting a place from 8/31 or 9/1 on for a couple weeks to a month or longer? I am 37, really clean, respectful, communicative and low-key. No drugs, pets, smoking, etc... looking for a good spot to sublet while I t...",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-29",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w1y8uj/last_ditch_effort_to_find_housing_by_91/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/EyeOne2007",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-the_rheingold_in_bushwick_lease_takeover_studio",
+    "title": "The Rheingold in Bushwick Lease Takeover - Studio rent stabilized - September",
+    "description": "$2598.94 monthly rent excl utilities Studio unit in The Rheingold, 2nd floor, facing courtyard, very quiet Close to J Flushing and L Morgan Move in by September submitted by /u/Outrageous-Prior4052 [link] [comments]",
+    "price": 2598,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-29",
+    "imageUrl": "https://preview.redd.it/dgnsimhomdmh1.jpeg?width=640&crop=smart&auto=webp&s=e8301c43209283177b17c77855b971f0d753a5b1",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w1xn3o/the_rheingold_in_bushwick_lease_takeover_studio/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Outrageous-Prior4052",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/dgnsimhomdmh1.jpeg?width=640&crop=smart&auto=webp&s=e8301c43209283177b17c77855b971f0d753a5b1",
+      "https://i.redd.it/dgnsimhomdmh1.jpeg"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "$2598.94 monthly rent excl utilities Studio unit in The Rheingold, 2nd floor, facing courtyard, very quiet Close to J Flushing and L Morgan..."
   },
   {
     "id": "listingsproject-sublet",
