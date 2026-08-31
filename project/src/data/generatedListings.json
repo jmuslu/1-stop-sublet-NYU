@@ -38,6 +38,40 @@
     "utilitiesNotes": "- Rent: $2500 - Utilities: Based on usage (Average ~$150) Features: - First floor unit, - Pets allowed, - 2 window A/C units, - Portable ba..."
   },
   {
+    "id": "reddit-lease_assignment_modern_long_island_city_studio",
+    "title": "Modern Long Island City Studio with Gorgeous Views",
+    "description": "Modern Studio Apt in Long Island City with gorgeous views of the Manhattan Skyline and East River. Quiet. Great natural light with floor-to-ceiling windows. Northeast facing. Lots of closet space. Dishwasher. Air Conditioning. In-building laundry on same floor. Gym. Lease Takeov...",
+    "price": 3630,
+    "location": "Long Island City, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-31",
+    "imageUrl": "https://preview.redd.it/5lam7usv5qmh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=aebc2eddf0596100c3add39d23ccf3268faa09fe",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w3gaby/lease_assignment_modern_long_island_city_studio/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/vy171",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/5lam7usv5qmh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=aebc2eddf0596100c3add39d23ccf3268faa09fe"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-d3bea09da7ee",
     "title": "Beautiful Lower East Side single-bedroom for short-term rent!",
     "description": "Located at Broome and Orchard, this apartment in the LES is in an elevator building and on the top floor. Full-size Eastward facing windows allow for incredible sunlight throughout the apartment. This unit also features high ceilings, hardwood floors throughout, large...",
