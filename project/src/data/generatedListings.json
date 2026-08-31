@@ -141,6 +141,179 @@
     ]
   },
   {
+    "id": "reddit-lease_takeover_jersey_city_2_bd_2_bath_235_grand",
+    "title": "Lease Takeover - Jersey City - 2 bd 2 bath - 235 Grand st - $5266/mo",
+    "description": "Wife and I just bought a home, so looking for someone to takeover our lease. Apartment is on 12th floor of 235 Grand Street high rise. - view any unit that ends in \u201c06\u201d in the building\u2019s website to see sample floor plans & photos & prices - [ https://www.235grand.com/floorplans/...",
+    "price": 5266,
+    "location": "Jersey City, NJ",
+    "bedrooms": 1,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-30",
+    "imageUrl": "https://preview.redd.it/ml6hhv0xflmh1.jpeg?width=640&crop=smart&auto=webp&s=557f2501a958ee3e4e3de7a170dab8cd790d0afd",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w2wb4f/lease_takeover_jersey_city_2_bd_2_bath_235_grand/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Guilty_Pangolin9121",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ml6hhv0xflmh1.jpeg?width=640&crop=smart&auto=webp&s=557f2501a958ee3e4e3de7a170dab8cd790d0afd",
+      "https://i.redd.it/ml6hhv0xflmh1.jpeg"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Parking",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ],
+    "parking": "Parking mentioned"
+  },
+  {
+    "id": "reddit-lease_takeover_fidi_2500month_available_october",
+    "title": "Lease Takeover FiDi - $2500/month - Available October",
+    "description": "Looking for someone to take over my portion of the lease in a 2BR apartment at 99 John Street (99 John Deco Lofts) in FiDi. I\u2019m moving to San Francisco for work, so I\u2019m looking for someone to replace me on the lease. Rent: $2,500/month for my portion Total apartment rent: $5,000...",
+    "price": 2500,
+    "location": "Financial District, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-30",
+    "imageUrl": "https://preview.redd.it/7d3tg8qq6kmh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=cc36e5e9ab2422e704477775d323bde85f9c6c30",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w2py82/lease_takeover_fidi_2500month_available_october/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Trick-Condition-4211",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/7d3tg8qq6kmh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=cc36e5e9ab2422e704477775d323bde85f9c6c30"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Gym",
+      "Near campus"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-looking_for_1bd1ba_midtownkips_baymurray_hilllic",
+    "title": "Looking for 1bd/1ba \u2014 Midtown/Kips Bay/Murray Hill/LIC \u2014 September 1 \u2014 Veteran...",
+    "description": "Hey everyone! Looking for a 1bd/1ba in NYC for a September 1st move-in or as soon as possible. A little about me: I'm a Marine veteran working in cybersecurity in Midtown Manhattan near Times Square. No pets, non-smoker, clean and respectful tenant. Ideal neighborhoods: Midtown,...",
+    "price": 3400,
+    "location": "Hell's Kitchen, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-30",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w2lr9w/looking_for_1bd1ba_midtownkips_baymurray_hilllic/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/FlowerAmbitious7975",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_of_a_large_1_bedroom_apartment_in",
+    "title": "Lease Takeover of a large 1 bedroom apartment in Murray Hill/Kips Bay (October...",
+    "description": "Looking for a lease takeover of our existing apartment as we plan to move to a bigger apartment in the same building. Sunny 9th Floor Unit Facing NE at Charleston Condominium. We have been living in this building since Feb 2025 and are now planning to move to a larger unit in th...",
+    "price": 5500,
+    "location": "Murray Hill, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-30",
+    "imageUrl": "https://preview.redd.it/5lvxxfvacjmh1.jpg?width=140&height=93&auto=webp&s=a8aef1667ca2a0fedfa59b06a3226f06cbf7a3b1",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w2ljph/lease_takeover_of_a_large_1_bedroom_apartment_in/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/truenorthck",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/5lvxxfvacjmh1.jpg?width=140&height=93&auto=webp&s=a8aef1667ca2a0fedfa59b06a3226f06cbf7a3b1"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_greenpoint_1br1ba_4401_gorgeous",
+    "title": "Greenpoint 1BR/1BA - $4,401 - Gorgeous Skyline Views + In Unit W/D - 10/1 Start",
+    "description": "Serene 1-bed apartment located on a quiet, tree-lined street in the vibrant community of Greenpoint. Sweeping views of the Manhattan skyline, the East River and Queens. Eagle + West is pet friendly and overlooks a dog park. 12-month lease takeover at 227 West St, Brooklyn, NY 11...",
+    "price": 4401,
+    "location": "Greenpoint, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-30",
+    "imageUrl": "https://preview.redd.it/d27n9qodajmh1.jpg?width=140&height=105&auto=webp&s=c96fde93bdaabea16b475a2e34306d8a7ba297e6",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w2l5ds/lease_takeover_greenpoint_1br1ba_4401_gorgeous/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/jnathaniel1206",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/d27n9qodajmh1.jpg?width=140&height=105&auto=webp&s=c96fde93bdaabea16b475a2e34306d8a7ba297e6"
+    ],
+    "availabilityLabel": "Fall",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [
+      "Fall"
+    ],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-park",
     "title": "Beautiful furnished, dog-friendly 1BR directly across from Prospect Park",
     "description": "Our lovely furnished one-bedroom apartment is directly across the street from Prospect Park (on Prospect Park West between 9th and 10th St) in the heart of Park Slope and will be available from October 2026 through January 2027 while we are away with family. The...",
@@ -1945,7 +2118,7 @@
   {
     "id": "reddit-lease_takeover_in_ues_sunny_1_bedroom_apartment",
     "title": "Lease Takeover in UES - Sunny 1 bedroom apartment!",
-    "description": "UPDATE: Management will start taking applications shortly. Please prepare all necessary documentation. New tenant MUST sign a 12 month lease to be considered! $2,925/mo. 1 bed 1 bath in Yorkville. 81st and 1st. 3rd floor walk up. South facing. Great natural light. Ample storage...",
+    "description": "NEW INQUIRIES ON HOLD DUE TO NUMBER OF INTERESTED APPLICANTS! Management will start taking applications shortly. Please prepare all necessary documentation. New tenant MUST sign a 12 month lease to be considered! $2,925/mo. 1 bed 1 bath in Yorkville. 81st and 1st. 3rd floor walk...",
     "price": 2925,
     "location": "New York, NY",
     "bedrooms": 1,
