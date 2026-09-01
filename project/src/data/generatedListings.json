@@ -1,8 +1,100 @@
 [
   {
+    "id": "listingsproject-13",
+    "title": "1bd/1ba Williamsburg (elevator, dishwasher, gym) | 8/29-9/13",
+    "description": "Beautiful 1bed/1ba Williamsburg Apt in great building Elevator building, dishwasher, gym downstairs, laundry in basement + communal terrace. Blackout shades in bedroom. Netflix/Hulu/Amazon etc. Terrace on floor with view of the city. The apartment is tidy, comfy, full...",
+    "price": null,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-09-01",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/jr2AOl7D_w4ki-RMrnGkyQ/a7biz2-living room.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/1bd-1ba-williamsburg-elevator-dishwasher-gym-8-29-9-13",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-08-29 to 2026-09-13",
+    "availableFrom": "2026-08-29",
+    "availableTo": "2026-09-13",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-new_grad_struggling_wincome_requirements",
+    "title": "New grad struggling w/income requirements",
+    "description": "Just graduated from college in nyc, which my family partially helped pay for\u2014however they are no longer willing to financially support me (fair, I\u2019m 22) so I am left without options for a guarantor and without a strong employment history (didn\u2019t work much in college, def not 40x...",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-01",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w3x6yv/new_grad_struggling_wincome_requirements/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Immediate_Lawyer_864",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-question_about_fall_subletting",
+    "title": "Question about Fall Subletting",
+    "description": "First fall/winter in NYC. Will there be a surge of people leaving their places to sublet, or should I start looking now for a place to sublet in October-December? submitted by /u/IllExplanation389 [link] [comments]",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-01",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w3wydx/question_about_fall_subletting/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/IllExplanation389",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "October-December",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [
+      "Fall"
+    ],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-colorfilled_huge_2br1ba_near_prospect_park_for",
     "title": "Color-Filled Huge 2Br/1Ba Near Prospect Park for Longterm Sublet",
-    "description": "I will be subletting my incredible apartment for a long-term period, while working abroad. Dates flexible, ideally October or November move-in. It is a large first floor unit (over 800sqft), with plenty of storage, and just about a 7 minute walk to Prospect Park. It is located a...",
+    "description": "I will be subletting my incredible apartment for a long-term period, while working abroad. Dates flexible, ideally November move-in. It is a large first floor unit (over 800sqft), with plenty of storage, and just about a 7 minute walk to Prospect Park. It is located around the c...",
     "price": 2500,
     "location": "New York, NY",
     "bedrooms": 2,
@@ -35,7 +127,7 @@
     "extraCosts": [
       "Utilities mentioned"
     ],
-    "utilitiesNotes": "- Rent: $2500 - Utilities: Based on usage (Average ~$150) Features: - First floor unit, - Pets allowed, - 2 window A/C units, - Portable ba..."
+    "utilitiesNotes": "(Ideally 5/31 or mid-June) - Rent: $2500 - Utilities: Based on usage (Average ~$150) Features: - First floor unit, - Pets allowed, - 2 wind..."
   },
   {
     "id": "reddit-lease_assignment_modern_long_island_city_studio",
@@ -70,6 +162,71 @@
       "Housing megathread"
     ],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-bushwick_1800_2b2b_looking_for_lease_takeover",
+    "title": "Bushwick - $1800 2b2b - looking for lease takeover",
+    "description": "Hey folks, looking to transfer my lease Oct 1 - December 31 with option to renew. It\u2019s $1800 for your portion of the lease. You would be living with my roomie Lucy (in photos), she is pretty quiet and keeps to herself, and her cat Babycat (stays in Lucy\u2019s room) It has washer / d...",
+    "price": 1800,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-08-31",
+    "imageUrl": "https://preview.redd.it/4hzi2x5p5smh1.jpg?width=140&height=105&auto=webp&s=91c9156691633387b43baf76397193a79134b398",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w3ryxj/bushwick_1800_2b2b_looking_for_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Charlotte_AB",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/4hzi2x5p5smh1.jpg?width=140&height=105&auto=webp&s=91c9156691633387b43baf76397193a79134b398"
+    ],
+    "availabilityLabel": "Oct 1 - December 31",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-2br1ba_lease_takeover_near_central_park_no_broker",
+    "title": "2BR/1BA Lease Takeover \u2013 Near Central Park (No Broker Fees) Available Oct 1st",
+    "description": "Hi! My husband and I are looking for someone to take over our lease for our 2BR/1BA in Manhattan. NO BROKERS FEE. We\u2019re having to leave for personal reasons, and honestly, we\u2019re pretty sad about it because this apartment is genuinely such a gem \ud83e\udd72 We wouldn\u2019t be leaving otherwise...",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-08-31",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w3rh1d/2br1ba_lease_takeover_near_central_park_no_broker/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Few-Cookie7412",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
   },
   {
     "id": "listingsproject-d3bea09da7ee",
@@ -5530,32 +5687,6 @@
       "Furnished",
       "Housing megathread"
     ],
-    "extraCosts": []
-  },
-  {
-    "id": "listingsproject-area",
-    "title": "Stunning 2BR/2BA corner loft in prime Williamsburg with private outdoor seating ",
-    "description": "Beautiful, spacious duplex loft with lots of light, located steps from McCarren park and 2 blocks from Bedford Ave. One large primary bedroom with sitting area and king size bed. One loft bedroom with curtain and twin bed. Space is ideal for 3 people, but could work for...",
-    "price": null,
-    "location": "Williamsburg, New York, NY",
-    "bedrooms": 2,
-    "bathrooms": 1.0,
-    "platform": "Listings Project",
-    "dateListed": "2026-08-13",
-    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/zOW9YhTPhR92KinITJ3CxA/sBrcXK-IMG_0128.jpeg?aspect_ratio=3:2&width=330",
-    "sourceUrl": "https://www.listingsproject.com/listings/stunning-2br-2ba-corner-loft-in-prime-williamsburg-with-private-outdoor-seating-area",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": null,
-    "sourceThreadTitle": null,
-    "sourceAuthor": null,
-    "sourceIntent": null,
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": "2026-08-12 to 2026-08-31",
-    "availableFrom": "2026-08-12",
-    "availableTo": "2026-08-31",
-    "termTags": [],
-    "amenities": [],
     "extraCosts": []
   },
   {
