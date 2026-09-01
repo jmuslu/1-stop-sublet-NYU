@@ -92,6 +92,37 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-need_to_rent_room",
+    "title": "Need to rent room",
+    "description": "Hey, just moved here in June, working in the city and looking to leave Astoria for something more affordable. Anyone leasing/subletting a room without 40 times rent requirement? I\u2019m paying $2150 rn and it\u2019s too costly. I have a cat and I\u2019m 36f. Thanks :) submitted by /u/Financia...",
+    "price": 2150,
+    "location": "Astoria, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-01",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w418yc/need_to_rent_room/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Financial-Tailor-11",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-colorfilled_huge_2br1ba_near_prospect_park_for",
     "title": "Color-Filled Huge 2Br/1Ba Near Prospect Park for Longterm Sublet",
     "description": "I will be subletting my incredible apartment for a long-term period, while working abroad. Dates flexible, ideally November move-in. It is a large first floor unit (over 800sqft), with plenty of storage, and just about a 7 minute walk to Prospect Park. It is located around the c...",
