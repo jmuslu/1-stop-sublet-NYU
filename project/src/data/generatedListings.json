@@ -1,5 +1,64 @@
 [
   {
+    "id": "listingsproject-70eba4564442",
+    "title": "Stunning 2BR/2BA corner loft in prime Williamsburg with private outdoor seating ",
+    "description": "Beautiful, spacious duplex loft with lots of light, located steps from McCarren park and 2 blocks from Bedford Ave. One large primary bedroom with sitting area and king size bed. One loft bedroom with curtain and twin bed. Space is ideal for 3 people, but could work for...",
+    "price": null,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-09-03",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/CUox-CMKKK71mZ7k_xHaOA/sBrcXK-IMG_0128.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/stunning-2br-2ba-corner-loft-in-prime-williamsburg-with-private-outdoor-seating-area-9a6504d5-a875-418c-ba3f-70eba4564442",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-09-03 to 2026-09-17",
+    "availableFrom": "2026-09-03",
+    "availableTo": "2026-09-17",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-1_bed_1_bath_noho_apt_lease_takeover_1012026",
+    "title": "1 Bed / 1 Bath NoHo Apt Lease Takeover - 10/1/2026 - $5,750/mo - 1 block from 6...",
+    "description": "South facing spacious one-bedroom with large kitchen, granite countertops and breakfast bar for dining. Stainless steel appliances in kitchen. Living room and bedroom both with excellent closet space. Soho Court is a post-war elevator building with fitness center, laundry, court...",
+    "price": 5750,
+    "location": "West Village, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-03",
+    "imageUrl": "https://preview.redd.it/wwugjyptj7nh1.jpg?width=140&height=93&auto=webp&s=06629283e79cc71b0f4bd4b00d844d7b7763ef5b",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w5thl1/1_bed_1_bath_noho_apt_lease_takeover_1012026/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/DescriptionGrouchy63",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/wwugjyptj7nh1.jpg?width=140&height=93&auto=webp&s=06629283e79cc71b0f4bd4b00d844d7b7763ef5b"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-october",
     "title": "FURNISHED ARTSY, SOPHISTICATED, SPACIOUS 2 BED/2BATH SEMI-LOFT APT \u2013 1200 SQ FT ",
     "description": "Hi, looking to spend a few months in Florida to take care of elderly parent and looking for a chill type of person to take care of my place. Flexible on start date and open to being away through the winter. My apartment is in the heart of the hipster part of the South...",
@@ -437,6 +496,76 @@
       "Housing megathread"
     ],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-1550_room_in_renovated_3br_bushwick_eldert_st",
+    "title": "$1,550 - Room in renovated 3BR, Bushwick (Eldert St) - lease takeover, avail now",
+    "description": "Room available in a newly renovated 3BR apartment on Eldert St in Bushwick. I accepted a job out of state, so I'm looking for someone to take over my room. My two roommates (both chill, easy to live with) are staying. - $1,550/month - Newly renovated: exposed painted brick, hard...",
+    "price": 1550,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-02",
+    "imageUrl": "https://preview.redd.it/06ds3xofy6nh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=37a14c5ed21c4bd334fa87e4e3c9dda3a8683da3",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w5qvxe/1550_room_in_renovated_3br_bushwick_eldert_st/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/willspcaccount",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/06ds3xofy6nh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=37a14c5ed21c4bd334fa87e4e3c9dda3a8683da3"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Near campus",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-1br_apartment_61st_between_2nd_1st_ave_upper_east",
+    "title": "1BR Apartment - 61st Between 2nd & 1st Ave Upper East Side / Lenox Hill \u2013 $3,05...",
+    "description": "1BR Apartment - 61st and 2nd Upper East Side / Lenox Hill \u2013 $3,050/month \u2013 Lease Takeover \u2013 Available Sep. 25 Onwards. This is between 2nd and 1st avenue. Video Link - https://drive.google.com/file/d/1AHLB5LEK8vAIuOslHzD1KX-b653sE\\_aY/view?usp=drivesdk For proof of tenancy, ques...",
+    "price": 3050,
+    "location": "Upper East Side, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-02",
+    "imageUrl": "https://preview.redd.it/ccw8goqny6nh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4e23308d394ee304c1b5f30ac92cd3613b7bc833",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w5qs3n/1br_apartment_61st_between_2nd_1st_ave_upper_east/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/LocalWeek999",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ccw8goqny6nh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4e23308d394ee304c1b5f30ac92cd3613b7bc833"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
   },
   {
     "id": "listingsproject-13",
