@@ -1,5 +1,39 @@
 [
   {
+    "id": "reddit-lease_takeover_furnishedunfurnished_50thfloor_lic",
+    "title": "Furnished/Unfurnished 50th-Floor LIC Studio \u2014 $3,891/mo net effective ($4,150 r...",
+    "description": "UPDATE (September 4, 2026): Reposting with corrected pricing and a new concession. Rent is $4,150/month, and I am now offering a $2,075 move-in credit (two weeks free), which works out to roughly $3,891/month net effective over the remaining eight-month term. I'm relocating to J...",
+    "price": 3891,
+    "location": "Long Island City, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-04",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w6p0yy/lease_takeover_furnishedunfurnished_50thfloor_lic/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/leoyagami26",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "Sept 1 to 4",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-70eba4564442",
     "title": "Stunning 2BR/2BA corner loft in prime Williamsburg with private outdoor seating ",
     "description": "Beautiful, spacious duplex loft with lots of light, located steps from McCarren park and 2 blocks from Bedford Ave. One large primary bedroom with sitting area and king size bed. One loft bedroom with curtain and twin bed. Space is ideal for 3 people, but could work for...",
@@ -403,6 +437,84 @@
     ],
     "parking": "Parking mentioned",
     "utilitiesNotes": "($1,530/mo + utilities, available now)."
+  },
+  {
+    "id": "reddit-furnished_room_private_bath_in_bedstuycrown",
+    "title": "Furnished Room + Private Bath in Bed-Stuy/Crown Heights \u2014 $2,600/month",
+    "description": "I\u2019m subletting my furnished private bedroom with a private bathroom in a modern 3-bedroom, 2-bathroom apartment near Bedford Avenue and Fulton Street in Brooklyn. \ud83d\udccd Location: Bed-Stuy/Crown Heights \ud83d\ude87 Transportation: Near the A/C trains \ud83d\udcc5 Move-in: Available now; dates are flexibl...",
+    "price": 2600,
+    "location": "Crown Heights, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-03",
+    "imageUrl": "https://preview.redd.it/y2kiqssn5enh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5297255053e8b6a8e3fd03bd3b8a8d4eeefd98b8",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w6o72r/furnished_room_private_bath_in_bedstuycrown/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Actual-Hospital6888",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/y2kiqssn5enh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5297255053e8b6a8e3fd03bd3b8a8d4eeefd98b8"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Gym",
+      "Near campus",
+      "Sublet"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Ideal Move In date any time during the month of Sept \ud83d\uddd3 Term: Three months preferred, but negotiable \ud83d\udcb0 Rent: $2,600/month, including utiliti..."
+  },
+  {
+    "id": "reddit-lease_takeover_3_bed2_bath_long_island_city",
+    "title": "Lease Takeover - 3 bed/2 bath Long Island City - Available Oct 1st",
+    "description": "LEASE TAKEOVER \u2014 3BR/2BA IN LONG ISLAND CITY Hi everyone! I\u2019m looking for a female roommate in her mid-to-late 20s to take over my bedroom and my portion of the lease in our 3 bed 2 bath apartment in Long Island City! \ud83d\udccd Long Island City, Queens Rent: $2369/month + utilities Ther...",
+    "price": 2369,
+    "location": "Long Island City, New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-03",
+    "imageUrl": "https://preview.redd.it/qq807atchdnh1.jpg?width=140&height=105&auto=webp&s=ec243aff733f698b01f603ed8b4bea540bf43c0d",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w6knbo/lease_takeover_3_bed2_bath_long_island_city/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/tomoni_",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/qq807atchdnh1.jpg?width=140&height=105&auto=webp&s=ec243aff733f698b01f603ed8b4bea540bf43c0d"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Near campus",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "\ud83d\udccd Long Island City, Queens Rent: $2369/month + utilities There is a $20 application fee required by the building."
   },
   {
     "id": "listingsproject-october",
