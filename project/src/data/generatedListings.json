@@ -34,6 +34,40 @@
     ]
   },
   {
+    "id": "reddit-2br_apartment_near_lehman_college_rooms_available",
+    "title": "2BR Apartment Near Lehman College \u2013 Rooms Available",
+    "description": "I recently relocated overseas and am looking to sublet my 2-bedroom apartment in the Bronx, within walking distance of Lehman College. \ud83c\udfe0 $1,200/month per room \ud83d\udd10 1-month security deposit \ud83d\udd25 Gas, electric & heat included \ud83d\ude87 Convenient access to the B/D/4 trains Willing to rent the r...",
+    "price": 1200,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-04",
+    "imageUrl": "https://preview.redd.it/ge8rmez2bfnh1.jpg?width=140&height=78&auto=webp&s=9bd96e010902b8fa065b46fbd85cf15e997692fc",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w6t0i7/2br_apartment_near_lehman_college_rooms_available/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/theuberdriver_",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ge8rmez2bfnh1.jpg?width=140&height=78&auto=webp&s=9bd96e010902b8fa065b46fbd85cf15e997692fc"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-70eba4564442",
     "title": "Stunning 2BR/2BA corner loft in prime Williamsburg with private outdoor seating ",
     "description": "Beautiful, spacious duplex loft with lots of light, located steps from McCarren park and 2 blocks from Bedford Ave. One large primary bedroom with sitting area and king size bed. One loft bedroom with curtain and twin bed. Space is ideal for 3 people, but could work for...",
