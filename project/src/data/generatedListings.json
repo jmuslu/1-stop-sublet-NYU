@@ -2,7 +2,7 @@
   {
     "id": "reddit-one_bedroom_apt_alphabet_city",
     "title": "One bedroom apt - Alphabet City",
-    "description": "I\u2019m relocating and looking to sublet my Alphabet City apartment beginning October 1. Would be ideal to have a renter stay through April 30. Fully furnished. Close to tons of great restaurants, bars and community gardens. Washer and dryer in unit, outdoor space, fully renovated....",
+    "description": "I\u2019m relocating and looking to sublet my Alphabet City apartment beginning October 1 to April 30. Fully furnished. Close to tons of great restaurants, bars and community gardens. Washer and dryer in unit, outdoor space, lots of closet space and fully renovated. Quiet building. Ap...",
     "price": 3695,
     "location": "New York, NY",
     "bedrooms": 1,
@@ -20,7 +20,7 @@
     "imageUrls": [
       "https://preview.redd.it/gpmpk9ckelnh1.jpg?width=140&height=105&auto=webp&s=0d45d3647653411e8939dda20b9e2050a654792f"
     ],
-    "availabilityLabel": null,
+    "availabilityLabel": "October 1 to April 30",
     "availableFrom": null,
     "availableTo": null,
     "termTags": [],
@@ -162,6 +162,32 @@
       "Utilities mentioned"
     ],
     "utilitiesNotes": "Highlights: High floor with AMAZING views of Manhattan and NY Harbor West-facing with tons of light Completely new highrise building with e..."
+  },
+  {
+    "id": "listingsproject-8c276033eb2b",
+    "title": "Fully furnished, bright studio in new building with amenities in Prospect Height",
+    "description": "$1,560.00 per week. $255 per day. Flexible dates. This fully furnished and equipped, bright, well-located studio in Prospect Heights has an easy, well-connected commute and a neighborhood that\u2019s genuinely fun to live in. Just 10 minutes on foot to multiple subway lines...",
+    "price": null,
+    "location": "Prospect Heights, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-09-05",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/t0JAQhfxMj9E99oxpEtuhw/4JVRbf-IMG_6121 3.jpg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/fully-furnished-bright-studio-in-new-building-with-amenities-in-prospect-heights-all-utilities-included-0bcbc921-0594-4658-8eb2-8c276033eb2b",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-09-06 to 2026-09-23",
+    "availableFrom": "2026-09-06",
+    "availableTo": "2026-09-23",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
   },
   {
     "id": "reddit-lease_takeover_furnishedunfurnished_50thfloor_lic",
