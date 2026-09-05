@@ -1,8 +1,44 @@
 [
   {
+    "id": "reddit-one_bedroom_apt_alphabet_city",
+    "title": "One bedroom apt - Alphabet City",
+    "description": "I\u2019m relocating and looking to sublet my Alphabet City apartment beginning October 1. Would be ideal to have a renter stay through April 30. Fully furnished. Close to tons of great restaurants, bars and community gardens. Washer and dryer in unit, outdoor space, fully renovated....",
+    "price": 3695,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-05",
+    "imageUrl": "https://preview.redd.it/gpmpk9ckelnh1.jpg?width=140&height=105&auto=webp&s=0d45d3647653411e8939dda20b9e2050a654792f",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w7l5h2/one_bedroom_apt_alphabet_city/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/This-Anteater4475",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/gpmpk9ckelnh1.jpg?width=140&height=105&auto=webp&s=0d45d3647653411e8939dda20b9e2050a654792f"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-lease_takeover_furnishedunfurnished_50thfloor_lic",
     "title": "Furnished/Unfurnished 50th-Floor LIC Studio \u2014 $3,891/mo net effective ($4,150 r...",
-    "description": "UPDATE (September 4, 2026): Reposting with corrected pricing and a new concession. Rent is $4,150/month, and I am now offering a $2,075 move-in credit (two weeks free), which works out to roughly $3,891/month net effective over the remaining eight-month term. I'm relocating to J...",
+    "description": "UPDATE (September 4, 2026): Rent is $4,150/month, and I am offering a $2,075 move-in credit (two weeks free), which works out to roughly $3,891/month net effective over the remaining eight-month term. I'm relocating to Japan and looking for a qualified renter to take over the re...",
     "price": 3891,
     "location": "Long Island City, New York, NY",
     "bedrooms": 0,
@@ -281,6 +317,79 @@
     "extraCosts": [
       "Fees mentioned"
     ]
+  },
+  {
+    "id": "reddit-lease_takeover_hells_kitchen",
+    "title": "Lease Takeover Hells Kitchen",
+    "description": "$3,350/month, available October 1st. Lease runs through March 31, 2027. Apartment in Hell\u2019s Kitchen has rooftop access, a shared backyard, and an in-unit washer/dryer. The apartment includes a brand new fridge, AC unit, and blinds. Utilities are included except for electricity....",
+    "price": 3350,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-04",
+    "imageUrl": "https://preview.redd.it/0blf76zszknh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=cabc3759c0b1f132de941d985b5ff3c40cc4e8fe",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w7j94a/lease_takeover_hells_kitchen/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Flamesoul44",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/0blf76zszknh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=cabc3759c0b1f132de941d985b5ff3c40cc4e8fe"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Utilities are included except for electricity."
+  },
+  {
+    "id": "reddit-lease_takeover_1_bed_1_bath_rent_stabilized_4424",
+    "title": "1 Bed 1 Bath Rent Stabilized - $4,424 - Gowanus, Brooklyn (Apartment video on L...",
+    "description": "Looking for someone to takeover our lease (with option to renew) in Gowanus, Brooklyn, starting in the coming weeks through the end of March 2027 (flexible move-in date). Lease break link (with video of apartment): https://www.leasebreak.com/short-term-rental-details/403710/365-...",
+    "price": 4424,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-04",
+    "imageUrl": "https://preview.redd.it/s0z3z64eoknh1.jpeg?width=320&crop=smart&auto=webp&s=d341bb0669b8996b30e4084d5594ff23f5b034eb",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w7ho7d/lease_takeover_1_bed_1_bath_rent_stabilized_4424/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/setmetfup",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/s0z3z64eoknh1.jpeg?width=320&crop=smart&auto=webp&s=d341bb0669b8996b30e4084d5594ff23f5b034eb",
+      "https://i.redd.it/s0z3z64eoknh1.jpeg"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "- 1 bed/1 bath - $4,424/month, including utilities (excluding electricity) - Friendly and attentive management - Lease through March 15, 20..."
   },
   {
     "id": "listingsproject-70eba4564442",
@@ -10839,39 +10948,6 @@
       "r/nyu",
       "Furnished",
       "Sublet",
-      "Roommate",
-      "Housing megathread"
-    ],
-    "extraCosts": [
-      "Fees mentioned"
-    ]
-  },
-  {
-    "id": "reddit-cant_find_a_roommate_inperson_for_upperclassman",
-    "title": "Can't find a roommate in-person for upperclassman on-campus housing",
-    "description": "I'm a rising sophomore and I've been really struggling to find potential roommates. The people I'm closest with either already have roommates or have totally different room preferences, schedules and mess levels than me. So when they ask me if I want to share a room, I have to q...",
-    "price": null,
-    "location": "New York, NY",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "platform": "Reddit",
-    "dateListed": "2026-03-08",
-    "imageUrl": null,
-    "sourceUrl": "https://www.reddit.com/r/nyu/comments/1ro0lc7/cant_find_a_roommate_inperson_for_upperclassman/",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": "r/nyu",
-    "sourceThreadTitle": "r/nyu housing posts",
-    "sourceAuthor": "/u/Resident-Can-3064",
-    "sourceIntent": "offer",
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": null,
-    "availableFrom": null,
-    "availableTo": null,
-    "termTags": [],
-    "amenities": [
-      "Reddit",
-      "r/nyu",
       "Roommate",
       "Housing megathread"
     ],
