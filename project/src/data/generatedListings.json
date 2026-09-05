@@ -62,6 +62,108 @@
     "extraCosts": []
   },
   {
+    "id": "listingsproject-greenpoint",
+    "title": "Bright, Spacious, Light Filled Creative Home In Greenpoint",
+    "description": "Creative and eclectic 1 Bedroom greenpoint apartment. Bright and airy with a private roof deck along with spa like bathroom: smart toilet and steam shower. Close to the east river and lots of wonderful restaurants and bars. Greenpoint is a laidback, creative, and...",
+    "price": 4100,
+    "location": "Greenpoint, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-09-05",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/WhEtqBQVJsTbhlxyRXYHkg/3tEzdg-IMG_1715.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/bright-spacious-light-filled-creative-home-in-greenpoint",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-11-01 to 2027-11-01",
+    "availableFrom": "2026-11-01",
+    "availableTo": "2027-11-01",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-oct_1st_lease_takeovercosign",
+    "title": "Oct 1st Lease Takeover/Co-Sign!",
+    "description": "Our current sublease is ending September 30th(leaseholder is moving out), and we\u2019re looking for a 4th roommate to Co-sign with me for the year starting Oct 1st\u2728 Private room available in a 4br/2b apartment in Bushwick, off St Nickolas & Grove st on the 2nd floor. 1 block from la...",
+    "price": 875,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-05",
+    "imageUrl": "https://preview.redd.it/rdioxkh8ipnh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bba05389837d9e299962449a239f5c53a6cd5e7d",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w81aqk/oct_1st_lease_takeovercosign/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Affectionate-Tear512",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/rdioxkh8ipnh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bba05389837d9e299962449a239f5c53a6cd5e7d"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "1 block from laundry mat 2 blocks from groceries 3 blocks from the Myrtle-Wyckoff L/M trains Rent is $875/month + utilities ($75/mo per per..."
+  },
+  {
+    "id": "reddit-1br1ba_lease_takeover_in_gowanus_4th_douglass",
+    "title": "1Br/1Ba Lease Takeover in Gowanus, 4th & Douglass. $3,429 net rent, Oct 1-July...",
+    "description": "Looking for a lease takeover for my unfurnished 1br/1ba in Gowanus, near Atlantic Av/Barclays Center. DM if interested\u2014video tour available! Ideal move-in Oct 1 , with lease ending July 31, 2027 (or May 31, 2027 if you prefer) $4,220 gross rent w/1.5 free months = $3428.75/mo ne...",
+    "price": 3429,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-05",
+    "imageUrl": "https://preview.redd.it/vq3glvcjipnh1.jpg?width=140&height=105&auto=webp&s=12719cd89287470f408cae7f9ef8c98591ce8a62",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w81m96/1br1ba_lease_takeover_in_gowanus_4th_douglass/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/ptang",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/vq3glvcjipnh1.jpg?width=140&height=105&auto=webp&s=12719cd89287470f408cae7f9ef8c98591ce8a62"
+    ],
+    "availabilityLabel": "Oct 1-July 31",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Gym",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Highlights: High floor with AMAZING views of Manhattan and NY Harbor West-facing with tons of light Completely new highrise building with e..."
+  },
+  {
     "id": "reddit-lease_takeover_furnishedunfurnished_50thfloor_lic",
     "title": "Furnished/Unfurnished 50th-Floor LIC Studio \u2014 $3,891/mo net effective ($4,150 r...",
     "description": "UPDATE (September 4, 2026): Rent is $4,150/month, and I am offering a $2,075 move-in credit (two weeks free), which works out to roughly $3,891/month net effective over the remaining eight-month term. I'm relocating to Japan and looking for a qualified renter to take over the re...",
@@ -4084,7 +4186,7 @@
   {
     "id": "reddit-lease_takeover_in_ues_sunny_1_bedroom_apartment",
     "title": "Lease Takeover in UES - Sunny 1 bedroom apartment!",
-    "description": "APPLICATIONS OPEN!! New tenant MUST sign a 12 month lease to be considered! $3,295/mo. 1 bed 1 bath in Yorkville. 81st and 1st. 3rd floor walk up. South facing. Great natural light. Ample storage (closets and kitchen). Dishwasher. AC unit in living room and bedroom. Queen size s...",
+    "description": "RENTED. $3,295/mo. 1 bed 1 bath in Yorkville. 81st and 1st. 3rd floor walk up. South facing. Great natural light. Ample storage (closets and kitchen). Dishwasher. AC unit in living room and bedroom. Queen size sleeper sofa and TV available for purchase. In building laundry. Reas...",
     "price": 3295,
     "location": "New York, NY",
     "bedrooms": 1,
