@@ -1,5 +1,38 @@
 [
   {
+    "id": "reddit-little_italy_3500_1_bedrm_furnished",
+    "title": "Little Italy 3500 1 bedrm furnished",
+    "description": "Available immediately. 1 newly remodeled, furnished bedroom apt for sublease available in prime Little Italy area. Highly convenient to food shopping, subways (Q line, 6, B, D lines). All new appliances including 2 AC units. Rent includes heat and hot water. Ideal for NYU studen...",
+    "price": null,
+    "location": "Financial District, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-06",
+    "imageUrl": "https://preview.redd.it/mq6zb8t5osnh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=17b9a9a49732ce2c172c731f95e48a33c1a9433f",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w8h980/little_italy_3500_1_bedrm_furnished/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/PrimaryAnywhere4898",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/mq6zb8t5osnh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=17b9a9a49732ce2c172c731f95e48a33c1a9433f"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-one_bedroom_apt_alphabet_city",
     "title": "One bedroom apt - Alphabet City",
     "description": "I\u2019m relocating and looking to sublet my Alphabet City apartment beginning October 1 to April 30. Fully furnished. Close to tons of great restaurants, bars and community gardens. Washer and dryer in unit, outdoor space, lots of closet space and fully renovated. Quiet building. Ap...",
@@ -128,7 +161,7 @@
   {
     "id": "reddit-1br1ba_lease_takeover_in_gowanus_4th_douglass",
     "title": "1Br/1Ba Lease Takeover in Gowanus, 4th & Douglass. $3,429 net rent, Oct 1-July...",
-    "description": "Looking for a lease takeover for my unfurnished 1br/1ba in Gowanus, near Atlantic Av/Barclays Center. DM if interested\u2014video tour available! Ideal move-in Oct 1 , with lease ending July 31, 2027 (or May 31, 2027 if you prefer) $4,220 gross rent w/1.5 free months = $3428.75/mo ne...",
+    "description": "Looking for a lease takeover for my unfurnished 1br/1ba in Gowanus, near Atlantic Av/Barclays Center. DM if interested\u2014video tour available! Ideal move-in Oct 1 , with lease ending July 31, 2027 (or May 31, 2027 if you prefer) $4,220 gross rent w/1.5 free months = $3,587/mo net...",
     "price": 3429,
     "location": "New York, NY",
     "bedrooms": 1,
@@ -221,6 +254,36 @@
     "extraCosts": [
       "Fees mentioned"
     ]
+  },
+  {
+    "id": "reddit-lease_takeover_question",
+    "title": "Lease Takeover Question",
+    "description": "Hi, I'm looking to do a lease assignment and have someone take over my lease for my apartment. What happens if you have someone take over your lease, but they break the lease before their move-in date? Are you still on the hook to find a new tenant? Or are you legally totally fr...",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-05",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w87r7f/lease_takeover_question/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/No-Author7535",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
   },
   {
     "id": "reddit-lease_takeover_furnishedunfurnished_50thfloor_lic",
