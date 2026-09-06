@@ -33,6 +33,45 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-lease_takeover_2_bedroom_1_bathroom_rent",
+    "title": "Lease takeover: 2 bedroom, 1 bathroom rent stabilized apartment available Oct. 1",
+    "description": "I am so sad that I have to leave this apartment, but I recently lost my job and need to break my lease. This is a *rent stabilized* apartment located in Bed Stuy. The apartment is 2 bedrooms and one bath, and it is a fourth-floor walkup . It's about 650 square feet and gets a lo...",
+    "price": 2340,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-06",
+    "imageUrl": "https://preview.redd.it/4zeph2cemxnh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=3f50026f9421593c9d1fab21c168574a1a62c015",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1w920ow/lease_takeover_2_bedroom_1_bathroom_rent/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/jellybeandc",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/4zeph2cemxnh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=3f50026f9421593c9d1fab21c168574a1a62c015"
+    ],
+    "availabilityLabel": "Oct. 1-July 31",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "The monthly rent is $2,340 unfurnished and minus utilities (or, if you want to keep all the furniture, I'm selling everything you see in th..."
+  },
+  {
     "id": "reddit-one_bedroom_apt_alphabet_city",
     "title": "One bedroom apt - Alphabet City",
     "description": "I\u2019m relocating and looking to sublet my Alphabet City apartment beginning October 1 to April 30. Fully furnished. Close to tons of great restaurants, bars and community gardens. Washer and dryer in unit, outdoor space, lots of closet space and fully renovated. Quiet building. Ap...",
