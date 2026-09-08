@@ -69,6 +69,76 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-lease_takeover_1_bedroom_1_bath_gowanus_brooklyn",
+    "title": "Lease takeover: 1 Bedroom / 1 Bath, Gowanus Brooklyn, Rent Stabilized (October...",
+    "description": "Looking for someone to takeover our lease (with option to renew) in Gowanus, Brooklyn, starting in the coming weeks through the end of March 2027 (flexible move-in date). Address: 365 Bond Street, Brooklyn Building Website: https://365bond.com/building/ Leasebreak link: https://...",
+    "price": 4424,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-08",
+    "imageUrl": "https://preview.redd.it/zsd4nmjzc7oh1.jpg?width=140&height=105&auto=webp&s=2f6da36717bf885dae33d2b98f2a8ba997a71601",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wab68n/lease_takeover_1_bedroom_1_bath_gowanus_brooklyn/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/setmetfup",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/zsd4nmjzc7oh1.jpg?width=140&height=105&auto=webp&s=2f6da36717bf885dae33d2b98f2a8ba997a71601"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "- 1 bed/1 bath - $4,424/month, including utilities (excluding electricity) - Friendly and attentive management - Lease through March 15, 20..."
+  },
+  {
+    "id": "reddit-1br_lease_takeover_les_delancey_orchard",
+    "title": "\u2728 1BR lease takeover LES \u2014 Delancey & Orchard \u2728",
+    "description": "1 year lease takeover in the heart of LES Rent: $3400 Avaiable: Oct 1st 2026 Pet friendly 1 year lease 3rd floor walkup Looking for someone to take over my lease in my 1-bedroom in the heart of the Lower East Side steps from everything. A clean, well-maintained space on the 3rd...",
+    "price": 3400,
+    "location": "Lower East Side, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-08",
+    "imageUrl": "https://preview.redd.it/vcry56yg97oh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2d75d3d7694b5d7d2a8b83720148b6e170ce2dc4",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1waape8/1br_lease_takeover_les_delancey_orchard/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/shesham1",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/vcry56yg97oh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2d75d3d7694b5d7d2a8b83720148b6e170ce2dc4"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-greenpoint_brooklyn_2br1ba_lease_takeover_5250",
     "title": "Greenpoint Brooklyn 2BR/1BA lease takeover, $5,250, Oct 9th availability",
     "description": "I have to relocate internationally in October & looking to transfer my lease. Hoping to hand it off to someone who'll enjoy it as much as I have. I moved to Greenpoint after living 4 years in Manhattan and have been loving this neighborhood. Apartment Specifics: 2BR/1BA, 800 sqf...",
