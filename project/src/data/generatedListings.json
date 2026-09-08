@@ -139,6 +139,41 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-rent_stabilized_2658_no_broker_fee_jefferson_l",
+    "title": "RENT STABILIZED ($2658) | NO BROKER FEE | JEFFERSON L | LEASE TRANSFER FOR OCTO...",
+    "description": "Rent-stabilized one bedroom, one bathroom apartment available for a lease takeover starting October 16 (can do as early as 11th if better for your schedule). Lease ends June 30th of next year, so you\u2019ll have the opportunity to sign a new lease with 0% increase. The apartment is...",
+    "price": 2658,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-08",
+    "imageUrl": "https://preview.redd.it/4hivqtxjdcoh1.jpg?width=140&height=105&auto=webp&s=ffc944c86a0536a98e6da2a678fbbc65e09e7a95",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wax5m7/rent_stabilized_2658_no_broker_fee_jefferson_l/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/TheloneusPunk",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/4hivqtxjdcoh1.jpg?width=140&height=105&auto=webp&s=ffc944c86a0536a98e6da2a678fbbc65e09e7a95"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-greenpoint_brooklyn_2br1ba_lease_takeover_5250",
     "title": "Greenpoint Brooklyn 2BR/1BA lease takeover, $5,250, Oct 9th availability",
     "description": "I have to relocate internationally in October & looking to transfer my lease. Hoping to hand it off to someone who'll enjoy it as much as I have. I moved to Greenpoint after living 4 years in Manhattan and have been loving this neighborhood. Apartment Specifics: 2BR/1BA, 800 sqf...",
