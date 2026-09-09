@@ -1,5 +1,39 @@
 [
   {
+    "id": "reddit-1bd_1ba_nov_1_lease_takeover_3700_hells_kitchen",
+    "title": "1bd 1ba // Nov 1 lease takeover // $3700 // Hell's Kitchen 55th x 9th Ave",
+    "description": "Looking for someone to take over my lease. Please read the information below and fill out the form linked at the bottom if interested. Video tour above and additional photos are here . Basics: 1 bedroom / 1 bathroom $3700 monthly rent Available 11/1/27 - 3/31/27 (5-month lease t...",
+    "price": 3700,
+    "location": "Hell's Kitchen, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-09",
+    "imageUrl": "https://external-preview.redd.it/amk1M2ZpN2w3ZW9oMXd76JB8CmZUoLgws-CxUKaQMhFgIZWMKrrqxHUJmnw1.png?width=640&crop=smart&auto=webp&s=5debd10aee9b83e5028a142baa0422aaa3687cba",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wb6x6p/1bd_1ba_nov_1_lease_takeover_3700_hells_kitchen/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/littlenorm",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/amk1M2ZpN2w3ZW9oMXd76JB8CmZUoLgws-CxUKaQMhFgIZWMKrrqxHUJmnw1.png?width=640&crop=smart&auto=webp&s=5debd10aee9b83e5028a142baa0422aaa3687cba"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-kips_bay_studio_lease_takeover_sublet_2nd_ave",
     "title": "Kips Bay Studio Lease Takeover / Sublet \u2014 2nd Ave & 27th St",
     "description": "Looking for someone to take over/sublet my studio in Kips Bay starting around September 15th - a little earlier or later can definitely be discussed! I love the apartment and would stay, but I\u2019m moving to be closer to work. \ud83c\udfd9 13th floor with amazing Empire State Building/city vi...",
@@ -167,6 +201,112 @@
       "Reddit",
       "r/NYCapartments",
       "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_2400_1_br_private_bathroom_in_2_br",
+    "title": "$2,400 / 1 BR + Private Bathroom in 2 BR unit in Williamsburg [In-Unit W/D + Di...",
+    "description": "[Reposting b/c I had originally posted too early for Oct. 1 move-in.] Unfortunately, I have to move out of the city somewhat unexpectedly so I'm looking to transfer my lease for 1 BR within a two-bedroom unit that's right by the Grand St. L-train stop in Williamsburg. My bedroom...",
+    "price": 2400,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-08",
+    "imageUrl": "https://external-preview.redd.it/aG95ZWRrMzBqZG9oMYf6EHroTWVNAsC1PebnGkHJgkNJMGBs73p7FGZSJSxn.jpeg?width=640&crop=smart&auto=webp&s=99ad3350728f645f24621189c07cd2efd0267f37",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wb3ksl/lease_takeover_2400_1_br_private_bathroom_in_2_br/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/LostInJonkers",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/aG95ZWRrMzBqZG9oMYf6EHroTWVNAsC1PebnGkHJgkNJMGBs73p7FGZSJSxn.jpeg?width=640&crop=smart&auto=webp&s=99ad3350728f645f24621189c07cd2efd0267f37"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-3350_large_studio_on_the_ues_lease_takeover",
+    "title": "$3350 Large Studio on the UES, Lease Takeover October 1, 2026- April 30, 2027",
+    "description": "Hello everyone! Looking for someone to take over my apartment lease starting October 1st, ends April 2027 with option to renew. Really love this place but some life stuff has come up and I unfortunately have to relocate. -located on 81st street in the heart of the UES surrounded...",
+    "price": 3350,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-08",
+    "imageUrl": "https://preview.redd.it/ey97id0wfdoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=94171927b5bfe8ddcb542a1a11908370bb1566d0",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wb34t6/3350_large_studio_on_the_ues_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/ericaspera",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ey97id0wfdoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=94171927b5bfe8ddcb542a1a11908370bb1566d0"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-midtown_alcove_studio_reposting",
+    "title": "Midtown Alcove Studio - reposting",
+    "description": "Midtown Manhattan Studio Lease Takeover \u2014 earliest availability from Oct 1st \ud83d\udcb0 $3,175/month \ud83d\udcc5 Lease Reassignment through December 31, 2026 directly with the landlord, and renew if you wish. Looking for a great studio in the heart of Midtown? This apartment is quiet and thoughtfu...",
+    "price": 3175,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-08",
+    "imageUrl": "https://preview.redd.it/2mta0txbycoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=af135a66bec7d08ee2e2734ca69f15f850ed5a33",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wb0h6j/midtown_alcove_studio_reposting/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Prudent-Molasses-121",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/2mta0txbycoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=af135a66bec7d08ee2e2734ca69f15f850ed5a33"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Near campus",
       "Housing megathread"
     ],
     "extraCosts": [
