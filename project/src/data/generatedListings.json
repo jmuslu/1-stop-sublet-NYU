@@ -141,6 +141,105 @@
     "extraCosts": []
   },
   {
+    "id": "listingsproject-1732d393e19e",
+    "title": "Spacious, Quiet Sanctuary in Lower Manhattan",
+    "description": "I am renting my apartment on the Lower East Side while my partner and I are out of state for graduate school. Seeking a responsible person who will appreciate the calm, respect the neighbors, and care for the space and belongings with love. Plant-lovers especially...",
+    "price": 4300,
+    "location": "Lower East Side, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-09-10",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/11SP6-e9CXaXgfkBk19SPQ/TYoGNO-MS2C2482.JPG?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/spacious-quiet-sanctuary-in-lower-manhattan-297b9f3e-15c4-429e-b21f-1732d393e19e",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-11-01 to 2027-04-30",
+    "availableFrom": "2026-11-01",
+    "availableTo": "2027-04-30",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-sunny_corner_two_bedroom_in_south_williamsburg",
+    "title": "Sunny Corner Two Bedroom in South Williamsburg \u2013 10/1 Lease Takeover",
+    "description": "Looking for someone to take over the reminder of my lease at 321 Wythe Ave through 11/30/2026 for $5,900 with the option to renew for 12 months starting 12/1/2026 for $6,200/mo. The apartment has views from every room and is located in a fantastic part of Williamsburg (S 2nd and...",
+    "price": 5900,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-10",
+    "imageUrl": "https://preview.redd.it/3n6livbqoooh1.jpg?width=140&height=105&auto=webp&s=904f1d0126f60bee4830ecca7daa3ac9d2c4c1ba",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wchdcu/sunny_corner_two_bedroom_in_south_williamsburg/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Ok_Perception_2369",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/3n6livbqoooh1.jpg?width=140&height=105&auto=webp&s=904f1d0126f60bee4830ecca7daa3ac9d2c4c1ba"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_upper_east_side_studio_3500mo",
+    "title": "Lease Takeover - Upper East Side Studio - $3500/mo",
+    "description": "Lease takeover for a renovated UES studio (1 block from 86th St. Q train) Overview: Renovated studio, $3,500/month 4th floor, west-facing with great natural light Elevator building with laundry Modern kitchen with dishwasher, hardwood floors, and three deep closets Available Oct...",
+    "price": 3500,
+    "location": "Upper East Side, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-10",
+    "imageUrl": "https://preview.redd.it/xy8f5p90tloh1.jpg?width=140&height=93&auto=webp&s=d262c8add6e80a51532f09116f8c326aaef0b3af",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wc68rs/lease_takeover_upper_east_side_studio_3500mo/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Revolutionary_Let833",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/xy8f5p90tloh1.jpg?width=140&height=93&auto=webp&s=d262c8add6e80a51532f09116f8c326aaef0b3af"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-1bd_1ba_nov_1_lease_takeover_3700_hells_kitchen",
     "title": "1bd 1ba // Nov 1 lease takeover // $3700 // Hell's Kitchen 55th x 9th Ave",
     "description": "Looking for someone to take over my lease. Please read the information below and fill out the form linked at the bottom if interested. Video tour above and additional photos are here . Basics: 1 bedroom / 1 bathroom $3700 monthly rent Available 11/1/26 - 3/31/27 (5-month lease t...",
