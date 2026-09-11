@@ -58,6 +58,40 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-lease_takeover_1br_on_central_park_north_110th_st",
+    "title": "Lease takeover - 1BR on Central Park North (110th St), $3,025/mo, no fee",
+    "description": "We just found out we're having twins, so we need a two-bedroom sooner than planned. Looking for someone to take over our lease starting Sept 15(or Oct 1) and running through July 31, 2027. \u2022 1 bedroom, elevator building at 35 Central Park North \u2022 $3,025/month, heat and hot water...",
+    "price": 3025,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-11",
+    "imageUrl": "https://preview.redd.it/iy5swg4xzsoh1.jpg?width=140&height=105&auto=webp&s=06da4afeca05ef402c15c20f4e4bcec39a05f419",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wd3ppx/lease_takeover_1br_on_central_park_north_110th_st/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/LassoBeans",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/iy5swg4xzsoh1.jpg?width=140&height=105&auto=webp&s=06da4afeca05ef402c15c20f4e4bcec39a05f419"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-692bd3455aa1",
     "title": "Crown Heights 2BR w/ Private Garden \u2014 Walk to A, C, 3, 4",
     "description": "Sun-filled 2BR with Private Garden \u2014 Crown Heights A recently renovated ground-floor two-bedroom with its own garden in Crown Heights. Fully furnished and ready to move into. The space \u00b7 Private garden \u2014 yours alone, with raised beds and outdoor furniture \u00b7 Two...",
