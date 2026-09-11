@@ -92,6 +92,79 @@
     ]
   },
   {
+    "id": "reddit-sublease_lease_takeover_in_beautiful_clinton_hill",
+    "title": "Sublease / Lease Takeover in Beautiful Clinton Hill 4BR/1.5B - Available Novemb...",
+    "description": "Hey there! I'm looking for someone to either sublet or takeover (I'm comfortable with both,) my room in Clinton Hill. It's available for move-in from November 1st onward! The lease ends April 30, and there is an option to renew. Apartment: This apartment is a new-build 2 floor,...",
+    "price": 1575,
+    "location": "New York, NY",
+    "bedrooms": 4,
+    "bathrooms": 1.5,
+    "platform": "Reddit",
+    "dateListed": "2026-09-11",
+    "imageUrl": "https://preview.redd.it/62yl9b79jxoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bd3ac10f5a9649be746ce17705bcaabbdd9e9bfd",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wdnhnz/sublease_lease_takeover_in_beautiful_clinton_hill/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Homieasianjeff",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/62yl9b79jxoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bd3ac10f5a9649be746ce17705bcaabbdd9e9bfd"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Room: Rent is $1575 + Utilities (water included.) Security deposit required as well."
+  },
+  {
+    "id": "reddit-ues_2br_15ba_sublet_3250month_oct_1dec_1_near",
+    "title": "UES 2BR / 1.5BA Sublet \u2014 $3,250/month \u2014 Oct 1\u2013Dec 1 \u2014 Near 86th St Q",
+    "description": "Hi! We\u2019re looking for someone who can move quickly to sublet our 2-bedroom, 1.5-bath apartment on the Upper East Side for the final two months of our lease. We have loved living here for nearly 4 years. It\u2019s a very cosey apartment with LOTS of storage space. Dates: October 1 \u2013 N...",
+    "price": 3250,
+    "location": "Upper East Side, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "platform": "Reddit",
+    "dateListed": "2026-09-11",
+    "imageUrl": "https://preview.redd.it/vqcofyj3twoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9a341c7d46775cbf3b99fbe5bef413b191796368",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wdjfsf/ues_2br_15ba_sublet_3250month_oct_1dec_1_near/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/theshinyspine",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/vqcofyj3twoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9a341c7d46775cbf3b99fbe5bef413b191796368"
+    ],
+    "availabilityLabel": "Oct 1\u2013Dec 1",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-692bd3455aa1",
     "title": "Crown Heights 2BR w/ Private Garden \u2014 Walk to A, C, 3, 4",
     "description": "Sun-filled 2BR with Private Garden \u2014 Crown Heights A recently renovated ground-floor two-bedroom with its own garden in Crown Heights. Fully furnished and ready to move into. The space \u00b7 Private garden \u2014 yours alone, with raised beds and outdoor furniture \u00b7 Two...",
@@ -261,7 +334,7 @@
   {
     "id": "reddit-sunny_corner_two_bedroom_in_south_williamsburg",
     "title": "Sunny Corner Two Bedroom in South Williamsburg \u2013 10/1 Lease Takeover",
-    "description": "Looking for someone to take over the reminder of my lease at 321 Wythe Ave through 11/30/2026 for $5,900 with the option to renew for 12 months starting 12/1/2026 for $6,200/mo. The apartment has views from every room and is located in a fantastic part of Williamsburg (S 2nd and...",
+    "description": "Looking for someone to take over the reminder of my lease through 11/30/2026 for $5,900 with the option to renew for 12 months starting 12/1/2026 for $6,200/mo. The apartment has views from every room and is located in a fantastic part of Williamsburg (S 2nd and Wythe Ave) walki...",
     "price": 5900,
     "location": "Williamsburg, New York, NY",
     "bedrooms": 1,
