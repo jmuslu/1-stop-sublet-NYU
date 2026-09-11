@@ -1,5 +1,63 @@
 [
   {
+    "id": "listingsproject-da32df235768",
+    "title": "BedStuy Fully Stocked Apartment, Everything Included!",
+    "description": "first floor unit (NOT Basement, actual 1st floor!) in prime bedstuy Tompkins Ave! 1,000 Sqft includes laundry in unit and dishwasher! Fully furnished! 2 bedrooms / 1 bath (1 bedroom is a guest room with peloton bike not an actual bed but I have a Queen air mattress that...",
+    "price": 4000,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-09-11",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/-p4yhim570qYxG9VqU42pQ/tqnRYF-IMG_0064.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/bedstuy-fully-stocked-apartment-everything-included-cadb4ad1-14fd-4923-ab00-da32df235768",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-11-13 to 2027-02-28",
+    "availableFrom": "2026-11-13",
+    "availableTo": "2027-02-28",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-charming_prime_ues_studio_lease_takeover",
+    "title": "Charming Prime UES Studio - Lease Takeover",
+    "description": "1570 2nd Ave, Between 81st and 82nd The perfect UES location! October 1st Move In $2,800 / Month \\ Must qualify 40x rent + Good Credit. Guarantors accepted* * Looking for someone to take over our lease after being in this apartment for 3 wonderful years. This will be a lease rea...",
+    "price": 2800,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-11",
+    "imageUrl": "https://preview.redd.it/s8yxhersmsoh1.jpg?width=140&height=105&auto=webp&s=719f4430eead75eaa8968c1d946d7afbae596a7c",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wd23fa/charming_prime_ues_studio_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Responsible-Emu-6377",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/s8yxhersmsoh1.jpg?width=140&height=105&auto=webp&s=719f4430eead75eaa8968c1d946d7afbae596a7c"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-692bd3455aa1",
     "title": "Crown Heights 2BR w/ Private Garden \u2014 Walk to A, C, 3, 4",
     "description": "Sun-filled 2BR with Private Garden \u2014 Crown Heights A recently renovated ground-floor two-bedroom with its own garden in Crown Heights. Fully furnished and ready to move into. The space \u00b7 Private garden \u2014 yours alone, with raised beds and outdoor furniture \u00b7 Two...",
@@ -359,6 +417,116 @@
     "extraCosts": [
       "Fees mentioned"
     ]
+  },
+  {
+    "id": "reddit-rentstabilized_lease_takeover_midtown_manhattan",
+    "title": "Rent-Stabilized Lease Takeover | Midtown Manhattan | $5,182.50/mo | Oct 1\u201315 Mo...",
+    "description": "Looking for someone to take over our rent-stabilized lease in Midtown Manhattan (125W 31st St near 6th Ave). #34C Full service luxury building with amenities, 1bed/1bath, in-unit washer dryer, ~680sqft Rent: $5,182.50/month Move-in: Flexible between October 1\u201315 Lease: Formal le...",
+    "price": 5182,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-10",
+    "imageUrl": "https://preview.redd.it/r2uz2vwzjroh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4826d985421429f10c471b09076b578e4d2dcfae",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wcwyii/rentstabilized_lease_takeover_midtown_manhattan/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Diligent-Pangolin-56",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/r2uz2vwzjroh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4826d985421429f10c471b09076b578e4d2dcfae"
+    ],
+    "availabilityLabel": "Oct 1\u201315",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_furnished_room_in_hells_kitchen",
+    "title": "Lease takeover: Furnished room in Hell\u2019s Kitchen \u2013 $2,504/mo total, Oct 1",
+    "description": "Hi! I\u2019m looking for someone to take over my furnished private room in a 4-bedroom apartment in Hell\u2019s Kitchen at 424 W 47th St . Available October 1, 2026 through August 16, 2027 , with an earlier move-in potentially possible. The room comes fully furnished with a full-size bed,...",
+    "price": 2504,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-10",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wcutuf/lease_takeover_furnished_room_in_hells_kitchen/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/WindBackground309",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Near campus",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Monthly cost: $2,290 rent + $199 utilities + $15 protection plan = $2,504 total/month There is no broker fee ."
+  },
+  {
+    "id": "reddit-lease_takeover_5950_2br2ba_midtown_manhattan_w",
+    "title": "$5,950 2BR/2BA Midtown Manhattan w/ Private Balcony | Nov 1\u2013Apr 30.",
+    "description": "Hi! We\u2019re looking for someone to take over our lease for our 2 bed / 2 bath apartment at 230 W 55th St , available November 1 through the end of April . Rent is $5,950/month. We think it\u2019s a great deal for the apartment and location. A similar unit on a lower floor without a bal...",
+    "price": 5950,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-10",
+    "imageUrl": "https://preview.redd.it/7x54toq92roh1.jpg?width=140&height=105&auto=webp&s=cb14cbc31069e2b93dca440c4311ce4d8f8d4c45",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wcudx8/lease_takeover_5950_2br2ba_midtown_manhattan_w/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/DonPanchode",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/7x54toq92roh1.jpg?width=140&height=105&auto=webp&s=cb14cbc31069e2b93dca440c4311ce4d8f8d4c45"
+    ],
+    "availabilityLabel": "Nov 1\u2013Apr 30",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Other utilities are not included."
   },
   {
     "id": "reddit-1bd_1ba_nov_1_lease_takeover_3700_hells_kitchen",
