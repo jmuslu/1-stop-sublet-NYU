@@ -1,5 +1,106 @@
 [
   {
+    "id": "reddit-ues_81st_on_1st_ave_1br_sublet_lease_takeover",
+    "title": "UES (81st on 1st Ave) 1BR Sublet / Lease Takeover -$3,085/mo - Starting October",
+    "description": "Hi! Looking for someone who can ideally take over lease to move in my 1-bedroom UES apartment (open to sublet) in October for one year! I love living here, have no problems fitting in and management is very professional / helpful - I\u2019m just looking for a cheaper option to save s...",
+    "price": 3085,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-13",
+    "imageUrl": "https://preview.redd.it/5gjn23l59cph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9bbe3b25de71bde7862248f778fe048ea99683dc",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wfh24m/ues_81st_on_1st_ave_1br_sublet_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Substantial-Trash138",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/5gjn23l59cph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9bbe3b25de71bde7862248f778fe048ea99683dc"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-urgent_kips_bay_studio_lease_takeover_sublet_2nd",
+    "title": "Kips Bay Studio Lease Takeover / Sublet \u2014 2nd Ave & 27th St",
+    "description": "Looking for someone to take over/sublet my studio in Kips Bay starting around September 15th - a little earlier or later can definitely be discussed! I love the apartment and would stay, but I\u2019m moving to be closer to work. \ud83c\udfd9 13th floor with amazing Empire State Building/city vi...",
+    "price": 3914,
+    "location": "Kips Bay, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-13",
+    "imageUrl": "https://preview.redd.it/cuj6bnd50cph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=25691318226c2735b47f28ac37d7ce3a2fc5a282",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wffp1j/urgent_kips_bay_studio_lease_takeover_sublet_2nd/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Alternative-Major7",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/cuj6bnd50cph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=25691318226c2735b47f28ac37d7ce3a2fc5a282"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Gym",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-2650_uesyorkville_large_studio_avail_asap",
+    "title": "$2650 UES/Yorkville large studio avail ASAP",
+    "description": "Looking for someone to take over my lease for a bright, south-facing studio in a great Upper East Side/Yorkville location, just off Second Avenue. Lease runs until 7/28/27 The apartment gets really nice natural light and has hardwood floors, high ceilings, good closet space, and...",
+    "price": 2650,
+    "location": "Upper East Side, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-13",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wffmvs/2650_uesyorkville_large_studio_avail_asap/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Zurarina",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-0a21ecadfc13",
     "title": "Bohemian Brooklyn Loft with Private Terrace!",
     "description": "Bright & spacious rooftop loft in prime location Clinton Hill, Brooklyn! Private 600-sq. foot terrace has sweeping views of the Manhattan skyline! Eclectic, vintage, handmade furniture fills the space, with lots of healthy indoor & outdoor plants! You will have...",
