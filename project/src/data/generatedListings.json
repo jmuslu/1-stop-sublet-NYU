@@ -90,6 +90,78 @@
     "utilitiesNotes": "Rent is $2784 a month, not including utilities (Internet, ConEd electricity + gas), which are around $100-$150 per month."
   },
   {
+    "id": "reddit-lease_takeover_jersey_city_235_grand_2_bd_2_bath",
+    "title": "Lease Takeover - Jersey City - 235 Grand - 2 bd 2 bath - $5266/mo",
+    "description": "Wife & I just bought a home, so looking for someone to takeover lease of our apt: - view any unit ending in \u201c06\u201d on building website to see sample floor plan - $5266/mo (lease expires 6/19/27) - no security deposit required (You\u2019re eligible to receive the security deposit too) -...",
+    "price": 5266,
+    "location": "Jersey City, NJ",
+    "bedrooms": 1,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-12",
+    "imageUrl": "https://external-preview.redd.it/MTliczR1bXZnM3BoMdn47YUJw5i4FvNfprU4YkX8L84v1PpPbZBQ0hkzCoiR.jpeg?width=640&crop=smart&auto=webp&s=436575557a705b897bf050196236e55ccc12d77a",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wed78l/lease_takeover_jersey_city_235_grand_2_bd_2_bath/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Guilty_Pangolin9121",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/MTliczR1bXZnM3BoMdn47YUJw5i4FvNfprU4YkX8L84v1PpPbZBQ0hkzCoiR.jpeg?width=640&crop=smart&auto=webp&s=436575557a705b897bf050196236e55ccc12d77a"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Parking",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ],
+    "parking": "Parking mentioned"
+  },
+  {
+    "id": "reddit-central_harlem_1br1bath_1595_oct1_lease_takeover",
+    "title": "central harlem 1br/1bath - 1595 - oct1 lease takeover",
+    "description": "hey guys i am looking for someone to take over my lease for a beautiful bedroom with private bathroom. \\- bedroom is queen size flooded with direct light plus closet \\- the apartment is a 2 bedroom/2 bath apartment shared with my wonderful POC femme roommate. she is an amazing h...",
+    "price": null,
+    "location": "Harlem, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-12",
+    "imageUrl": "https://preview.redd.it/69n908nz13ph1.jpeg?width=640&crop=smart&auto=webp&s=f76511192983b63d7b0d9fc88eb0dd219325ddb6",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1webc8e/central_harlem_1br1bath_1595_oct1_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/chung_sun_li",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/69n908nz13ph1.jpeg?width=640&crop=smart&auto=webp&s=f76511192983b63d7b0d9fc88eb0dd219325ddb6",
+      "https://i.redd.it/69n908nz13ph1.jpeg"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-da32df235768",
     "title": "BedStuy Fully Stocked Apartment, Everything Included!",
     "description": "first floor unit (NOT Basement, actual 1st floor!) in prime bedstuy Tompkins Ave! 1,000 Sqft includes laundry in unit and dishwasher! Fully furnished! 2 bedrooms / 1 bath (1 bedroom is a guest room with peloton bike not an actual bed but I have a Queen air mattress that...",
