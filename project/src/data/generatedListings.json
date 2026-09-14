@@ -1,5 +1,70 @@
 [
   {
+    "id": "reddit-looking_for_someone_to_takeover_my_half_of_lease",
+    "title": "Looking for someone to takeover my half of lease in 2b1ba near Columbus Circle,...",
+    "description": "I am looking for someone to take over my half of the lease for a 2b1ba near Columbus Circle on 57th and 8th. Move-in date would be sometime in October; flexible on the date. Your half of the lease would be $1825/month. This is a 5th floor apartment in a pre-war walk up building...",
+    "price": 1825,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-14",
+    "imageUrl": "https://preview.redd.it/sqjk0lj2ydph1.jpg?width=140&height=137&auto=webp&s=72b5ccc6f49faa331c4b7338af4bd8b325222cae",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wfpc4r/looking_for_someone_to_takeover_my_half_of_lease/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/sublet-columbus-circ",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/sqjk0lj2ydph1.jpg?width=140&height=137&auto=webp&s=72b5ccc6f49faa331c4b7338af4bd8b325222cae"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-seeking_lease_takeover_greenwich_village_westeast",
+    "title": "Seeking Lease Takeover (Greenwich Village, West/East Village, or NoHo)",
+    "description": "Looking for a lease takeover. Requirements: -Max budget 8k -Large 1 bed or 2 bed -Greenwich Village, the west village, the east village, or noho -must be 2nd floor or below (unless elevator, then any floor fine -must have laundry in unit or in building -ideally starting asap but...",
+    "price": null,
+    "location": "Greenwich Village, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-14",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wfp7wd/seeking_lease_takeover_greenwich_village_westeast/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Radiant_Substance557",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-ues_81st_on_1st_ave_1br_sublet_lease_takeover",
     "title": "UES (81st on 1st Ave) 1BR Sublet / Lease Takeover -$3,085/mo - Starting October",
     "description": "Hi! Looking for someone who can ideally take over lease to move in my 1-bedroom UES apartment (open to sublet) in October for one year! I love living here, have no problems fitting in and management is very professional / helpful - I\u2019m just looking for a cheaper option to save s...",
@@ -94,6 +159,41 @@
     "amenities": [
       "Reddit",
       "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-alcove_studio_lic_waterfront_lease_takeover",
+    "title": "Alcove Studio | LIC Waterfront | Lease Takeover",
+    "description": "Beautifully renovated alcove studio apartment available along the LIC waterfront. I am the first person to live in the unit since renovation and everything is in immaculate condition. Building is a luxury building with a doorman, fitness center (no amenity fee), lounge, outdoor...",
+    "price": 3400,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-13",
+    "imageUrl": "https://preview.redd.it/7cqtw4kolcph1.png?width=140&height=99&auto=webp&s=431ea17bde7b3e31cb0546ec2335e64ff80ffe97",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wfiytw/alcove_studio_lic_waterfront_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Live-Ground-5080",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/7cqtw4kolcph1.png?width=140&height=99&auto=webp&s=431ea17bde7b3e31cb0546ec2335e64ff80ffe97"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
       "Housing megathread"
     ],
     "extraCosts": [
@@ -3610,32 +3710,6 @@
     "extraCosts": [
       "Fees mentioned"
     ]
-  },
-  {
-    "id": "listingsproject-13",
-    "title": "1bd/1ba Williamsburg (elevator, dishwasher, gym) | 8/29-9/13",
-    "description": "Beautiful 1bed/1ba Williamsburg Apt in great building Elevator building, dishwasher, gym downstairs, laundry in basement + communal terrace. Blackout shades in bedroom. Netflix/Hulu/Amazon etc. Terrace on floor with view of the city. The apartment is tidy, comfy, full...",
-    "price": null,
-    "location": "Williamsburg, New York, NY",
-    "bedrooms": 1,
-    "bathrooms": 1.0,
-    "platform": "Listings Project",
-    "dateListed": "2026-09-01",
-    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/jr2AOl7D_w4ki-RMrnGkyQ/a7biz2-living room.jpeg?aspect_ratio=3:2&width=330",
-    "sourceUrl": "https://www.listingsproject.com/listings/1bd-1ba-williamsburg-elevator-dishwasher-gym-8-29-9-13",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": null,
-    "sourceThreadTitle": null,
-    "sourceAuthor": null,
-    "sourceIntent": null,
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": "2026-08-29 to 2026-09-13",
-    "availableFrom": "2026-08-29",
-    "availableTo": "2026-09-13",
-    "termTags": [],
-    "amenities": [],
-    "extraCosts": []
   },
   {
     "id": "reddit-new_grad_struggling_wincome_requirements",
