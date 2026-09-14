@@ -91,6 +91,39 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-subleasing_my_furnished_1b1b_apartment_flexible",
+    "title": "Subleasing my furnished 1b/1b apartment - flexible length",
+    "description": "Till end of year or till May 2027. In central part south Manhattan (theatre district). $4500 submitted by /u/Welcomeandwait [link] [comments]",
+    "price": 4500,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-14",
+    "imageUrl": "https://preview.redd.it/oreeoutogiph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4203c206dde200e7061fb5c4419ee63460d63ba0",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wg7xfc/subleasing_my_furnished_1b1b_apartment_flexible/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Welcomeandwait",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/oreeoutogiph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4203c206dde200e7061fb5c4419ee63460d63ba0"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-ues_81st_on_1st_ave_1br_sublet_lease_takeover",
     "title": "UES (81st on 1st Ave) 1BR Sublet / Lease Takeover -$3,085/mo - Starting October",
     "description": "Hi! Looking for someone who can ideally take over lease to move in my 1-bedroom UES apartment (open to sublet) in October for one year! I love living here, have no problems fitting in and management is very professional / helpful - I\u2019m just looking for a cheaper option to save s...",
