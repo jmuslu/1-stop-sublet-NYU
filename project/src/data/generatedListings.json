@@ -2,7 +2,7 @@
   {
     "id": "reddit-looking_for_someone_to_takeover_my_half_of_lease",
     "title": "Looking for someone to takeover my half of lease in 2b1ba near Columbus Circle,...",
-    "description": "I am looking for someone to take over my half of the lease for a 2b1ba near Columbus Circle on 57th and 8th. Move-in date would be sometime in October; flexible on the date. Your half of the lease would be $1825/month. This is a 5th floor apartment in a pre-war walk up building...",
+    "description": "I am looking for someone to take over my half of the lease for a 2b1ba near Columbus Circle on 57th and 8th. Move-in date would be sometime in October; flexible on the date. Your half of the lease would be $1825/month. EDIT : You will have a male roommate, so this isn't for you...",
     "price": 1825,
     "location": "New York, NY",
     "bedrooms": 1,
@@ -29,6 +29,7 @@
       "r/NYCapartments",
       "Near campus",
       "Sublet",
+      "Roommate",
       "Housing megathread"
     ],
     "extraCosts": []
@@ -122,6 +123,76 @@
       "Housing megathread"
     ],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-rego_park_garage_indoor_parking_one_space_350",
+    "title": "Rego Park Garage Indoor Parking: One Space $350, Entire Garage $700",
+    "description": "Private indoor garage available for rent in the quiet and desirable Rego Park Crescents. The garage is approximately 20\u2019 x 20\u2019 and can accommodate two cars. Rental Options: * One parking space: $350 per month * Entire two-car garage: $700 per month The entire garage may also be...",
+    "price": 700,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-14",
+    "imageUrl": "https://preview.redd.it/v250lien9kph1.jpeg?width=640&crop=smart&auto=webp&s=ced4f1b34abdf812b8f0493cbec09bdd8ea9da2e",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wgi2n9/rego_park_garage_indoor_parking_one_space_350/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/QuietCornerNY",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/v250lien9kph1.jpeg?width=640&crop=smart&auto=webp&s=ced4f1b34abdf812b8f0493cbec09bdd8ea9da2e",
+      "https://i.redd.it/v250lien9kph1.jpeg"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Parking",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [],
+    "parking": "Parking mentioned"
+  },
+  {
+    "id": "reddit-astoria_lease_takeover",
+    "title": "Astoria lease takeover",
+    "description": "Astoria 1 bed / 1 bath $3,975 NO FEE Lease take over, 1 year lease submitted by /u/Ok-Growth9387 [link] [comments]",
+    "price": 3975,
+    "location": "Astoria, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-14",
+    "imageUrl": "https://preview.redd.it/46aw7w448kph1.png?width=140&height=104&auto=webp&s=88ed64a7e3a913cbc253ff7af14f154acd0e614e",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wghvmk/astoria_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Ok-Growth9387",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/46aw7w448kph1.png?width=140&height=104&auto=webp&s=88ed64a7e3a913cbc253ff7af14f154acd0e614e"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
   },
   {
     "id": "reddit-ues_81st_on_1st_ave_1br_sublet_lease_takeover",
@@ -352,7 +423,7 @@
   {
     "id": "reddit-lease_takeover_jersey_city_235_grand_2_bd_2_bath",
     "title": "Lease Takeover - Jersey City - 235 Grand - 2 bd 2 bath - $5266/mo",
-    "description": "Wife & I just bought a home, so looking for someone to takeover lease of our apt: - view any unit ending in \u201c06\u201d on building website to see sample floor plan - $5266/mo (lease expires 6/19/27) - no security deposit required (You\u2019re eligible to receive the security deposit too) -...",
+    "description": "Looking for someone to takeover lease (expires 6/19/27) of our apt: - view any unit ending in \u201c06\u201d on building website to see sample floor plan - $5266/mo - no security deposit required (You\u2019re eligible to receive the security deposit too) - laundry & dryer & dishwasher in unit...",
     "price": 5266,
     "location": "Jersey City, NJ",
     "bedrooms": 1,
