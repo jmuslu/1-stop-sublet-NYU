@@ -1,5 +1,75 @@
 [
   {
+    "id": "reddit-900_utilities_included_williamsburg_room_rental",
+    "title": "$900 Utilities Included Williamsburg Room Rental September 30th-October 15th",
+    "description": "Hello! Subletting my fantastically located (two blocks from the Lorimer Street L) Brooklyn room from September 30th-October 15th. In-unit Washer/Dryer. Furnished. Central Air. The bathroom is shared with one other girl who is not often at the apartment. Roommates are all clean +...",
+    "price": 900,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-18",
+    "imageUrl": "https://preview.redd.it/vrs7nplnl8qh1.jpg?width=140&height=105&auto=webp&s=9f78bd65a7f09bad53bc80dfd2a267d76b6655ee",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wjk6fn/900_utilities_included_williamsburg_room_rental/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/ahre123i",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/vrs7nplnl8qh1.jpg?width=140&height=105&auto=webp&s=9f78bd65a7f09bad53bc80dfd2a267d76b6655ee"
+    ],
+    "availabilityLabel": "September 30th-October 15th",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "$900 Utilities Included Williamsburg Room Rental September 30th-October 15th."
+  },
+  {
+    "id": "reddit-rent_stabilized_2207_studio_lease_takeover",
+    "title": "Rent Stabilized $2,207 Studio Lease Takeover!",
+    "description": "Rent Stabilized $2,207 Studio Lease Takeover! We just found out we\u2019re having a baby and need to move into a bigger space\u2014but we\u2019re really sad to leave this place (we've been here for 2 1/2 years)! The lease would be Oct 1-June 1, with an opportunity to renew! The building is ama...",
+    "price": 2207,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-18",
+    "imageUrl": "https://preview.redd.it/x18xh43s37qh1.jpg?width=140&height=106&auto=webp&s=7e9d2f940356f58d006c476a248e0b734fadd088",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wjem9e/rent_stabilized_2207_studio_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Returnofthe_mck",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/x18xh43s37qh1.jpg?width=140&height=106&auto=webp&s=7e9d2f940356f58d006c476a248e0b734fadd088"
+    ],
+    "availabilityLabel": "Oct 1-June 1",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-fadf38ec037e",
     "title": "Furnished Room in Gorgeous Sun Filled Brooklyn Townhouse\\\\",
     "description": "Inquire weekly short term rates. $950/wk Lovely, sun drenched quiet furnished room in 4 story 3 bedroom, 3.5 bath 3200 square ft. artist townhouse. Great landing spot for newcomers getting acquainted to New York City, great for professionals, grad students, working...",
