@@ -1,5 +1,40 @@
 [
   {
+    "id": "reddit-lease_takeover_hells_kitchen_2br2ba_hudson_city",
+    "title": "Hell\u2019s Kitchen 2BR/2BA | Hudson + City Views | $7,717 | Oct 1 | No Fee | Renewa...",
+    "description": "Hi! We\u2019re moving and looking for someone to take over our lease for a 2BR/2BA apartment at 550 W 45th St in Hell\u2019s Kitchen. Rent: $7,717/month Available: Oct 1, 2026 Lease end: July 7, 2027 No broker fee Renewal available Lease assignment through building management The apartmen...",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-19",
+    "imageUrl": "https://preview.redd.it/48wncrkdbdqh1.jpg?width=140&height=93&auto=webp&s=0e1449c808bf337b84849789dc772c7f6a068164",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wk6psg/lease_takeover_hells_kitchen_2br2ba_hudson_city/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/CoffeeCake7788",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/48wncrkdbdqh1.jpg?width=140&height=93&auto=webp&s=0e1449c808bf337b84849789dc772c7f6a068164"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-900_utilities_included_williamsburg_room_rental",
     "title": "$900 Utilities Included Williamsburg Room Rental September 30th-October 15th",
     "description": "Hello! Subletting my fantastically located (two blocks from the Lorimer Street L) Brooklyn room from September 30th-October 15th. In-unit Washer/Dryer. Furnished. Central Air. The bathroom is shared with one other girl who is not often at the apartment. Roommates are all clean +...",
@@ -269,6 +304,42 @@
     "termTags": [],
     "amenities": [],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-1b1b_lease_takeover_in_midtown_near_pennherald_dm",
+    "title": "1B1B Lease Takeover in Midtown near Penn/Herald (DM for videos)",
+    "description": "Hi! Looking for someone to takeover my 1B1B lease in heart of midtown. Right next to Penn station and has lines NQRW, BDFM, Path, LIRR, NJ transit, flixbus etc \ud83d\udcb0Rent: $5,562/monthly (water is included) \ud83d\udcc6Dates: October 2026 to April 2027 (start date can be flexible, have option t...",
+    "price": 5562,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-18",
+    "imageUrl": "https://preview.redd.it/i7nhxt0m9bqh1.jpg?width=140&height=122&auto=webp&s=f03d3b3a0e391142b9fcd41daef81a6ceb124006",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wjw2h0/1b1b_lease_takeover_in_midtown_near_pennherald_dm/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Sea-Coconut-1041",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/i7nhxt0m9bqh1.jpg?width=140&height=122&auto=webp&s=f03d3b3a0e391142b9fcd41daef81a6ceb124006"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
   },
   {
     "id": "listingsproject-fadf38ec037e",
@@ -5995,32 +6066,6 @@
     "extraCosts": []
   },
   {
-    "id": "listingsproject-60139c27056f",
-    "title": "Sun-drenched 1BR with crazy views - 2 weeks",
-    "description": "If you're a slut for the sun, our apartment is for you. This southwest-facing 1BR gets golden hour like it's a personal gift from the universe, light pouring through floor-to-ceiling windows with a full Manhattan skyline view from your balcony on the 10th floor. The...",
-    "price": null,
-    "location": "Clinton Hill, New York, NY",
-    "bedrooms": 1,
-    "bathrooms": 1.0,
-    "platform": "Listings Project",
-    "dateListed": "2026-08-29",
-    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/V6LxwcR_zWGXDzOHMIJGew/mkDjuL-IMG_6793.JPG?aspect_ratio=3:2&width=330",
-    "sourceUrl": "https://www.listingsproject.com/listings/sun-drenched-1br-with-crazy-views-2-weeks-7c44ef6b-1afa-4fd3-81e9-60139c27056f",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": null,
-    "sourceThreadTitle": null,
-    "sourceAuthor": null,
-    "sourceIntent": null,
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": "2026-09-04 to 2026-09-18",
-    "availableFrom": "2026-09-04",
-    "availableTo": "2026-09-18",
-    "termTags": [],
-    "amenities": [],
-    "extraCosts": []
-  },
-  {
     "id": "reddit-lease_takeover_greenpoint_studio_3546_move_in_oct",
     "title": "Lease Takeover- Greenpoint Studio- $3,546- Move in Oct 1",
     "description": "Hi! I\u2019m looking for someone to take over my lease for a studio at 1 Bell Slip in Greenpoint $3,546/month Available October 1 Studio Lease runs through October 2027 It\u2019s a beautiful corner studio with an in-unit washer/dryer, in a great building and location, right by the waterfr...",
@@ -7507,32 +7552,6 @@
       "Gym",
       "Housing megathread"
     ],
-    "extraCosts": []
-  },
-  {
-    "id": "listingsproject-9391739c5c5f",
-    "title": "Two bedroom + sleeping couch - open, airy, former firehouse - Williamsburg",
-    "description": "Experience Brooklyn from a home unlike any other \u2014 the full 2nd & 3rd floors of a lovingly converted Williamsburg firehouse. This fully furnished, two-bedroom loft blends soaring 14-ft ceilings, original character, and refined, modern finishes. Current availability:...",
-    "price": null,
-    "location": "Williamsburg, New York, NY",
-    "bedrooms": 1,
-    "bathrooms": 1.0,
-    "platform": "Listings Project",
-    "dateListed": "2026-08-24",
-    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/G9blx8yljyF0JWP7SIED6Q/GUIvSU-living.png?aspect_ratio=3:2&width=330",
-    "sourceUrl": "https://www.listingsproject.com/listings/two-bedroom-sleeping-couch-open-airy-former-firehouse-williamsburg-08b3e389-8b59-4468-815b-9391739c5c5f",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": null,
-    "sourceThreadTitle": null,
-    "sourceAuthor": null,
-    "sourceIntent": null,
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": "2026-08-28 to 2026-09-18",
-    "availableFrom": "2026-08-28",
-    "availableTo": "2026-09-18",
-    "termTags": [],
-    "amenities": [],
     "extraCosts": []
   },
   {
