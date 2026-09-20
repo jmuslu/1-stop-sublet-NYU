@@ -1,5 +1,68 @@
 [
   {
+    "id": "listingsproject-59fa7150de3d",
+    "title": "Spacious, Quiet 2 bedroom on Lower East Side",
+    "description": "I am renting my apartment, officially a 2 bedroom but we use it as a 1 bedroom and office, on the Lower East Side while my partner and I are out of state for graduate school. Seeking a responsible person or couple who will appreciate the calm, respect the neighbors, and...",
+    "price": 4300,
+    "location": "Lower East Side, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-09-20",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/LCtFPSiczYo0sRrVN_ProQ/TYoGNO-MS2C2482.JPG?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/spacious-quiet-sanctuary-in-lower-manhattan-3763d74e-1cfb-4dc9-9860-59fa7150de3d",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-11-05 to 2027-03-31",
+    "availableFrom": "2026-11-05",
+    "availableTo": "2027-03-31",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_rentstabilized_1br_in_brooklyn",
+    "title": "Rent-Stabilized 1BR in Brooklyn / $2,981 incl. Gas + Amenities / Nov 1",
+    "description": "Looking for someone to take over my rent-stabilized 1BR / 1BA lease at 1247 Atlantic Ave, Brooklyn , available around November 1 . Rent is $2,981/month , including gas and building amenities . No broker fee. Apartment is in great condition, bright, well maintained, and will be d...",
+    "price": 2981,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-20",
+    "imageUrl": "https://preview.redd.it/ws1hquprqkqh1.jpg?width=140&height=78&auto=webp&s=e89896ee1ca9c07a29bda296223de7ac55759e8d",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wl2xuh/lease_takeover_rentstabilized_1br_in_brooklyn/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/GapNo6853",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ws1hquprqkqh1.jpg?width=140&height=78&auto=webp&s=e89896ee1ca9c07a29bda296223de7ac55759e8d"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-lease_takeover_hells_kitchen_2br2ba_hudson_city",
     "title": "Hell\u2019s Kitchen 2BR/2BA | Hudson + City Views | $7,717 | Oct 1 | No Fee | Renewa...",
     "description": "Hi! We\u2019re moving and looking for someone to take over our lease for a 2BR/2BA apartment at 550 W 45th St in Hell\u2019s Kitchen. Rent: $7,717/month Available: Oct 1, 2026 Lease end: July 7, 2027 No broker fee Renewal available Lease assignment through building management The apartmen...",
@@ -267,6 +330,81 @@
       "Fees mentioned"
     ],
     "utilitiesNotes": "Rent: $5.6k/month (utilities not included) Size: 88m\u00b2 / 950 sq."
+  },
+  {
+    "id": "reddit-lease_takeover_oct_7_downtown_brooklyn_3_bed_2",
+    "title": "Lease Takeover | Oct 7 | Downtown Brooklyn | 3 bed 2 bath $7950 | 11 month",
+    "description": "Hi! We are looking for 3 people to take over our apartment in Downtown Brooklyn (nearest stop is Jay St Metrotech, close to Hoyt, Dekalb, Hoyt-Schermerhorn, Borough Hall as well). 2nd floor. Laundry per floor / in building. Has a huge private terrace and abundant space. We\u2019re mo...",
+    "price": null,
+    "location": "Downtown Brooklyn, New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-19",
+    "imageUrl": "https://preview.redd.it/9ornovsq9kqh1.jpg?width=140&height=90&auto=webp&s=8f89181dccb5ccd009aa3f939116b266e79dc738",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wl0vjc/lease_takeover_oct_7_downtown_brooklyn_3_bed_2/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/karmacop97",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/9ornovsq9kqh1.jpg?width=140&height=90&auto=webp&s=8f89181dccb5ccd009aa3f939116b266e79dc738"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [],
+    "roommatesTotal": 3
+  },
+  {
+    "id": "reddit-lease_takeover_october_1_bushwick_1600_mo_3bed",
+    "title": "Lease Takeover | October 1 | Bushwick $1600/ mo 3-Bed 2-Bath Duplex",
+    "description": "Hi! I\u2019m looking for someone to take over my lease and move into a spacious, light-filled room with a view any date up to October 1st (if you need more time, we can discuss). This apartment has a fully furnished shared space, 2 levels, and is in a fourth-floor walk-up with direct...",
+    "price": 1600,
+    "location": "Downtown Brooklyn, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-19",
+    "imageUrl": "https://preview.redd.it/so14pkc5ajqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=579d9406f14f538a7143c6e0562313aab85041e8",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wkw54i/lease_takeover_october_1_bushwick_1600_mo_3bed/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/lunchingbag",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/so14pkc5ajqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=579d9406f14f538a7143c6e0562313aab85041e8"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Gym",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "(Management requires application and 40x rent income/80x for guarantor) Additional costs There will be a security deposit of one month\u2019s re..."
   },
   {
     "id": "reddit-900_utilities_included_williamsburg_room_rental",
@@ -10643,32 +10781,6 @@
     "extraCosts": []
   },
   {
-    "id": "listingsproject-56a90b83323a",
-    "title": "Spacious Williamsburg Loft (Dates Flexible)",
-    "description": "800 sq ft, light-filled Williamsburg loft available for sublet. The apartment has an open, modern layout with high ceilings, warm wood floors, and a mix of mid-century and contemporary furniture. It\u2019s close to everything in Williamsburg but out of the fray, with the J/M...",
-    "price": null,
-    "location": "Williamsburg, New York, NY",
-    "bedrooms": 1,
-    "bathrooms": 1.0,
-    "platform": "Listings Project",
-    "dateListed": "2026-08-14",
-    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/JOC8k1ekENHtTey7zyICUA/dhAqlg-0.jpeg?aspect_ratio=3:2&width=330",
-    "sourceUrl": "https://www.listingsproject.com/listings/spacious-williamsburg-loft-dates-flexible-cf1e8402-f114-445f-aa33-56a90b83323a",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": null,
-    "sourceThreadTitle": null,
-    "sourceAuthor": null,
-    "sourceIntent": null,
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": "2026-08-15 to 2026-09-19",
-    "availableFrom": "2026-08-15",
-    "availableTo": "2026-09-19",
-    "termTags": [],
-    "amenities": [],
-    "extraCosts": []
-  },
-  {
     "id": "reddit-27m_looking_for_a_roommate_to_take_over_a_room",
     "title": "27M, looking for a roommate to take over a room near Central Park -- Nov 1 move...",
     "description": "Hey all- my roommate's moving out and I'm looking for someone to take over his room in my 2BR/2BA on Central Park South and 6th. It's a full-service doorman building right across from Central Park, high floor, really nice apartment. A little about me: I'm 27, work in real estate...",
@@ -14703,42 +14815,5 @@
       "Housing megathread"
     ],
     "extraCosts": []
-  },
-  {
-    "id": "reddit-subletting_2b1b_2_min_walk_to_bobst_may_15august",
-    "title": "Subletting 2b/1b, 2 min walk to Bobst (May 15-August 28, dates flexible)",
-    "description": "Hi everyone, My roommate and I are going away on study abroad this summer, so we're hesitantly subletting our sunny 2b/1b on 217 Thompson St., a 2-minute walk to Bobst and essentially on campus Here's some info: - 2b/1b. Bedrooms fit queen-sized beds. Full beds allow for a desk...",
-    "price": null,
-    "location": "New York, NY",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "platform": "Reddit",
-    "dateListed": "2026-03-23",
-    "imageUrl": null,
-    "sourceUrl": "https://www.reddit.com/r/nyu/comments/1s1wqus/subletting_2b1b_2_min_walk_to_bobst_may_15august/",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": "r/nyu",
-    "sourceThreadTitle": "r/nyu housing posts",
-    "sourceAuthor": "/u/Training-Minute4611",
-    "sourceIntent": "offer",
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": "May 15-August 28",
-    "availableFrom": null,
-    "availableTo": null,
-    "termTags": [
-      "Summer"
-    ],
-    "amenities": [
-      "Reddit",
-      "r/nyu",
-      "Furnished",
-      "Sublet",
-      "Roommate",
-      "Housing megathread"
-    ],
-    "extraCosts": [
-      "Fees mentioned"
-    ]
   }
 ]
