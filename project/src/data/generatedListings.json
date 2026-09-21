@@ -138,6 +138,78 @@
     "parking": "Parking mentioned"
   },
   {
+    "id": "reddit-lease_takeover_williamsburg_2br_w_private_roof",
+    "title": "Williamsburg 2BR w/ private roof deck \u2014 $2,175/mo, avail ASAP",
+    "description": "Room for lease takeover \u2014 Williamsburg 2BR w/ private roof deck, $2,175/mo Looking for someone to take over my room at 601 Lorimer St (Williamsburg), unit 3F. Lease through April 2027, move in ASAP. The room: $2,175/mo, bright with two windows, exposed brick, big closet. Unfurni...",
+    "price": 2175,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-21",
+    "imageUrl": "https://preview.redd.it/unxn47htsxqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=04f35993379cb4dd6a361a9acb9edc70c3b7fc1b",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wmp6lu/lease_takeover_williamsburg_2br_w_private_roof/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Fair_County565",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/unxn47htsxqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=04f35993379cb4dd6a361a9acb9edc70c3b7fc1b"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-3000_1_bedroom_hells_kitchen_54th_street",
+    "title": "$3,000 - 1 Bedroom - Hell's Kitchen - 54th Street",
+    "description": "Have to move out by year end for a new job. Lease takeover for 1 bedroom in Hells Kitchen, 54th Street, between 9th and 10th Ave. Laundry in the apartment basement. Great connection to Midtown, West Wide Highway, and Central Park. The first set of pictures is the apartment curre...",
+    "price": 3000,
+    "location": "Hell's Kitchen, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-21",
+    "imageUrl": "https://preview.redd.it/mv742vc8pxqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d91a907c17964879283684549f59e9269f8e009f",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wmp106/3000_1_bedroom_hells_kitchen_54th_street/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Karmacamelon",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/mv742vc8pxqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d91a907c17964879283684549f59e9269f8e009f"
+    ],
+    "availabilityLabel": "Nov-Dec",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-59fa7150de3d",
     "title": "Spacious, Quiet 2 bedroom on Lower East Side",
     "description": "I am renting my apartment, officially a 2 bedroom but we use it as a 1 bedroom and office, on the Lower East Side while my partner and I are out of state for graduate school. Seeking a responsible person or couple who will appreciate the calm, respect the neighbors, and...",
