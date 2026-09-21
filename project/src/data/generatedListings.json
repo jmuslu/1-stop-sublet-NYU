@@ -35,6 +35,76 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-looking_for_f_e_m_a_l_e_subletter_for_oct_east",
+    "title": "Looking for f e m a l e subletter for Oct - East Harlem - 2k",
+    "description": "General Info: - Move in Oct 1st. Subletting time all of October - Apartment is located on the 7th floor - elevator building - 3 train is 4 blocks away, 2 train is 10 min away -Supermarket within walking distance - Located around 140st & Malcolm X Apt info * Large 1 bedroom, 1 ba...",
+    "price": 2000,
+    "location": "Harlem, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-21",
+    "imageUrl": "https://preview.redd.it/b0i4tcc68tqh1.jpg?width=140&height=105&auto=webp&s=60939873a463e0affdfde947a614448179c7f82d",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wm3v7x/looking_for_f_e_m_a_l_e_subletter_for_oct_east/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/terryisnotmyrealname",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/b0i4tcc68tqh1.jpg?width=140&height=105&auto=webp&s=60939873a463e0affdfde947a614448179c7f82d"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "* Laundry in building * Elevator * In unit treadmill * fully furnished Rent - $2,000 - includes ALL utilities (water, gas, electric AND fas..."
+  },
+  {
+    "id": "reddit-lease_takeover_2_bed1ba_4100",
+    "title": "Lease Takeover - 2 bed/1ba $4100",
+    "description": "submitted by /u/Superlatifff [link] [comments]",
+    "price": 4100,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-21",
+    "imageUrl": "https://preview.redd.it/pvopsg5u4qqh1.jpg?width=140&height=105&auto=webp&s=baeb4423afcb21e423c8c1efc405ca88fd24c6dc",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wm806s/lease_takeover_2_bed1ba_4100/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Superlatifff",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/pvopsg5u4qqh1.jpg?width=140&height=105&auto=webp&s=baeb4423afcb21e423c8c1efc405ca88fd24c6dc"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-59fa7150de3d",
     "title": "Spacious, Quiet 2 bedroom on Lower East Side",
     "description": "I am renting my apartment, officially a 2 bedroom but we use it as a 1 bedroom and office, on the Lower East Side while my partner and I are out of state for graduate school. Seeking a responsible person or couple who will appreciate the calm, respect the neighbors, and...",
@@ -127,6 +197,40 @@
       "r/NYCapartments",
       "Furnished",
       "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-urgent_lease_takeover_in_astoria",
+    "title": "Lease takeover in Astoria!",
+    "description": "Hello! I\u2019m looking for someone to take over my least from Oct 1 - April 30th. Rent is $1150/month. The room has a closet. We have a fully furnished living room and a beautiful kitchen. My roommates are both in their early 20s, and we\u2019re looking for a woman to take over my lease....",
+    "price": 1150,
+    "location": "Astoria, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-20",
+    "imageUrl": "https://preview.redd.it/n5ze7byp8rqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2b2a6eae52fb1c99ad356afce6c38cd5780c97cc",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wlvi5j/urgent_lease_takeover_in_astoria/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/One-Entrance6795",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/n5ze7byp8rqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2b2a6eae52fb1c99ad356afce6c38cd5780c97cc"
+    ],
+    "availabilityLabel": "Oct 1 - April 30th",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Roommate",
       "Housing megathread"
     ],
     "extraCosts": []
