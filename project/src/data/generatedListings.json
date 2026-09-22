@@ -38,6 +38,39 @@
     "utilitiesNotes": "Utilities are included in the rent."
   },
   {
+    "id": "reddit-lease_takeover_gowanus_brooklyn_oct_1st_move_in",
+    "title": "Lease takeover. Gowanus, Brooklyn. Oct 1st move in",
+    "description": "$4160/ month Oct 1st move in: lease takeover now through March or December 2027. Full size gym Coworking space Rooftop Garage Pet friendly 10 min walk to F/G train Easy access to all highways, bridges and tunnels $1000 security deposit for those who qualify submitted by /u/cjuli...",
+    "price": 4160,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-22",
+    "imageUrl": "https://external-preview.redd.it/cm16dGltZGVuenFoMVKCI-iFobaRae8spUsdOsdsH-eenO0lTkGfIn7w2lIB.jpeg?width=640&crop=smart&auto=webp&s=4b4175e2eb10c9a5abc6de77bc06f34bddc0f5bd",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wmxxmi/lease_takeover_gowanus_brooklyn_oct_1st_move_in/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/cjulia91",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/cm16dGltZGVuenFoMVKCI-iFobaRae8spUsdOsdsH-eenO0lTkGfIn7w2lIB.jpeg?width=640&crop=smart&auto=webp&s=4b4175e2eb10c9a5abc6de77bc06f34bddc0f5bd"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-chelsea_room_takeover_2400month_found_study",
     "title": "CHELSEA ROOM TAKEOVER \u2014 $2,400/month \u2014 FOUND Study Chelsea",
     "description": "Hi! I\u2019m looking for someone to take over my housing contract at FOUND Study Chelsea, 300 W 20th Street , ideally as soon as possible. The rent is $2,400/month and the contract runs through May 22, 2027 . The room is technically a double , but my assigned roommate has not moved i...",
