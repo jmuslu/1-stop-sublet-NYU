@@ -1,5 +1,40 @@
 [
   {
+    "id": "reddit-101_clinton_hill_lease_takeover_for_1_room_out_of",
+    "title": "10/1 Clinton Hill Lease Takeover for 1 room out of a 2 bedroom",
+    "description": "Hello! I am subletting my room in a gorgeous, sun-drenched high rise apartment right on the border of Clinton Hill, BedStuy, and Prospect Heights. The apartment is a 3 minute walk to the C train and S train to Prospect Park, a 12 minute walk to the G train, and has a bus stop in...",
+    "price": 2250,
+    "location": "Prospect Heights, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-23",
+    "imageUrl": "https://preview.redd.it/12cz6wot66rh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=17919a007f2dd95ee2eec44b5ed2260589ef3e2f",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wnrsbg/101_clinton_hill_lease_takeover_for_1_room_out_of/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Secure_Pressure5557",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/12cz6wot66rh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=17919a007f2dd95ee2eec44b5ed2260589ef3e2f"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Gym",
+      "Sublet",
+      "Roommate"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-2_month_sublet_for_1_room_in_a_2_bed_1_bath",
     "title": "2 month SUBLET for 1 room in a 2 bed 1 bath apartment in Bushwick starting Oct...",
     "description": "Apartment is available starting October 1st with a potential earlier move in date. Opportunity for a lease takeover starting early December. This is a large private bedroom on the first floor with high ceilings, good sunlight in the bedroom, large living room and laundry in the...",
