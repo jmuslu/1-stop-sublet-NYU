@@ -35,6 +35,81 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-urgent_lease_takeover",
+    "title": "Lease Takeover",
+    "description": "Looking for a student or intern to take over my lease in a double room inside a 3-bedroom apartment at FOUND Study East Village. Rent: 1750 (currently shows 2000 on the website) Full kitchen + shared bathroom + laundry in the building Furnished student/intern housing, utilities...",
+    "price": 1750,
+    "location": "East Village, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-23",
+    "imageUrl": "https://preview.redd.it/al3b4jw4d7rh1.jpg?width=140&height=127&auto=webp&s=14c8369f23a754933fd9e0a2cb6eb4d7d3a64162",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wnwo5t/urgent_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Fit_Association9718",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/al3b4jw4d7rh1.jpg?width=140&height=127&auto=webp&s=14c8369f23a754933fd9e0a2cb6eb4d7d3a64162"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Rent: 1750 (currently shows 2000 on the website) Full kitchen + shared bathroom + laundry in the building Furnished student/intern housing,..."
+  },
+  {
+    "id": "reddit-lease_takeover_downtown_jersey_city_2_bd_2_bath",
+    "title": "Lease Takeover - Downtown Jersey City - 2 bd 2 bath - $5266/mo",
+    "description": "Moving out of state, so looking for someone to takeover our lease (expires 6/19/27) at 235 Grand Street: - $5266/mo - no security deposit required (You\u2019d receive the security deposit) - laundry & dryer & dishwasher in unit - corner unit, north & east facing windows - gym, roofde...",
+    "price": 5266,
+    "location": "Jersey City, NJ",
+    "bedrooms": 1,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-23",
+    "imageUrl": "https://external-preview.redd.it/MzYxbWI3MXBvNnJoMdn47YUJw5i4FvNfprU4YkX8L84v1PpPbZBQ0hkzCoiR.jpeg?width=640&crop=smart&auto=webp&s=b57bc61ef0e1cfc4d6375d6e18fc4baa62293060",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wntz5i/lease_takeover_downtown_jersey_city_2_bd_2_bath/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Guilty_Pangolin9121",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/MzYxbWI3MXBvNnJoMdn47YUJw5i4FvNfprU4YkX8L84v1PpPbZBQ0hkzCoiR.jpeg?width=640&crop=smart&auto=webp&s=b57bc61ef0e1cfc4d6375d6e18fc4baa62293060"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Parking",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ],
+    "parking": "Parking mentioned"
+  },
+  {
     "id": "reddit-2_month_sublet_for_1_room_in_a_2_bed_1_bath",
     "title": "2 month SUBLET for 1 room in a 2 bed 1 bath apartment in Bushwick starting Oct...",
     "description": "Apartment is available starting October 1st with a potential earlier move in date. Opportunity for a lease takeover starting early December. This is a large private bedroom on the first floor with high ceilings, good sunlight in the bedroom, large living room and laundry in the...",
