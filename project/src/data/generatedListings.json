@@ -215,6 +215,80 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-furnished_room_in_greenpoint_oct_18nov_6_cat",
+    "title": "Furnished room in Greenpoint, Oct 18\u2013Nov 6, cat lovers welcome!",
+    "description": "Hi! I\u2019ll be traveling in Europe and am looking for someone to sublet my room from October 18 to November 6 . Rent for the full stay is $1,400 . My return date may shift slightly, so some flexibility would be helpful. The apartment and bedroom is fully furnished and has a desk if...",
+    "price": 1400,
+    "location": "Greenpoint, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-24",
+    "imageUrl": "https://preview.redd.it/9myiy0xilhrh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=ddf3902eb615833675347875eea10a9a215bacbf",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wp4sjj/furnished_room_in_greenpoint_oct_18nov_6_cat/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Signal_Increase3844",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/9myiy0xilhrh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=ddf3902eb615833675347875eea10a9a215bacbf"
+    ],
+    "availabilityLabel": "Oct 18\u2013Nov 6",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_oct_1_july_31_oversized_1br_in",
+    "title": "LEASE TAKEOVER (Oct 1 - July 31) \u2014 Oversized 1BR in Luxury Harlem Building | $3...",
+    "description": "Looking for someone to take over my lease for a beautiful, oversized 1-bedroom apartment in a newly built luxury building in Central Harlem / Striver\u2019s Row. The apartment has sizable living room (about 25 feet long), a king-size bedroom, great natural light and modern finishes t...",
+    "price": 3725,
+    "location": "Harlem, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-24",
+    "imageUrl": "https://external-preview.redd.it/am1zNWljZ3pmZ3JoMTmZm8GpFwZiwWGkaDG2ANlnTNY4rqICs4v3xqQvbu0i.jpeg?width=640&crop=smart&auto=webp&s=0e71d69e9f46403bf8a2eb8bb71e988810d66c36",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1woz9p2/lease_takeover_oct_1_july_31_oversized_1br_in/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/ScaredPresent6477",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/am1zNWljZ3pmZ3JoMTmZm8GpFwZiwWGkaDG2ANlnTNY4rqICs4v3xqQvbu0i.jpeg?width=640&crop=smart&auto=webp&s=0e71d69e9f46403bf8a2eb8bb71e988810d66c36"
+    ],
+    "availabilityLabel": "Oct 1 - July 31",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-101_clinton_hill_lease_takeover_for_1_room_out_of",
     "title": "10/1 Clinton Hill Lease Takeover for 1 room out of a 2 bedroom",
     "description": "Hello! I am subletting my room in a gorgeous, sun-drenched high rise apartment right on the border of Clinton Hill, BedStuy, and Prospect Heights. The apartment is a 3 minute walk to the C train and S train to Prospect Park, a 12 minute walk to the G train, and has a bus stop in...",
@@ -923,6 +997,37 @@
       "Fees mentioned"
     ],
     "utilitiesNotes": "$1950 Rent $249 Utilities."
+  },
+  {
+    "id": "reddit-nasty_roommate",
+    "title": "Nasty roommate",
+    "description": "Yall my roommate is not clean. Like. Left period blood on the floor several times. My room change request was denied and how tf do I do a bed-for-bed knowing she isn't a clean person. Like who will swap with me?! I need advice/tips. Im on a scholarship so off campus housing isn'...",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-23",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/nyu/comments/1woctru/nasty_roommate/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/nyu",
+    "sourceThreadTitle": "r/nyu housing posts",
+    "sourceAuthor": "/u/Commercial-Food7775",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/nyu",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": []
   },
   {
     "id": "reddit-2_month_sublet_for_1_room_in_a_2_bed_1_bath",
