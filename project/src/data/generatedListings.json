@@ -62,7 +62,7 @@
   {
     "id": "reddit-lease_takeover_rent_stabilized_1br_in_long_island",
     "title": "Lease Takeover \u2013 Rent Stabilized 1BR in Long Island City \u2013 $4,500/mo \u2013 Availabl...",
-    "description": "RENT STABILIZED, No FEE, Current lease expires Aug 31, 2027 with renewal afterwards Bright one-bedroom apartment home with a sprawling view of the Manhattan skyline and a large kitchen. The gourmet kitchen features Bosch stainless appliances and granite countertops. Grohe bath f...",
+    "description": "RENT STABILIZED till 2027, No FEE, Current lease expires Aug 31, 2027 with renewal afterwards Bright one-bedroom apartment home with a sprawling view of the Manhattan skyline and a large kitchen. The gourmet kitchen features Bosch stainless appliances and granite countertops. Gr...",
     "price": 4500,
     "location": "Long Island City, New York, NY",
     "bedrooms": 1,
@@ -287,6 +287,102 @@
     "extraCosts": [
       "Fees mentioned"
     ]
+  },
+  {
+    "id": "listingsproject-10",
+    "title": "1bd/1ba Williamsburg (elevator, dishwasher, gym) | 9/28-10/10",
+    "description": "Beautiful 1bed/1ba Williamsburg Apt in great building Elevator building, dishwasher, gym downstairs, laundry in basement + communal terrace. Blackout shades in bedroom. Netflix/Hulu/Amazon etc. Terrace on floor with view of the city. The apartment is tidy, comfy, full...",
+    "price": null,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-09-24",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/IruiPXUy8SPKUElCfPDp7Q/a7biz2-living room.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/1bd-1ba-williamsburg-elevator-dishwasher-gym-9-28-10-10",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-09-28 to 2026-10-10",
+    "availableFrom": "2026-09-28",
+    "availableTo": "2026-10-10",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_october_1bd_in_manhattan",
+    "title": "LEASE TAKEOVER OCTOBER 1BD IN MANHATTAN",
+    "description": "\ud83c\udfd9\ufe0f LEASE TAKEOVER, October 17th (Option to Renew) 1-Bedroom in Inwood, Manhattan! Brand-new 16th-floor sun drenched corner unit with floor-to-ceiling windows (west facing), in-unit laundry, dishwasher, central air, doorman, rooftop, and full amenities building. \ud83d\udccd Off 207th St: 1...",
+    "price": 3535,
+    "location": "Inwood, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-24",
+    "imageUrl": "https://preview.redd.it/wjuv642coirh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=824fd505de2e3d585871547495a67f96a6856573",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wpamk5/lease_takeover_october_1bd_in_manhattan/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/AvailableEye3392",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/wjuv642coirh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=824fd505de2e3d585871547495a67f96a6856573"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-bushwick_room_available_1480mo",
+    "title": "\ud83c\udfe0 Bushwick room available ($1,480/mo)",
+    "description": "Looking for someone to take over my room in a 3BR, 1.5 bath apartment in Bushwick, Brooklyn . This would be a lease-takeover starting Oct 12 and going through May 31 (flexible dates), with option to renew. Rent: $1,480/month + utilities (~$100/month) Transit: 5 min walk to the K...",
+    "price": 1480,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 1.5,
+    "platform": "Reddit",
+    "dateListed": "2026-09-24",
+    "imageUrl": "https://preview.redd.it/ibwns2dd9irh1.jpg?width=140&height=105&auto=webp&s=d2c183f82d14942fdd35d7411455d310cd66a9fe",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wp8e9k/bushwick_room_available_1480mo/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/hpaleo",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ibwns2dd9irh1.jpg?width=140&height=105&auto=webp&s=d2c183f82d14942fdd35d7411455d310cd66a9fe"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Rent: $1,480/month + utilities (~$100/month) Transit: 5 min walk to the Knickerbocker Ave M Room: Fairly large with a huge street-facing wi..."
   },
   {
     "id": "reddit-101_clinton_hill_lease_takeover_for_1_room_out_of",
