@@ -1,5 +1,134 @@
 [
   {
+    "id": "listingsproject-47f83e7e6ae3",
+    "title": "Gorgeous plant filled one-bedroom Gowanus condo",
+    "description": "This gorgeous plant filled condo is located on 4th Ave in Brooklyn where Gowanus meets Park Slope. It's a bright and airy one-bedroom apartment on the third floor of a ten floor elevator building. I'll be out of town for work and I'm looking for a mature, responsible,...",
+    "price": 4000,
+    "location": "Park Slope, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-09-24",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/6-CXa2t0BMwVS0eKZ2ShEQ/O8I7-v-full room.jpg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/gorgeous-plant-filled-one-bedroom-gowanus-condo-f3d4995d-41fe-4541-b32d-47f83e7e6ae3",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-10-03 to 2026-11-08",
+    "availableFrom": "2026-10-03",
+    "availableTo": "2026-11-08",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-moveinbonus_1b1b_at_riverhouse_11_weehawken",
+    "title": "move-in-bonus) 1b/1b at RiverHouse 11, Weehawken (manhattan 10-20min)",
+    "description": "** Urgent \ud83d\udea8**** WEEHAWKEN luxury APT** 1 Bed / 1 Bath at RiverHouse 11, Weehawken Port Imperial \ud83c\udfe0 699 sq ft \ud83d\udcb5 $3,450/month (net lower than $3366_could be even lower depending on your move-in-date) \ud83d\udcc6 Available from October 18 \u2764\ufe0f Move-in bonus available \u2764\ufe0f pet-friendly, well maint...",
+    "price": 3450,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-24",
+    "imageUrl": "https://preview.redd.it/vyrsuk492drh1.png?width=140&height=83&auto=webp&s=ccad316298fd885f12d0cfb79a628e60ad721fdb",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1womrm1/moveinbonus_1b1b_at_riverhouse_11_weehawken/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Appropriate-Soup2741",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/vyrsuk492drh1.png?width=140&height=83&auto=webp&s=ccad316298fd885f12d0cfb79a628e60ad721fdb"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_rent_stabilized_1br_in_long_island",
+    "title": "Lease Takeover \u2013 Rent Stabilized 1BR in Long Island City \u2013 $4,500/mo \u2013 Availabl...",
+    "description": "RENT STABILIZED, No FEE, Current lease expires Aug 31, 2027 with renewal afterwards Bright one-bedroom apartment home with a sprawling view of the Manhattan skyline and a large kitchen. The gourmet kitchen features Bosch stainless appliances and granite countertops. Grohe bath f...",
+    "price": 4500,
+    "location": "Long Island City, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-24",
+    "imageUrl": "https://preview.redd.it/djwuvpztedrh1.jpg?width=140&height=93&auto=webp&s=0e5c3b2f9774f5320b5b563e37cf72c8c314ef2e",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1woobpl/lease_takeover_rent_stabilized_1br_in_long_island/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Puzzled_Oil512",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/djwuvpztedrh1.jpg?width=140&height=93&auto=webp&s=0e5c3b2f9774f5320b5b563e37cf72c8c314ef2e"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-west_village_1_bedroom_lease_takeover_starting",
+    "title": "West Village 1 Bedroom Lease Takeover Starting October",
+    "description": "Lease takeover, West Village NYC 1 Bedroom 100 Jane Street, Apt 8c - Available for October 2026, current lease runs until the end of July 2027 Minimal ($1k) security deposit for qualified applicants Monthly rent: $7,200, already paid annual gym fees Elevator building in the West...",
+    "price": null,
+    "location": "West Village, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-24",
+    "imageUrl": "https://preview.redd.it/jnn07uhx4drh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c50116d1b147498c7b06e3630cfc4ed066a8c67a",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1won5nv/west_village_1_bedroom_lease_takeover_starting/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Aletsch11",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/jnn07uhx4drh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c50116d1b147498c7b06e3630cfc4ed066a8c67a"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-101_clinton_hill_lease_takeover_for_1_room_out_of",
     "title": "10/1 Clinton Hill Lease Takeover for 1 room out of a 2 bedroom",
     "description": "Hello! I am subletting my room in a gorgeous, sun-drenched high rise apartment right on the border of Clinton Hill, BedStuy, and Prospect Heights. The apartment is a 3 minute walk to the C train and S train to Prospect Park, a 12 minute walk to the G train, and has a bus stop in...",
@@ -596,6 +725,118 @@
       "Fees mentioned"
     ],
     "utilitiesNotes": "$1350 + $97 flat fee utilities."
+  },
+  {
+    "id": "reddit-sublet_lic_1br_3700mo_3060_days_available_asap",
+    "title": "LIC 1BR \u2013 $3,700/mo \u2013 30\u201360 days \u2013 Available ASAP \u2013 Management Approved",
+    "description": "Hi! I\u2019m subletting my 1BR apartment in Long Island City for approximately 30\u201360 days while I\u2019m temporarily working from Toronto. Details Rent: $3,700/month Available: ASAP Term: 30 days preferred, potentially up to ~2 months Apartment: Private 1BR / 1BA Furnishing: Mostly unfurn...",
+    "price": 3700,
+    "location": "Long Island City, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-23",
+    "imageUrl": "https://preview.redd.it/55cla3dljcrh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=6b7ad9de5dbff02773e7380b93d954a5a3e061ef",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1woke2l/sublet_lic_1br_3700mo_3060_days_available_asap/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/lightsideofsunny",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/55cla3dljcrh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=6b7ad9de5dbff02773e7380b93d954a5a3e061ef"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Gym",
+      "Sublet"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_oversized_1br_in_luxury_harlem",
+    "title": "LEASE TAKEOVER \u2014 Oversized 1BR in Luxury Harlem Building | $3,725/month",
+    "description": "Looking for someone to take over my lease for a beautiful, oversized 1-bedroom apartment in a newly built luxury building in Central Harlem / Striver\u2019s Row. The apartment has a HUGE living room (about 25 feet long), a king-size bedroom, great natural light and modern finishes th...",
+    "price": 3725,
+    "location": "Harlem, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-23",
+    "imageUrl": "https://preview.redd.it/exsw8pdedcrh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4088fffdf29af77e434c1a6cbd86914eca98b325",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wojioo/lease_takeover_oversized_1br_in_luxury_harlem/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/ScaredPresent6477",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/exsw8pdedcrh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4088fffdf29af77e434c1a6cbd86914eca98b325"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-east_williamsburg_lease_takeover_930_to_59_1950",
+    "title": "East Williamsburg lease takeover 9/30 to 5/9. $1950 Rent $249 Utilities",
+    "description": "\ud83c\udfe0 Lease Takeover \u2014 Large Master Bedroom | Williamsburg, Brooklyn | Available Now through May 9, 2027 $1,950/mo + ~$250 utilities | Fully Furnished | 6 Bed / 4 Bath Hey! I'm looking for someone to take over my lease at The Montrose Williamsburg House in the heart of Williamsburg,...",
+    "price": 1950,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 6,
+    "bathrooms": 4.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-23",
+    "imageUrl": "https://preview.redd.it/m3l4gdl9icrh1.jpg?width=140&height=93&auto=webp&s=491f07e632b6871625af466a26fea04dcdb9a667",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wok6d0/east_williamsburg_lease_takeover_930_to_59_1950/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Particular_General23",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/m3l4gdl9icrh1.jpg?width=140&height=93&auto=webp&s=491f07e632b6871625af466a26fea04dcdb9a667"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "$1950 Rent $249 Utilities."
   },
   {
     "id": "reddit-2_month_sublet_for_1_room_in_a_2_bed_1_bath",
@@ -5336,32 +5577,6 @@
       "Utilities mentioned"
     ],
     "utilitiesNotes": "Highlights: High floor with AMAZING views of Manhattan and NY Harbor West-facing with tons of light Completely new highrise building with e..."
-  },
-  {
-    "id": "listingsproject-8c276033eb2b",
-    "title": "Fully furnished, bright studio in new building with amenities in Prospect Height",
-    "description": "$1,560.00 per week. $255 per day. Flexible dates. This fully furnished and equipped, bright, well-located studio in Prospect Heights has an easy, well-connected commute and a neighborhood that\u2019s genuinely fun to live in. Just 10 minutes on foot to multiple subway lines...",
-    "price": null,
-    "location": "Prospect Heights, New York, NY",
-    "bedrooms": 0,
-    "bathrooms": 1.0,
-    "platform": "Listings Project",
-    "dateListed": "2026-09-05",
-    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/t0JAQhfxMj9E99oxpEtuhw/4JVRbf-IMG_6121 3.jpg?aspect_ratio=3:2&width=330",
-    "sourceUrl": "https://www.listingsproject.com/listings/fully-furnished-bright-studio-in-new-building-with-amenities-in-prospect-heights-all-utilities-included-0bcbc921-0594-4658-8eb2-8c276033eb2b",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": null,
-    "sourceThreadTitle": null,
-    "sourceAuthor": null,
-    "sourceIntent": null,
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": "2026-09-06 to 2026-09-23",
-    "availableFrom": "2026-09-06",
-    "availableTo": "2026-09-23",
-    "termTags": [],
-    "amenities": [],
-    "extraCosts": []
   },
   {
     "id": "reddit-people_who_post_looking_for_sublets",
