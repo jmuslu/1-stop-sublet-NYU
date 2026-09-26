@@ -16482,36 +16482,5 @@
       "Housing megathread"
     ],
     "extraCosts": []
-  },
-  {
-    "id": "reddit-sophomore_roommate",
-    "title": "Sophomore Roommate",
-    "description": "If anyone needs a sophomore year roommate respond please we have three people in our group and need a fourth (we want broome or carlyle) submitted by /u/ConsciousLie7884 [link] [comments]",
-    "price": null,
-    "location": "New York, NY",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "platform": "Reddit",
-    "dateListed": "2026-03-29",
-    "imageUrl": null,
-    "sourceUrl": "https://www.reddit.com/r/nyu/comments/1s71fne/sophomore_roommate/",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": "r/nyu",
-    "sourceThreadTitle": "r/nyu housing posts",
-    "sourceAuthor": "/u/ConsciousLie7884",
-    "sourceIntent": "offer",
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": null,
-    "availableFrom": null,
-    "availableTo": null,
-    "termTags": [],
-    "amenities": [
-      "Reddit",
-      "r/nyu",
-      "Roommate",
-      "Housing megathread"
-    ],
-    "extraCosts": []
   }
 ]
