@@ -26,6 +26,46 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-furnished_3_bed_2_bath_sublet_in_north_bergen_nj",
+    "title": "Furnished 3 bed 2 bath sublet in North Bergen NJ | October 1\u201331 | $4,600 utilit...",
+    "description": "Subletting my entire furnished 3 bed, 2 bath apartment in North Bergen, NJ from October 1\u201331, 2026. Additional months negotiable. $4,600 for the month with all utilities included. In-unit laundry, central AC, and a parking spot available for an extra fee. The 127 bus to NYC is d...",
+    "price": 4600,
+    "location": "New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-27",
+    "imageUrl": "https://preview.redd.it/n7wwfvvu40sh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=aa3fc80e998f55ae6c54d92b908f694f2af6a34c",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wrc79s/furnished_3_bed_2_bath_sublet_in_north_bergen_nj/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Sad_Nebula2384",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/n7wwfvvu40sh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=aa3fc80e998f55ae6c54d92b908f694f2af6a34c"
+    ],
+    "availabilityLabel": "October 1\u201331",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Parking",
+      "Sublet"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "parking": "Parking mentioned",
+    "utilitiesNotes": "Furnished 3 bed 2 bath sublet in North Bergen NJ | October 1\u201331 | $4,600 utilities included."
+  },
+  {
     "id": "listingsproject-f82b109ca883",
     "title": "Furnished Room Available in Bushwick | 2\u20133 Month Sublet | $2,000/month",
     "description": "I'm looking for someone to sublet a private ground-floor bedroom in my apartment for 2\u20133 months. The apartment is located in Bushwick and is shared with me, a working professional. The apartment features a furnished living room and kitchen, a backyard with garden...",
