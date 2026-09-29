@@ -1,5 +1,79 @@
 [
   {
+    "id": "reddit-east_williamsburg_sublet_nov_1_1725",
+    "title": "East Williamsburg Sublet - Nov 1 - $1725",
+    "description": "Hey! I'm looking for a roommate to join my two cats and I in my 2 bed/1 bath in East Williamsburg. One block from the Montrose L and close to the G and J as well. Available November 1st. I'd prefer someone who will stay long term but we can discuss if you're looking for somethin...",
+    "price": 1725,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-29",
+    "imageUrl": "https://preview.redd.it/2i7a59o0ycsh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8cb766d19d4f9c1f71ba3b9b89fe7a8778d0445b",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wsw99k/east_williamsburg_sublet_nov_1_1725/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/fantasticwounds",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/2i7a59o0ycsh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8cb766d19d4f9c1f71ba3b9b89fe7a8778d0445b"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Utilities are usually not more than $80 every month."
+  },
+  {
+    "id": "reddit-empty_room_in_furnished_2bd_1ba_eastern_bushwick",
+    "title": "Empty room in furnished 2bd 1ba | Eastern Bushwick | $1,500 (Nov 1)",
+    "description": "(Starr & Knickerbocker) Bushwick lease takeover of 2bed/1bath right on Maria Hernedez Park. Nov 1 - March 31, 2027. (with the option to renew). Rent is $1,500. (Split wifi and electricity). About the room: This is a cozy space with 1 window (facing a light shaft) and a built-in...",
+    "price": 1500,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-29",
+    "imageUrl": "https://preview.redd.it/gvg5z6l2zcsh1.jpg?width=140&height=105&auto=webp&s=83d719fea29f2a6149453c673d6452473474d8be",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wswg4t/empty_room_in_furnished_2bd_1ba_eastern_bushwick/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/rnbsrt",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/gvg5z6l2zcsh1.jpg?width=140&height=105&auto=webp&s=83d719fea29f2a6149453c673d6452473474d8be"
+    ],
+    "availabilityLabel": "Nov 1 - March 31",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Gym",
+      "Roommate"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-seeking_lease_takeover_asap_for_private_room_and",
     "title": "Seeking lease takeover (ASAP) for private room and bathroom in Alphabet City 2...",
     "description": "Looking for someone to take over my lease in a 2 bed / 2 bath apartment in Alphabet City starting October 1 (or ASAP). The lease runs through July 2027 and rent is $2525 per month. I\u2019ve been living in this apartment for 4 years and am quite sad to go. It\u2019s a 3rd floor unit borde...",
@@ -17108,36 +17182,6 @@
       "Reddit",
       "r/nyu",
       "Sublet",
-      "Housing megathread"
-    ],
-    "extraCosts": []
-  },
-  {
-    "id": "reddit-need_guidance_on_subleasing",
-    "title": "Need Guidance on Subleasing!!",
-    "description": "submitted by /u/PossibleHair5078 [link] [comments]",
-    "price": null,
-    "location": "New York, NY",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "platform": "Reddit",
-    "dateListed": "2026-04-01",
-    "imageUrl": null,
-    "sourceUrl": "https://www.reddit.com/r/nyu/comments/1s9jg7w/need_guidance_on_subleasing/",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": "r/nyu",
-    "sourceThreadTitle": "r/nyu housing posts",
-    "sourceAuthor": "/u/PossibleHair5078",
-    "sourceIntent": "offer",
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": null,
-    "availableFrom": null,
-    "availableTo": null,
-    "termTags": [],
-    "amenities": [
-      "Reddit",
-      "r/nyu",
       "Housing megathread"
     ],
     "extraCosts": []
