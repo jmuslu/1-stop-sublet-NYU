@@ -74,6 +74,42 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-border_prospectcrown_heights_1_bdr_w_inroom",
+    "title": "Border Prospect/Crown Heights 1 Bdr w in-room Bathroom Sublet - in-unit W/D, Di...",
+    "description": "Hello! Looking to sublet my room with personal full bathroom from now (asap) until Feb 1st (But this can be flexible. The unit is a 4 bed / 4 bath, everyone has their own bathroom. In unit washer, dryer and dishwasher. utilities are con Ed and wifi which combined total about $17...",
+    "price": 1775,
+    "location": "Crown Heights, New York, NY",
+    "bedrooms": 4,
+    "bathrooms": 4.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-29",
+    "imageUrl": "https://preview.redd.it/jeczrmt37hsh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=cb0c961f8a04cf834cfa388319e51a5a30aadc8f",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wtcxsi/border_prospectcrown_heights_1_bdr_w_inroom/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Opposite-Clothes-407",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/jeczrmt37hsh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=cb0c961f8a04cf834cfa388319e51a5a30aadc8f"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Border Prospect/Crown Heights 1 Bdr w in-room Bathroom Sublet - in-unit W/D, Dishwasher - ASAP - Feb 1 (Flexible) - $1775/month + utilities."
+  },
+  {
     "id": "reddit-seeking_lease_takeover_asap_for_private_room_and",
     "title": "Seeking lease takeover (ASAP) for private room and bathroom in Alphabet City 2...",
     "description": "Looking for someone to take over my lease in a 2 bed / 2 bath apartment in Alphabet City starting October 1 (or ASAP). The lease runs through July 2027 and rent is $2525 per month. I\u2019ve been living in this apartment for 4 years and am quite sad to go. It\u2019s a 3rd floor unit borde...",
