@@ -1,5 +1,108 @@
 [
   {
+    "id": "reddit-north_corona_apartment_rent1000_a_month_each_23f",
+    "title": "North Corona Apartment, rent<$1000 a month each. 23F looking for F",
+    "description": "Hi, I\u2019m 23F university graduate looking for another girl to room with in North Corona, Queens. We\u2019d be signing the lease for a Nov 1st move-in, and everything is included in rent except electricity and WiFi. We\u2019d both have our own living space, with the living room being convert...",
+    "price": 1000,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-30",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wtszuk/north_corona_apartment_rent1000_a_month_each_23f/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/scal3mates",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-squatter_rights",
+    "title": "squatter rights ?!",
+    "description": "my lease is October 3 and I\u2019ve been subleasing in a red stabilized illegal. I management office and they advise me to not pay rent and they also stated that they are in process of evicting the person I am I\u2019m not sure what to do. I have a two her daycare is right across the stre...",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-30",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wtqama/squatter_rights/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/HisokaLover430",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-studio_with_balcony_lease_takeover_111_movein",
+    "title": "**STUDIO with BALCONY LEASE TAKEOVER | 11/1 MOVE-IN | **$2,687.50**/MONTH NET E...",
+    "description": "I\u2019m looking for someone to take over my lease for a studio apartment in Crown Heights. Apartment Details \u2022 Studio with Balcony \u2022 $3,225/month gross \u2022 $2,687.50/month net effective \u2022 $5/month amenity fee through the end of the lease \u2022 Utilities have been around $50/month this sum...",
+    "price": 2687,
+    "location": "Crown Heights, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-30",
+    "imageUrl": "https://preview.redd.it/wfiktefvyjsh1.jpg?width=140&height=78&auto=webp&s=ec1f10a6441cd8cb9f0a1188131667daed3a2f41",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wtqy19/studio_with_balcony_lease_takeover_111_movein/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Next_Albatross9442",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/wfiktefvyjsh1.jpg?width=140&height=78&auto=webp&s=ec1f10a6441cd8cb9f0a1188131667daed3a2f41"
+    ],
+    "availabilityLabel": "Summer",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [
+      "Summer"
+    ],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Apartment Details \u2022 Studio with Balcony \u2022 $3,225/month gross \u2022 $2,687.50/month net effective \u2022 $5/month amenity fee through the end of the..."
+  },
+  {
     "id": "reddit-east_williamsburg_sublet_nov_1_1725",
     "title": "East Williamsburg Sublet - Nov 1 - $1725",
     "description": "Hey! I'm looking for a roommate to join my two cats and I in my 2 bed/1 bath in East Williamsburg. One block from the Montrose L and close to the G and J as well. Available November 1st. I'd prefer someone who will stay long term but we can discuss if you're looking for somethin...",
@@ -108,6 +211,117 @@
       "Utilities mentioned"
     ],
     "utilitiesNotes": "Border Prospect/Crown Heights 1 Bdr w in-room Bathroom Sublet - in-unit W/D, Dishwasher - ASAP - Feb 1 (Flexible) - $1775/month + utilities."
+  },
+  {
+    "id": "reddit-looking_for_roomates_for_march_movein_girls_only",
+    "title": "Looking for roomate(s) for March move-in (girls only)",
+    "description": "Hi! I\u2019m a 22-yo female who just graduated this past May and moved to NYC for my full-time job. I\u2019m currently subleasing til March and looking for a long-term apartment in the meantime. I know most apartments aren\u2019t available til a month prior to moving in so I\u2019m just looking for...",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-29",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wtnrvp/looking_for_roomates_for_march_movein_girls_only/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Pretend-Performer-93",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "Spring",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [
+      "Spring"
+    ],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-bright_chelsea_studio_3200month_inunit_washerdryer",
+    "title": "Bright Chelsea Studio \u2013 $3,200/month \u2013 In-Unit Washer/Dryer",
+    "description": "Hey everyone! I am moving in with my boyfriend and offering up my studio for a lease takeover/lease break! Bright, sun-filled studio in Chelsea with amazing natural light and an incredibly convenient location. The apartment is fully furnished with a queen bed, workspace and smar...",
+    "price": 3200,
+    "location": "Chelsea, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-09-29",
+    "imageUrl": "https://preview.redd.it/yyxrjutc3jsh1.jpg?width=140&height=139&auto=webp&s=e781b3004ddf3c2a14e309bbc567b0495c61e86c",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wtmxa2/bright_chelsea_studio_3200month_inunit_washerdryer/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Constant_Meet_5231",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/yyxrjutc3jsh1.jpg?width=140&height=139&auto=webp&s=e781b3004ddf3c2a14e309bbc567b0495c61e86c"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Rent: $3,200/month + utilities The landlord is open to either a lease transfer/takeover or a new lease, so there\u2019s some flexibility dependi..."
+  },
+  {
+    "id": "reddit-1_br_lease_takeover_111_move_in_3182month_net",
+    "title": "1 BR LEASE TAKEOVER | 11/1 move in | $3182/month net effective | Crown Heights...",
+    "description": "1br/1ba looking for a lease takeover! the lease ends August 2028, locked in 3.5k/ month until then with the months of June, July of 2027 free. amenities $5/month until then as well, and utilities sit around $70/month (even keeping at 70 degrees thru the summer). amenities includ...",
+    "price": 3182,
+    "location": "Crown Heights, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-09-29",
+    "imageUrl": "https://preview.redd.it/kmedt1pyshsh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a761918aa5262c013ee9f3ea31add3d180b025ea",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wtg2my/1_br_lease_takeover_111_move_in_3182month_net/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Fireventis",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/kmedt1pyshsh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a761918aa5262c013ee9f3ea31add3d180b025ea"
+    ],
+    "availabilityLabel": "Summer",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [
+      "Summer"
+    ],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "amenities $5/month until then as well, and utilities sit around $70/month (even keeping at 70 degrees thru the summer)."
   },
   {
     "id": "reddit-seeking_lease_takeover_asap_for_private_room_and",
