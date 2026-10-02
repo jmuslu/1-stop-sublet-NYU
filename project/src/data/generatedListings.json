@@ -156,6 +156,147 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-sublet_2000mo_furnished_private_room_in_2br_uws_w",
+    "title": "$2,000/mo \u2013 Furnished private room in 2BR, UWS (W 95th & West End) \u2013 Mid-Nov to...",
+    "description": "Subletting my private bedroom in a 2BR on the Upper West Side, available early/mid -November 2026 through January 31, 2027 . Start date is flexible. The basics: $2,000/month, utilities included Private room, furnished with a queen bed and a small dresser, a desk and a TV. One ea...",
+    "price": 2000,
+    "location": "Upper West Side, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-02",
+    "imageUrl": "https://preview.redd.it/s5sso6d8y3th1.jpg?width=140&height=104&auto=webp&s=91c79a6509c0a58b402c2a921d66f39346b7648a",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1ww38sk/sublet_2000mo_furnished_private_room_in_2br_uws_w/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/PoolPartyGraves",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/s5sso6d8y3th1.jpg?width=140&height=104&auto=webp&s=91c79a6509c0a58b402c2a921d66f39346b7648a"
+    ],
+    "availabilityLabel": "Nov to Jan",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "[Sublet] $2,000/mo \u2013 Furnished private room in 2BR, UWS (W 95th & West End) \u2013 Mid-Nov to Jan 31, utilities included."
+  },
+  {
+    "id": "reddit-15_bed_apt_for_sublease_astoria_3400mo",
+    "title": "1.5 bed apt for sublease - Astoria 3400/mo",
+    "description": "My apartment is available for sublease until July 31, 2027. I\u2019m ideally looking for someone who can stay for the entire duration. It is available for viewing. You can find the details here: https://streeteasy.com/rental/5159757 submitted by /u/haeinj [link] [comments]",
+    "price": 3400,
+    "location": "Astoria, New York, NY",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-02",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wvqnyo/15_bed_apt_for_sublease_astoria_3400mo/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/haeinj",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_lic_waterfront_studio_at_gotham",
+    "title": "Lease takeover | LIC waterfront studio at Gotham Point | $3,733/month | Availab...",
+    "description": "Hi! I\u2019m moving in with my partner and looking for someone to take over my studio at Gotham Point North Tower in Long Island City. I\u2019m the current tenant, not a broker. The details: Rent: $3,733/month Available now; lease ends July 9, 2027 Lease assignment with landlord permissio...",
+    "price": 3733,
+    "location": "Long Island City, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-02",
+    "imageUrl": "https://preview.redd.it/fnvedc2ca3th1.jpeg?width=320&crop=smart&auto=webp&s=36c9c39044981b4c4f2bbb0b9aa8747787fdade0",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wvzunw/lease_takeover_lic_waterfront_studio_at_gotham/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/HerbalShisha",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/fnvedc2ca3th1.jpeg?width=320&crop=smart&auto=webp&s=36c9c39044981b4c4f2bbb0b9aa8747787fdade0",
+      "https://i.redd.it/fnvedc2ca3th1.jpeg"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_harlem_1bed_in_2bed1bath",
+    "title": "LEASE TAKEOVER HARLEM 1bed in 2bed/1bath",
+    "description": "Looking for someone to do a lease takeover ASAP! You get a 1 bed in a 2 bedroom/1 bath apartment Harlem 125. 5min walk to the 4,5,6. 10min walk to the 2,3. In unit washer/dryer, central air, updated appliances, gym, mail, package lockers, conference room, golf simulator, rooftop...",
+    "price": 2520,
+    "location": "Harlem, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-02",
+    "imageUrl": "https://preview.redd.it/avihftttx2th1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=974b097bd1c00b0ac55d42ca699177d9b482fa74",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wvy8sx/lease_takeover_harlem_1bed_in_2bed1bath/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/PineapplePositive422",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/avihftttx2th1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=974b097bd1c00b0ac55d42ca699177d9b482fa74"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Two takeover price options: *current lease takeover ends March 6th, $2520/month+utilities."
+  },
+  {
     "id": "listingsproject-1st",
     "title": "Bright 1Bed + Office. 6 MONTH TO ONE YEAR SUBLET. Carroll Gardens BK $3900. NOV ",
     "description": "NOV 1st MOVE IN Brooklyn Waterfront. 1 Bedroom plus office. Spacious 975 sq ft Sublet. The Space: 6-Month to 1 Year Sublet near the Brooklyn Waterfront in Carroll Gardens/Columbia St. Find this quiet, cozy, :FURNISHED: one-bedroom plus home office. Apartment features...",
