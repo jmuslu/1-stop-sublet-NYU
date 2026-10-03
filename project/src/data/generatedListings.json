@@ -140,6 +140,40 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-listing_studio_lease_takeover_journal_square",
+    "title": "Studio Lease Takeover \u2013 Journal Square, Jersey City \u2013 $3,475/month \u2013 October 17",
+    "description": "Hi everyone! I\u2019m looking for someone to take over my lease at 505 Summit in Journal Square, starting October 17 . The apartment is on a 40+ floor in a brand-new luxury high-rise. I\u2019m the first tenant and have only lived here for two months. Apartment features: In-unit washer and...",
+    "price": 3475,
+    "location": "Jersey City, NJ",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-03",
+    "imageUrl": "https://preview.redd.it/lgp90kdlmath1.jpeg?width=640&crop=smart&auto=webp&s=a2b0137d553494f2e49a7b1498982c9c45f2d78f",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wwtwuc/listing_studio_lease_takeover_journal_square/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Extension-Froyo-2993",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/lgp90kdlmath1.jpeg?width=640&crop=smart&auto=webp&s=a2b0137d553494f2e49a7b1498982c9c45f2d78f",
+      "https://i.redd.it/lgp90kdlmath1.jpeg"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-deck",
     "title": "Bright, Furnished 2BR/2BA Harlem Home with Roof Deck",
     "description": "Bright, sunny, fully furnished 2-bedroom, 2-bath condo in a prewar elevator building in Harlem, available November 1 through December 30. Dates are somewhat flexible, and I\u2019m happy to discuss slightly different start/end dates. The apartment has wonderful southern light...",
