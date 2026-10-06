@@ -1,5 +1,37 @@
 [
   {
+    "id": "reddit-3216_farragut_rd_east_flatbush",
+    "title": "3216 Farragut Rd east Flatbush",
+    "description": "Do NOTTTTT move in here!! There are German roaches in the laundry room, stairwells, hallways and all over my apartment & likely others. Took weeks to get any type of help getting rid of them and there was only any type of urgency AFTER I filed a 311 complaint. I\u2019d been going bac...",
+    "price": 400,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-06",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wzbcng/3216_farragut_rd_east_flatbush/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/emrolledup",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-1br1ba_lease_takeover_on_the_uws_87th_amsterdam",
     "title": "1BR/1BA Lease Takeover on the UWS (87th & Amsterdam) - $2,850 rent",
     "description": "EDIT: Rent is $3,100, apologies for the belated edit. Requirements for the application $20 Application fee per applicant (This will include a credit check) Minimum yearly income needs to be $124K Minimum Credit score of 720 Taking over my lease starting Nov 7, 2026 , for a full...",
@@ -4619,7 +4651,7 @@
     "imageUrls": [
       "https://preview.redd.it/mv742vc8pxqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d91a907c17964879283684549f59e9269f8e009f"
     ],
-    "availabilityLabel": "Nov-Dec",
+    "availabilityLabel": null,
     "availableFrom": null,
     "availableTo": null,
     "termTags": [],
