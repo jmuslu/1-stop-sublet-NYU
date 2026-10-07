@@ -1,5 +1,38 @@
 [
   {
+    "id": "reddit-1_bed_1_bath_in_gramercykips_bay_available_112027",
+    "title": "1 bed 1 bath in Gramercy/Kips Bay - available 1/1/2027",
+    "description": "I\u2019m possibly breaking my lease in Jan and need a lease takeover. rent should be around $5k looking at 1 bedrooms in the building. address is 401 2nd Ave. any interest? submitted by /u/BackgroundTrick7286 [link] [comments]",
+    "price": null,
+    "location": "Gramercy, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-07",
+    "imageUrl": "https://preview.redd.it/uqx3otmnlyth1.jpeg?width=640&crop=smart&auto=webp&s=d9045514c353380796c76f77c7b11a4f101d1d0f",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wzllrz/1_bed_1_bath_in_gramercykips_bay_available_112027/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/BackgroundTrick7286",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/uqx3otmnlyth1.jpeg?width=640&crop=smart&auto=webp&s=d9045514c353380796c76f77c7b11a4f101d1d0f",
+      "https://i.redd.it/uqx3otmnlyth1.jpeg"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-3216_farragut_rd_east_flatbush",
     "title": "3216 Farragut Rd east Flatbush",
     "description": "Do NOTTTTT move in here!! There are German roaches in the laundry room, stairwells, hallways and all over my apartment & likely others. Took weeks to get any type of help getting rid of them and there was only any type of urgency AFTER I filed a 311 complaint. I\u2019d been going bac...",
@@ -27,6 +60,206 @@
       "r/NYCapartments",
       "Laundry",
       "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-november_fidi_lease_takeover",
+    "title": "November FiDi Lease Takeover",
+    "description": "Hi! I was fortunate to receive a housing lottery assignment and am looking to have someone takeover my current bedroom in a 2b2b in FiDi. You would also have your own bathroom (circled in floorplan). I\u2019ve genuinely loved this apartment and would have stayed much longer had I not...",
+    "price": 2850,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-06",
+    "imageUrl": "https://preview.redd.it/tm4c6bg48vth1.jpg?width=140&height=107&auto=webp&s=97e302c86f3eaef494c276de908b44b99f8d32de",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wz5ks3/november_fidi_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/NYCDailyLiving",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/tm4c6bg48vth1.jpg?width=140&height=107&auto=webp&s=97e302c86f3eaef494c276de908b44b99f8d32de"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_3150_a_month_1br_lower_east_side",
+    "title": "Lease takeover! $3,150 a month / 1BR - Lower East Side (Allen St / Orchard) - 1...",
+    "description": "I am the current tenant looking to find a replacement occupant for my 1-bedroom apartment in the heart of the Lower East Side. Lease ends 12/31 with option to renew. Rent: $3,150/month (current rate) Move-in Date: Flexible (targeting mid-November or December 1st) Lease Term: Ope...",
+    "price": 3150,
+    "location": "East Village, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-06",
+    "imageUrl": "https://preview.redd.it/t9ciz3yaewth1.jpg?width=140&height=105&auto=webp&s=e8ecb44db75b8c3ca283f05422a2cd9ca9e3b81d",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wzbqcn/lease_takeover_3150_a_month_1br_lower_east_side/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Vegetable-Reason-555",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/t9ciz3yaewth1.jpg?width=140&height=105&auto=webp&s=e8ecb44db75b8c3ca283f05422a2cd9ca9e3b81d"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-1br_lease_takeover_in_crown_heights_3100month",
+    "title": "1BR lease takeover in Crown Heights \u2014 $3,100/month \u2014 starting December",
+    "description": "Hi! My partner and I are looking for someone to take over our lease starting in December. We\u2019re leaving the country, so unfortunately we have to leave this apartment \u2014 otherwise, we would absolutely stay. We\u2019ve loved living here! -Crown Heights -$3,100/month -Spacious 1-bedroom...",
+    "price": 3100,
+    "location": "Crown Heights, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-06",
+    "imageUrl": "https://preview.redd.it/e17c2kvsvvth1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9025b0229ba03cfc6fd0cd2668a188a177c69715",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wz8zd3/1br_lease_takeover_in_crown_heights_3100month/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Patient-Idea6964",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/e17c2kvsvvth1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9025b0229ba03cfc6fd0cd2668a188a177c69715"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-les_penthouse_2br2ba_9395_nov_1_no_broker_fee",
+    "title": "LES Penthouse 2BR/2BA \u2013 $9,395 \u2013 Nov 1 \u2013 No Broker Fee",
+    "description": "Posting a lease takeover for PH101 at The Suffolk (55 Suffolk St) in the Lower East Side. It\u2019s a penthouse 2BR/2BA with incredible city views, floor-to-ceiling windows and tons of natural light. Details: \u2022 $9,395/month \u2022 $8,950 security deposit \u2022 Available 11/1/26 \u2022 Lease throug...",
+    "price": null,
+    "location": "Lower East Side, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-06",
+    "imageUrl": "https://preview.redd.it/3hcn16akfvth1.jpg?width=140&height=89&auto=webp&s=8164a8f06f7d0e94bf9e9cf5d44a3b141d6f0e25",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wz6nty/les_penthouse_2br2ba_9395_nov_1_no_broker_fee/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Calm_Butterfly4504",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/3hcn16akfvth1.jpg?width=140&height=89&auto=webp&s=8164a8f06f7d0e94bf9e9cf5d44a3b141d6f0e25"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-apartment_needed_1b1b_clinton_hill_fort_greene",
+    "title": "1b1b Clinton Hill/ Fort Greene",
+    "description": "We are looking for a 1b1b that is available in Nov./Dec . and our budget is $3800ish We also open lease takeover if you are looking for someone or you know someone please DM. submitted by /u/evelyn840829 [link] [comments]",
+    "price": 3800,
+    "location": "Fort Greene, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-06",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wz24fu/apartment_needed_1b1b_clinton_hill_fort_greene/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/evelyn840829",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-hells_kitchen_1br_lease_takeover_31st_floor_with",
+    "title": "Hell's Kitchen 1BR lease takeover 31st floor with amazing views! | Available Oc...",
+    "description": "We\u2019re moving out of state and looking for someone to take over our $4,725/month one-bedroom, one-bathroom apartment at Riverbank, 560 W 43rd St in Hell\u2019s Kitchen, starting October 12. The lease runs through April 3, 2027, with a possible extension subject to Riverbank\u2019s approval...",
+    "price": 4725,
+    "location": "Hell's Kitchen, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-06",
+    "imageUrl": "https://preview.redd.it/uzxm5d1klrth1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a7288a296ea2e535ac31cfc944a085dd9cb05fe4",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wys787/hells_kitchen_1br_lease_takeover_31st_floor_with/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/justforjokez",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/uzxm5d1klrth1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a7288a296ea2e535ac31cfc944a085dd9cb05fe4"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
       "Housing megathread"
     ],
     "extraCosts": []
@@ -310,8 +543,8 @@
   {
     "id": "reddit-greenpoint_luxury_lease_takeover_1115",
     "title": "Greenpoint Luxury Lease Takeover - 11/15",
-    "description": "1 Bed 1 Bath - Apartment Lease Takeover \u2013 Spacious Luxury/High-Rise 1BR in Greenpoint | 715 Sq Ft | In-Unit W/D | 77 Commercial St. $4,200-4,500/mo (TBC) Looking for someone to take over our lease starting on November 15 . Lease will run to 4/25/27 with the option to renew. 1 be...",
-    "price": 4200,
+    "description": "1 Bed 1 Bath - Apartment Lease Takeover \u2013 Spacious Luxury/High-Rise 1BR in Greenpoint | 715 Sq Ft | In-Unit W/D | 77 Commercial St. $4,850 . Building is open to negotiations. Looking for someone to take over our lease starting on November 15 . Lease will run for 12 months with t...",
+    "price": 4850,
     "location": "Greenpoint, New York, NY",
     "bedrooms": 1,
     "bathrooms": 1.0,
@@ -341,7 +574,7 @@
       "Utilities mentioned",
       "Fees mentioned"
     ],
-    "utilitiesNotes": "1 bedroom + 1 bathroom apartment located in Brooklyn\u2019s Greenpoint neighborhood: - $4,200-4,500+ utilities (TBC) -$1,500 admin fee / No secu..."
+    "utilitiesNotes": "1 bedroom + 1 bathroom apartment located in Brooklyn\u2019s Greenpoint neighborhood: - $4,850+ utilities -$1,500 admin fee / No security deposit..."
   },
   {
     "id": "reddit-no_broker_fee_1br1ba_lease_takeover_in_hudson",
@@ -1027,7 +1260,7 @@
   {
     "id": "reddit-private_east_village_studio_in_excellent_location",
     "title": "Private East Village Studio in Excellent location, Garden View, South Facing/Su...",
-    "description": "https://reddit.com/link/1ww68tk/video/ddda4dagw4th1/player EDIT: application Pending. I will update by Wednesday if it goes through and contract is signed. There will be a garden basement apartment (private garden to yourself) for move in Nov 1 but it is being renovated right no...",
+    "description": "https://reddit.com/link/1ww68tk/video/ddda4dagw4th1/player EDIT: THIS APARTMENT RENTED 10-6: I will post soon for a one bedroom apt basement level but good natural light - avail Nov 1 (currently being renovated) - message or comment if interested Private East Village Studio in E...",
     "price": 3000,
     "location": "East Village, New York, NY",
     "bedrooms": 0,
@@ -19150,36 +19383,6 @@
     "sourceSubreddit": "r/nyu",
     "sourceThreadTitle": "r/nyu housing posts",
     "sourceAuthor": "/u/deardons",
-    "sourceIntent": "offer",
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": null,
-    "availableFrom": null,
-    "availableTo": null,
-    "termTags": [],
-    "amenities": [
-      "Reddit",
-      "r/nyu",
-      "Housing megathread"
-    ],
-    "extraCosts": []
-  },
-  {
-    "id": "reddit-subleasing_1b1b_in_queens",
-    "title": "subleasing 1b1b in queens",
-    "description": "hi yall, I am currently subleasing a 1b1b in queens from May or June 2026. rent is 2500. dm me for more information :-)) submitted by /u/DoubleGuidance6569 [link] [comments]",
-    "price": 2500,
-    "location": "New York, NY",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "platform": "Reddit",
-    "dateListed": "2026-04-09",
-    "imageUrl": null,
-    "sourceUrl": "https://www.reddit.com/r/nyu/comments/1sh3o3i/subleasing_1b1b_in_queens/",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": "r/nyu",
-    "sourceThreadTitle": "r/nyu housing posts",
-    "sourceAuthor": "/u/DoubleGuidance6569",
     "sourceIntent": "offer",
     "school": null,
     "imageUrls": [],
