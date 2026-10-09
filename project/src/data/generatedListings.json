@@ -125,6 +125,113 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-sublet_2950_east_village_furnished_sublet_nov",
+    "title": "$2950 East Village furnished sublet - Nov 1-Jan 1",
+    "description": "Hi! I\u2019m subletting my furnished East Village studio apartment from November 1-January 1. It\u2019s a 4th floor walk up (sorry!) near all of the best bars/restaurants/coffee shops in the area. The RW, L, 6, and F trains are all within walking distance. It\u2019s a very quiet building, so l...",
+    "price": 2950,
+    "location": "East Village, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-09",
+    "imageUrl": "https://preview.redd.it/r7sma4uv2iuh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5a600e96a079b661c9dc82f088155b8b54d6f7b6",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x1vw9h/sublet_2950_east_village_furnished_sublet_nov/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Vegetable-Ad-1026",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/r7sma4uv2iuh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5a600e96a079b661c9dc82f088155b8b54d6f7b6"
+    ],
+    "availabilityLabel": "Nov 1-Jan 1",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "$2950 includes all utilities."
+  },
+  {
+    "id": "reddit-ues_sublet_studio_w_loft_2400",
+    "title": "UES Sublet - studio w/ loft - $2400",
+    "description": "Would like to sublet my place as I rarely stay there. It\u2019s in a great area: ~70th st and 1st Ave. It\u2018s a loft style studio with a good bit of space Tons of great restaurants and bars around. The apartment is fully furnished, but could work with you on that. open to subletting ti...",
+    "price": 2400,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-09",
+    "imageUrl": "https://preview.redd.it/63okz0lasguh1.jpg?width=140&height=99&auto=webp&s=f0d0f262caa7c2a7abc338fbd3e356db7786becb",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x1p5hq/ues_sublet_studio_w_loft_2400/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/nyc_ues_throwaway_",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/63okz0lasguh1.jpg?width=140&height=99&auto=webp&s=f0d0f262caa7c2a7abc338fbd3e356db7786becb"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-looking_for_a_nyc_subleaselease_takeover_asap",
+    "title": "Looking for a NYC sub-lease/lease takeover ASAP - Budget $1875",
+    "description": "Hello!! My name is Corbin I\u2019m 24 looking for a sublease or lease takeover in NYC ASAP. Preferably Williamsburg, Bushwick, Ridgewood, Bed-Stuy, Greenpoint, LES, Chinatown. But feel free to reach out with separate options! I am a professional Video Content Producer with a full tim...",
+    "price": 1875,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-09",
+    "imageUrl": "https://preview.redd.it/1spk59fbtguh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=354b6bfedffdfae87c6475fedf0d555285f0f675",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x1paw1/looking_for_a_nyc_subleaselease_takeover_asap/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/yeskii",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/1spk59fbtguh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=354b6bfedffdfae87c6475fedf0d555285f0f675"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-amenities",
     "title": "Light-filled Brooklyn apartment with amazing amenities",
     "description": "We're moving because we have purchased an apartment nearby so need someone to take over the remainder of our two-year lease. Modern 1BR in NYC\u2019s First All-Electric Skyscraper with Rooftop Pool Apartment 9E at 505 State Street is a beautifully designed one-bedroom home...",
