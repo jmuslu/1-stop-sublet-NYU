@@ -65,6 +65,66 @@
     "utilitiesNotes": "I\u2019ve honestly LOVED living here though One-Bedroom on the Upper West Side $4675 plus utilities (about $100, but I also run my washer/dishwa..."
   },
   {
+    "id": "listingsproject-kitchen",
+    "title": "Sunny 1BR + Flex 2BR/Office, Floor-to-Ceiling Hudson River Views \u2014 W 42nd & 11th",
+    "description": "Available any time on/after Oct 12th, 2026 through January 31, 2027 (possible extension if needed\u2014 need to confirm with management). Sun-filled one-bedroom directly across from the West Side Highway at 42nd St and 11th Ave, with floor-to-ceiling windows framing an...",
+    "price": 5800,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-10-09",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/G_hJW8kTmuvTJt3CabzrVg/mJDsiG-635_West_42nd_Street.jpg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/sunny-1br-flex-2br-office-floor-to-ceiling-hudson-river-views-w-42nd-11th-hudson-yards-hell-s-kitchen",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-10-12 to 2027-01-31",
+    "availableFrom": "2026-10-12",
+    "availableTo": "2027-01-31",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lic_1br1ba_lease_takeover_750_sqft_4150_rent",
+    "title": "1BR/1BA Lease Takeover | 750 sqft | $4,150 | Rent Stabilized | Late October",
+    "description": "Hi everyone! I'm looking for someone to take over my 1BR/1BA apartment at ALTA+ in Long Island City . Apartment Details: Rent: $4,150/month (rent stabilized) Size: ~750 sqft, spacious 1 bed / 1 bath compare to other LIC 1b1b I have seen, Available: Late October (around 10/26), f...",
+    "price": 4150,
+    "location": "Long Island City, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-09",
+    "imageUrl": "https://preview.redd.it/gn8fdg10qcuh1.png?width=140&height=130&auto=webp&s=aa6b399153c36b9596e011bc88d3579f94f7d12e",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x19kcn/lic_1br1ba_lease_takeover_750_sqft_4150_rent/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/tacitli",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/gn8fdg10qcuh1.png?width=140&height=130&auto=webp&s=aa6b399153c36b9596e011bc88d3579f94f7d12e"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-amenities",
     "title": "Light-filled Brooklyn apartment with amazing amenities",
     "description": "We're moving because we have purchased an apartment nearby so need someone to take over the remainder of our two-year lease. Modern 1BR in NYC\u2019s First All-Electric Skyscraper with Rooftop Pool Apartment 9E at 505 State Street is a beautifully designed one-bedroom home...",
@@ -312,6 +372,120 @@
       "Housing megathread"
     ],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-4143_2br2ba_lease_takeover_in_rego_parknear",
+    "title": "$4143 2BR/2BA Lease Takeover in Rego Park/Near Forest Hill | Available Nov 21,...",
+    "description": "https://preview.redd.it/ofm1fxrchauh1.jpg?width=1100&format=pjpg&auto=webp&s=9f2d8c3f59fda088e3bbbe612f381ec329a699a3 https://preview.redd.it/tmau4f3dhauh1.jpg?width=1011&format=pjpg&auto=webp&s=786a97e657ea1de120611706b4d22bdf160163af https://reddit.com/link/1x0z4tn/video/0ikz8...",
+    "price": 4143,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-08",
+    "imageUrl": "https://preview.redd.it/ofm1fxrchauh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=85e6486e3fea8635e8ba51ea0a2c6c552a741f55",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x0z4tn/4143_2br2ba_lease_takeover_in_rego_parknear/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Ok-Temperature9626",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ofm1fxrchauh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=85e6486e3fea8635e8ba51ea0a2c6c552a741f55",
+      "https://preview.redd.it/ofm1fxrchauh1.jpg?width=1100&format=pjpg&auto=webp&s=9f2d8c3f59fda088e3bbbe612f381ec329a699a3",
+      "https://preview.redd.it/tmau4f3dhauh1.jpg?width=1011&format=pjpg&auto=webp&s=786a97e657ea1de120611706b4d22bdf160163af"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Parking",
+      "Gym",
+      "Near campus",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ],
+    "parking": "Parking mentioned"
+  },
+  {
+    "id": "reddit-lease_takeover_williamsburg_available_right_away",
+    "title": "Lease Takeover Williamsburg - Available Right Away",
+    "description": "Hi, I am looking to move from my current apartment as early as this weekend. The apartment is 3 bed 1.5 bath right next to the MJZ on Marcy Ave. Two roommates aged 26 and 28. Really nice guys, one works from home about half the time. One room is available, furniture included (ma...",
+    "price": 1717,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 1.5,
+    "platform": "Reddit",
+    "dateListed": "2026-10-08",
+    "imageUrl": "https://preview.redd.it/zpemigljgauh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e5951f9f1bdb62ed6a1a43b0adf53bd7689037d9",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x0z2eq/lease_takeover_williamsburg_available_right_away/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/ImSteveYo",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/zpemigljgauh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e5951f9f1bdb62ed6a1a43b0adf53bd7689037d9"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Rent is $1717/month plus some utilities."
+  },
+  {
+    "id": "reddit-lease_takeover_entire_2br1ba_apt_dec_1",
+    "title": "LEASE TAKEOVER - ENTIRE 2BR/1BA APT - DEC 1 - MANHATTAN/UPTOWN/WEST HARLEM/HAMI...",
+    "description": "Moving out of state and looking for someone to take over my 2BR/1BA apartment starting Dec 1! You will be signing a new 1 year lease - Dec 1, 2026-Nov 30, 2027 @ $3150/mo. MUST make 40x rent ($126,000/yr individual or combined) Will accept personal guarantors that make 80x rent...",
+    "price": 3150,
+    "location": "Harlem, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-08",
+    "imageUrl": "https://preview.redd.it/2r4yzluzp9uh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=77ddab2ca27852712d783e0792b425aa9a1342de",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x0v4ql/lease_takeover_entire_2br1ba_apt_dec_1/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/xlittlebigmouthx",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/2r4yzluzp9uh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=77ddab2ca27852712d783e0792b425aa9a1342de"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
   },
   {
     "id": "reddit-1_bed_1_bath_in_gramercykips_bay_available_112027",
@@ -783,6 +957,108 @@
       "Utilities mentioned"
     ],
     "utilitiesNotes": "$3500/month inclusive of utilities!"
+  },
+  {
+    "id": "reddit-lease_takeover_les_2br2ba_loft_duplex_90_clinton",
+    "title": "LES 2BR/2BA loft duplex, 90 Clinton St, $7,100/mo, no fee, available ASAP",
+    "description": "Entire apartment, not a room share. We're looking for someone to take over our lease at 90 Clinton St #3B on the Lower East Side. Same rent, same terms. You apply through the building's management, and once you're approved the lease moves to you. Rent: $7,100/mo, no concessions,...",
+    "price": null,
+    "location": "Lower East Side, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-07",
+    "imageUrl": "https://preview.redd.it/89fwrmc543uh1.jpg?width=140&height=104&auto=webp&s=0d723ddf62b67c222fefa3497e939dbe85c8d9f2",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x03k1d/lease_takeover_les_2br2ba_loft_duplex_90_clinton/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/pepedelcastano",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/89fwrmc543uh1.jpg?width=140&height=104&auto=webp&s=0d723ddf62b67c222fefa3497e939dbe85c8d9f2"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-ch_lease_take_over_2600_rs_2nd_floor",
+    "title": "CH- Lease take over $2600 RS- 2nd FLOOR",
+    "description": "One year lease takeover in Crown Heights, right by the Nostrand subway station, Rent stabilized 2 nd floor Laundry across street Move in asap Pls dm submitted by /u/TargetNo7326 [link] [comments]",
+    "price": 2600,
+    "location": "Crown Heights, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-07",
+    "imageUrl": "https://preview.redd.it/q0z1wqqje2uh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=fbcb6cd585f9292f281edadbc2acd537f80fff9c",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wzzqrl/ch_lease_take_over_2600_rs_2nd_floor/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/TargetNo7326",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/q0z1wqqje2uh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=fbcb6cd585f9292f281edadbc2acd537f80fff9c"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_nov_bushwick_2bd_1_ba_3200",
+    "title": "\u2605 Lease Takeover (Nov) - Bushwick - 2BD 1 BA - $3200 \u2605",
+    "description": "\ud83d\udcc5 Available: November 1, 2026 \u23f0 Duration: Lease ends April 30, 2027 \ud83d\udcb0 Rent: $3200/month \ud83d\udccd Located: Bushwick \u23e9 Applicants will complete the building\u2019s approval process and have ability to renew per management's discretion. SUBMIT HERE: https://forms.gle/oGr8fRRVfRGZ8eYz9 **NO DMs...",
+    "price": 3200,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-07",
+    "imageUrl": "https://preview.redd.it/q0gfqq9tc2uh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=66b2abcb5861d6bff13691633f12568399d90c2a",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1wzzj3r/lease_takeover_nov_bushwick_2bd_1_ba_3200/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/gonegirlie",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/q0gfqq9tc2uh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=66b2abcb5861d6bff13691633f12568399d90c2a"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
   },
   {
     "id": "reddit-3216_farragut_rd_east_flatbush",
@@ -1326,7 +1602,7 @@
       "Utilities mentioned",
       "Fees mentioned"
     ],
-    "utilitiesNotes": "1 bedroom + 1 bathroom apartment located in Brooklyn\u2019s Greenpoint neighborhood: - $4,850+ utilities -$1,500 admin fee / No security deposit..."
+    "utilitiesNotes": "1 bedroom + 1 bathroom apartment located in Brooklyn\u2019s Greenpoint neighborhood: - $4,850+ utilities - $4,850 security deposit (refunded at..."
   },
   {
     "id": "reddit-no_broker_fee_1br1ba_lease_takeover_in_hudson",
