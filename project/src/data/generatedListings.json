@@ -133,6 +133,68 @@
     "extraCosts": []
   },
   {
+    "id": "listingsproject-views",
+    "title": "Waterfront Williamsburg Studio with Panoramic East River Views",
+    "description": "I\u2019m subletting my fully furnished, 610-square-foot studio at Two Northside Piers on the Williamsburg waterfront. You\u2019ll have the entire apartment to yourself, with expansive windows framing panoramic views down the East River and across to the Manhattan skyline. The...",
+    "price": 4200,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-10-10",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/z7oY2glNssHhwaZ873DPsQ/0kVsRs-IMG_7511.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/waterfront-williamsburg-studio-with-panoramic-east-river-views",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-11-02 to 2027-05-02",
+    "availableFrom": "2026-11-02",
+    "availableTo": "2027-05-02",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-newly_renovated_bronx_apartment_available_looking",
+    "title": "Newly Renovated Bronx Apartment Available! Looking for Subletter for other bedr...",
+    "description": "Newly renovated Bronx apartment! DM me for a video Hi we are looking for a sublet to take the other room. You would have your own private bathroom and washer and dryer is in unit. You will not be on the lease but we will have a sublease agreement. No credit check but we will ask...",
+    "price": 1500,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-10",
+    "imageUrl": "https://preview.redd.it/ovwqyos6jnuh1.jpg?width=140&height=99&auto=webp&s=ef6f6cfead1c887ef6d5b5c7a46c1e88e9e2519e",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x2gxy9/newly_renovated_bronx_apartment_available_looking/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/FirefighterFit1318",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ovwqyos6jnuh1.jpg?width=140&height=99&auto=webp&s=ef6f6cfead1c887ef6d5b5c7a46c1e88e9e2519e"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Rent is 1500 plus utilities."
+  },
+  {
     "id": "listingsproject-2d9afb485c86",
     "title": "LES/ China town room for sublet",
     "description": "Heart of everything happening downtown! This bedroom is available starting October 1st. Long term preferred but possibly do short term. Right above the F train East Broadway station. And across the street from steward park. You\u2019d be living with a woman who works in...",
