@@ -1,5 +1,138 @@
 [
   {
+    "id": "listingsproject-5fe5d17fa8b4",
+    "title": "2-Bedroom sublet in Fort Greene",
+    "description": "Hello hello hello. I'm looking to sublet my furnished 2-bedroom between October 12th - October 23rd. The apartment is located on Adelphi St between Dekalb and Lafayette \u2014 if you don't know, truly the most magical location in Brooklyn. The apartment is on the 5th...",
+    "price": null,
+    "location": "Fort Greene, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-10-10",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/jE-IneQo6WrwwBa-JlDJfA/ccbOwU-Screenshot 2024-04-07 at 11.45.06\u202fPM.png?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/2-bedroom-sublet-in-fort-greene-03fb614d-580e-44ae-8d6a-5fe5d17fa8b4",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-10-12 to 2026-10-22",
+    "availableFrom": "2026-10-12",
+    "availableTo": "2026-10-22",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-large_bedroom_private_office_sublet_in_east",
+    "title": "Large Bedroom + Private Office Sublet in East Williamsburg - $2650",
+    "description": "Sublet available from December 15th-April 1st (potential for the 15th). Large (~12ft x 14ft) sunny bedroom with private office in a shared apartment off the Montrose L in East Williamsburg, located right between Win Son & Baby Blues Luncheonette/Brooklyn Ball Factory. Also by G...",
+    "price": 2650,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-10",
+    "imageUrl": "https://preview.redd.it/jg8em6s5zjuh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=82a014933934fa315900e5915409512b4ec430a7",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x244fj/large_bedroom_private_office_sublet_in_east/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/subwayratnyc",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/jg8em6s5zjuh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=82a014933934fa315900e5915409512b4ec430a7"
+    ],
+    "availabilityLabel": "December 15th-April 1st",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "All utilities included."
+  },
+  {
+    "id": "reddit-sublet_1br_3100_ues_yorkville_oct_22_nov_26",
+    "title": "SUBLET 1br 3100 UES Yorkville Oct 22- Nov 26, flexible til end of Nov",
+    "description": "Sublet available starting October 22 - Nov 22 + flexible start, prorated last week of November Border of Lenox Hill and Yorkville -$3100 for the month -flexibility prorated end of Nov possible -1 month security -Same block as drop-off laundry -5th floor walk-up (quiet and safe)...",
+    "price": 3100,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-10",
+    "imageUrl": "https://preview.redd.it/cketfxhr6juh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d97b433576cbd3ae0c49081cb3590d0c71f71f24",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x20zcm/sublet_1br_3100_ues_yorkville_oct_22_nov_26/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/screenshawti",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/cketfxhr6juh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d97b433576cbd3ae0c49081cb3590d0c71f71f24"
+    ],
+    "availabilityLabel": "Oct 22- Nov 26",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [
+      "Fall"
+    ],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-1_bed_plg_2700_rent_stabilized_lease_takeover",
+    "title": "1 bed plg 2700 rent stabilized lease takeover",
+    "description": "Have to unexpectedly relocate after signed a 10/1 lease. Looking for a takeover between Nov 1 and Jan 1 (. It\u2019s a 2 year lease in a rent stabilized building. 2700 per month. in PLG right off the prospect B/Q/S trains and ~10 min from sterling 4/5. True 1 bedroom with 3 closets (...",
+    "price": 2700,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-10",
+    "imageUrl": "https://preview.redd.it/5ycgvyy4cjuh1.jpeg?width=640&crop=smart&auto=webp&s=ab5cdc608b6cce3f9f69aab3f9e8821a4d5d5d6f",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x21lqv/1_bed_plg_2700_rent_stabilized_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Few_Library7396",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/5ycgvyy4cjuh1.jpeg?width=640&crop=smart&auto=webp&s=ab5cdc608b6cce3f9f69aab3f9e8821a4d5d5d6f",
+      "https://i.redd.it/5ycgvyy4cjuh1.jpeg"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-2d9afb485c86",
     "title": "LES/ China town room for sublet",
     "description": "Heart of everything happening downtown! This bedroom is available starting October 1st. Long term preferred but possibly do short term. Right above the F train East Broadway station. And across the street from steward park. You\u2019d be living with a woman who works in...",
@@ -230,6 +363,78 @@
     "extraCosts": [
       "Fees mentioned"
     ]
+  },
+  {
+    "id": "reddit-lease_takeover_2br1ba_in_bushwick_3700mo_no_fee",
+    "title": "2BR/1BA in Bushwick, $3,700/mo, no fee, Nov 1 move-in",
+    "description": "My 2 bed is available for a lease takeover starting Nov 1 which runs through Aug 31. You would sign directly with management. Details 1141 Willoughby Ave (Willoughby & Knickerbocker), right across from Maria Hernandez Park 2 bed / 1 bath, 7th floor $3,700/mo, no broker fee Move-...",
+    "price": 3700,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-09",
+    "imageUrl": "https://preview.redd.it/ugshg8a5jhuh1.png?width=140&height=78&auto=webp&s=9112a4ad99a25eefadb06fc672831ece482b42f7",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x1tcs4/lease_takeover_2br1ba_in_bushwick_3700mo_no_fee/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/lsacoto",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ugshg8a5jhuh1.png?width=140&height=78&auto=webp&s=9112a4ad99a25eefadb06fc672831ece482b42f7"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Parking",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ],
+    "parking": "Parking mentioned"
+  },
+  {
+    "id": "reddit-lease_takeover_quiet_bright_renovated_studio_with",
+    "title": "LEASE TAKEOVER: Quiet, bright renovated studio with in-unit washer/dryer near C...",
+    "description": "Hi! I'm relocating and looking for someone to take over my studio lease. You'd sign a new lease with building management. Lease $3,600/mo Lease ends June 2027, with the option to extend to August or sign a longer term with management Move-in flexible: November, December, or earl...",
+    "price": 3600,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-09",
+    "imageUrl": "https://preview.redd.it/781ivqxogguh1.jpg?width=140&height=105&auto=webp&s=36715c3b6139f96e1551e18c6eac77154a3b1c09",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x1nm2d/lease_takeover_quiet_bright_renovated_studio_with/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/pineapple_pizza17",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/781ivqxogguh1.jpg?width=140&height=105&auto=webp&s=36715c3b6139f96e1551e18c6eac77154a3b1c09"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": []
   },
   {
     "id": "listingsproject-amenities",
@@ -560,7 +765,7 @@
   {
     "id": "reddit-lease_takeover_entire_2br1ba_apt_dec_1",
     "title": "LEASE TAKEOVER - ENTIRE 2BR/1BA APT - DEC 1 - MANHATTAN/UPTOWN/WEST HARLEM/HAMI...",
-    "description": "Moving out of state and looking for someone to take over my 2BR/1BA apartment starting Dec 1! You will be signing a new 1 year lease - Dec 1, 2026-Nov 30, 2027 @ $3150/mo. MUST make 40x rent ($126,000/yr individual or combined) Will accept personal guarantors that make 80x rent...",
+    "description": "\\ Application pending - will update if it falls through! \\ Moving out of state and looking for someone to take over my 2BR/1BA apartment starting Dec 1! You will be signing a new 1 year lease - Dec 1, 2026-Nov 30, 2027 @ $3150/mo. MUST make 40x rent ($126,000/yr individual or co...",
     "price": 3150,
     "location": "Harlem, New York, NY",
     "bedrooms": 2,
@@ -578,10 +783,12 @@
     "imageUrls": [
       "https://preview.redd.it/2r4yzluzp9uh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=77ddab2ca27852712d783e0792b425aa9a1342de"
     ],
-    "availabilityLabel": null,
+    "availabilityLabel": "Fall",
     "availableFrom": null,
     "availableTo": null,
-    "termTags": [],
+    "termTags": [
+      "Fall"
+    ],
     "amenities": [
       "Reddit",
       "r/NYCapartments",
