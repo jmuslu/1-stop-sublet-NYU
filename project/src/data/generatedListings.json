@@ -155,6 +155,44 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-sublet_sunny_furnished_room_w_2_windows_in",
+    "title": "Sublet] Sunny furnished room w/ 2 windows in Bed-Stuy, Nov\u2013Dec, $1,900/mo, in-u...",
+    "description": "Subletting my fully furnished, super sunny room in a shared Bed-Stuy apartment for November and/or December . One month or both, flexible dates. Details $1,900/mo + utilities (~$100/mo) $1,800/mo if you book both months $500 deposit Flexible dates within Nov\u2013Dec Sunny room with...",
+    "price": 1900,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-11",
+    "imageUrl": "https://preview.redd.it/g3yi93pziwuh1.jpg?width=140&height=105&auto=webp&s=3f3cd7b4167426f166ed0dca65eb432645133130",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x3jawb/sublet_sunny_furnished_room_w_2_windows_in/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/FixComprehensive3087",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/g3yi93pziwuh1.jpg?width=140&height=105&auto=webp&s=3f3cd7b4167426f166ed0dca65eb432645133130"
+    ],
+    "availabilityLabel": "Nov\u2013Dec",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Details $1,900/mo + utilities (~$100/mo) $1,800/mo if you book both months $500 deposit Flexible dates within Nov\u2013Dec Sunny room with 2 big..."
+  },
+  {
     "id": "listingsproject-5fe5d17fa8b4",
     "title": "2-Bedroom sublet in Fort Greene",
     "description": "Hello hello hello. I'm looking to sublet my furnished 2-bedroom between October 12th - October 23rd. The apartment is located on Adelphi St between Dekalb and Lafayette \u2014 if you don't know, truly the most magical location in Brooklyn. The apartment is on the 5th...",
