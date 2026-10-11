@@ -26,6 +26,44 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-subleaseee",
+    "title": "SUBLEASEEE",
+    "description": "Hi! Subletting my studio at 1 River Place from October end 2026 to July 20, 2027. It's on the 30th floor with great afternoon light and views of the river and city. Fully furnished, so you can show up with suitcases. $3,650/mo plus a $1,500 deposit. Utilities and wifi are not in...",
+    "price": 3650,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-11",
+    "imageUrl": "https://preview.redd.it/c2vc1sdutsuh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f3d68ff73c5db991e106159ad686566f66095f2b",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x32vm1/subleaseee/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Limp_Cash_7851",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/c2vc1sdutsuh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f3d68ff73c5db991e106159ad686566f66095f2b"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Gym",
+      "Sublet"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Utilities and wifi are not included."
+  },
+  {
     "id": "listingsproject-5fe5d17fa8b4",
     "title": "2-Bedroom sublet in Fort Greene",
     "description": "Hello hello hello. I'm looking to sublet my furnished 2-bedroom between October 12th - October 23rd. The apartment is located on Adelphi St between Dekalb and Lafayette \u2014 if you don't know, truly the most magical location in Brooklyn. The apartment is on the 5th...",
@@ -271,6 +309,41 @@
     "termTags": [],
     "amenities": [],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_sunny_1br_office_w_large_private",
+    "title": "Lease Takeover: Sunny 1BR + Office w/ Large Private Patio, Greenpoint, $4,700,...",
+    "description": "Rent: $4,700/mo. No broker fee Available: Nov 1 \u00b7 lease runs through May 2027, with the option to renew Layout: 1BR + office/nook Location: Clay Street 2nd floor of a 2-unit building, so it's quiet with only one neighbor Large private patio Huge, bright bedroom and a very large...",
+    "price": 4700,
+    "location": "Greenpoint, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-10",
+    "imageUrl": "https://preview.redd.it/71zd0avpcpuh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bcd7c2321a0c3278b6642e393672a02caf5900e6",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x2po1m/lease_takeover_sunny_1br_office_w_large_private/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/sssjjjmmm",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/71zd0avpcpuh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bcd7c2321a0c3278b6642e393672a02caf5900e6"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
   },
   {
     "id": "listingsproject-2d9afb485c86",
