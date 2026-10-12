@@ -52,6 +52,116 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-bushwick_1br_sublet_2500mo_nov_2026may_2027",
+    "title": "Bushwick 1BR Sublet -$2500/mo - Nov 2026-May 2027",
+    "description": "We\u2019re subletting our one bedroom at 336 Himrod St in Bushwick and looking for someone to move in this November. We\u2019ve loved living here and would love to hand it off to someone who will too. Please have 40x income and 700+ credit score when applying. The apartment 1 bed, 1 bath...",
+    "price": 2500,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-12",
+    "imageUrl": "https://preview.redd.it/9ra3nrwdi3vh1.jpg?width=140&height=97&auto=webp&s=fc8e89ff6fd75ed2c52b81a4f123e20b4d02e391",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x4cxpp/bushwick_1br_sublet_2500mo_nov_2026may_2027/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/dortenzio1991",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/9ra3nrwdi3vh1.jpg?width=140&height=97&auto=webp&s=fc8e89ff6fd75ed2c52b81a4f123e20b4d02e391"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Gym",
+      "Sublet"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "The apartment 1 bed, 1 bath Living room: 12 x 20 ft Bedroom: 12 x 10 ft, with 2 closets Bathroom: 5 x 6 ft Juliette balcony Wall AC units i..."
+  },
+  {
+    "id": "reddit-lease_takeover_2295_1br_in_wash_heights_new",
+    "title": "$2,295 1BR in Wash Heights, new 12-month lease 11/1/26 to 10/31/27, pets OK, no...",
+    "description": "Moving out and looking for the next tenant. You sign your own new 12-month lease directly with the landlord, 11/1/26 to 10/31/27, renewable. No fee, and you never pay me anything. - 1BR/1BA, separate living room, bedroom fits a queen - Big eat-in kitchen, gas stove, full-size fr...",
+    "price": 2295,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-12",
+    "imageUrl": "https://preview.redd.it/y97ojmfxa4vh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4f74223eb1c272dab6d8ec1957eb73df962ff6ad",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x4gqf4/lease_takeover_2295_1br_in_wash_heights_new/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/PublicCell3985",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/y97ojmfxa4vh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4f74223eb1c272dab6d8ec1957eb73df962ff6ad"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_nov_1_1bed_in_2bed1bath_harlem",
+    "title": "LEASE TAKEOVER NOV 1: 1bed in 2bed/1bath HARLEM",
+    "description": "Looking for someone to do a lease takeover Nov 1! You get a 1 bed in a 2 bedroom/1 bath apartment Harlem 125. 5min walk to the 4,5,6. 10min walk to the 2,3. In unit washer/dryer, central air, furnished, updated appliances, gym, mail, package lockers, conference room, golf simula...",
+    "price": 2520,
+    "location": "Harlem, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-12",
+    "imageUrl": "https://preview.redd.it/w1artkj8r1vh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=cb0dc562f80360f5afd728fde63d7f179b716ab7",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x43ews/lease_takeover_nov_1_1bed_in_2bed1bath_harlem/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/PineapplePositive422",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/w1artkj8r1vh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=cb0dc562f80360f5afd728fde63d7f179b716ab7"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Two takeover price options: *Option 1 current lease takeover ends March 6th, $2520/month+utilities."
+  },
+  {
     "id": "listingsproject-24677dcc7609",
     "title": "Fully Furnished Sunny 1BR in Windsor Terrace \u2013 All Utilities Included \u2013 6-Month ",
     "description": "$3,500/month | Fully Furnished | All Utilities & Wi-Fi Included | No Broker Fee Bright, sunny and fully furnished one-bedroom apartment in Windsor Terrace, available for a six-month rental. The apartment has high ceilings, beautiful hardwood/parquet floors and lots...",
