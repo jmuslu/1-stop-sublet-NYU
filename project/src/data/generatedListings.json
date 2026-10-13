@@ -105,6 +105,112 @@
     ]
   },
   {
+    "id": "reddit-east_village_1_bed_private_bath",
+    "title": "East Village 1 Bed + Private Bath",
+    "description": "Subletting my room with private bath for the month of November. 2 other roommates who are chill. Location is 7th street in East Village close to bars, park, and about 8 min walk to Trader Joes. submitted by /u/aadi2244 [link] [comments]",
+    "price": null,
+    "location": "East Village, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-13",
+    "imageUrl": "https://preview.redd.it/w0k3f8jri9vh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7271eefcc623c648fb83d7084f8b1f2f745536f5",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x51k80/east_village_1_bed_private_bath/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/aadi2244",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/w0k3f8jri9vh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7271eefcc623c648fb83d7084f8b1f2f745536f5"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_8mos_offer_in_large_1bd1br_in",
+    "title": "Lease Takeover (8mos) Offer in Large 1BD-1BR in Denizen Bushwick",
+    "description": "Spacious and sunlit 1BD and 1BR in the heart of Bushwick. Welcome to your new urban oasis! Located in the Denizen building, Noll street side. This 1-bedroom, 1-bathroom apartment is flooded with natural light, featuring oversized, floor-to-ceiling windows (in both rooms) that co...",
+    "price": null,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-13",
+    "imageUrl": "https://preview.redd.it/w6o59qb5lavh1.png?width=140&height=115&auto=webp&s=4044d067b0680bdbade6389cf5186a8955544c21",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x57f1y/lease_takeover_8mos_offer_in_large_1bd1br_in/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Odd_Let_3857",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/w6o59qb5lavh1.png?width=140&height=115&auto=webp&s=4044d067b0680bdbade6389cf5186a8955544c21"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Parking",
+      "Gym"
+    ],
+    "extraCosts": [],
+    "parking": "Parking mentioned"
+  },
+  {
+    "id": "reddit-spacious_1br_in_the_east_village_lease_takeover",
+    "title": "Spacious 1BR in the East Village | Lease Takeover Dec 1 | $3,050/mo",
+    "description": "Looking for someone to take over my spacious one-bedroom apartment on E 3rd Street, just off 2nd Avenue in the East Village! Lease details Start date: December 1, 2026 Lease through: April 30, 2027 (5 months, with the option to renew) Rent: $3,050/month + utilities Security depo...",
+    "price": 3050,
+    "location": "East Village, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-13",
+    "imageUrl": "https://preview.redd.it/ya4ygmaz5avh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=01bf9f6a6d901adf4b9832c7d6ddaa50182be83b",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x554z6/spacious_1br_in_the_east_village_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Ecstatic_Ad4279",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ya4ygmaz5avh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=01bf9f6a6d901adf4b9832c7d6ddaa50182be83b"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Lease details Start date: December 1, 2026 Lease through: April 30, 2027 (5 months, with the option to renew) Rent: $3,050/month + utilitie..."
+  },
+  {
     "id": "listingsproject-sublet",
     "title": "North Park Slope Light Filled and Spacious 3 Bed Sublet",
     "description": "Gut-renovated three-bedroom, two-bath sublet with a spacious full-floor layout, abundant natural light, and contemporary finishes throughout. Lots of storage with four large closets. Pre war brownstone building with 4 units total (one per floor). Unit is on third floor...",
