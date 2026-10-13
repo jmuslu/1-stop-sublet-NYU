@@ -71,6 +71,40 @@
     ]
   },
   {
+    "id": "reddit-west_village_studio_lease_takeover",
+    "title": "West Village Studio | Lease takeover",
+    "description": "Hey everyone! I'm looking for someone to take over my lease for a rent-stabilized studio apartment in the heart of the West Village! \ud83d\udccd Location: West Village, NYC \u2014 steps away from the West 4th St (A/C/E, B/D/F/M) and Christopher St\u2013Sheridan Sq (1) subway stations \ud83d\udcb0 Rent: $3,100...",
+    "price": 3100,
+    "location": "West Village, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-13",
+    "imageUrl": "https://external-preview.redd.it/YWxueW9qdGJ6N3ZoMcFMLWBZl2nDZYTCr0DRWAYaY3wkR1RRn1o9ewSWR4Nn.png?width=640&crop=smart&auto=webp&s=2df89756ada469eddcd17d2cb53646cd4421de5e",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x4u37b/west_village_studio_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Available-Phrase-856",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/YWxueW9qdGJ6N3ZoMcFMLWBZl2nDZYTCr0DRWAYaY3wkR1RRn1o9ewSWR4Nn.png?width=640&crop=smart&auto=webp&s=2df89756ada469eddcd17d2cb53646cd4421de5e"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-sublet",
     "title": "North Park Slope Light Filled and Spacious 3 Bed Sublet",
     "description": "Gut-renovated three-bedroom, two-bath sublet with a spacious full-floor layout, abundant natural light, and contemporary finishes throughout. Lots of storage with four large closets. Pre war brownstone building with 4 units total (one per floor). Unit is on third floor...",
