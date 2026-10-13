@@ -1,5 +1,76 @@
 [
   {
+    "id": "reddit-650_woodside_november_20_december_8th",
+    "title": "$650, Woodside, November 20 - December 8th",
+    "description": "Stay in NYC for thanksgiving! 18 day sublet available in Woodside, Queens. 1 bedroom in 5b/2b ALL GIRLS apartment! 6 minutes to 7 Train, 8 minutes to LIRR, 20 minutes to Time Square and Penn station! 1 block to laundry-mat and grocery store! Tons of restaurants, bars and cafes i...",
+    "price": 650,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-13",
+    "imageUrl": "https://preview.redd.it/3mu9aqlvj5vh1.jpeg?width=640&crop=smart&auto=webp&s=6eb51dc9f82db5e40d6643b834d5664e50bdd051",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x4lxr2/650_woodside_november_20_december_8th/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/SelectionRoyal3260",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/3mu9aqlvj5vh1.jpeg?width=640&crop=smart&auto=webp&s=6eb51dc9f82db5e40d6643b834d5664e50bdd051",
+      "https://i.redd.it/3mu9aqlvj5vh1.jpeg"
+    ],
+    "availabilityLabel": "November 20 - December 8th",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_luxury_new_building_1b1b_in_forest",
+    "title": "Luxury new building 1B1B in Forest Hills",
+    "description": "Hi! \ud83d\ude0a I\u2019m looking for someone to take over our lease starting November 15. The lease runs through July 31. \ud83c\udfe1 Beautiful 1 Bed / 1 Bath Apartment in Forest Hills \u2013 $3,350/month We live in a beautiful, modern luxury building that\u2019s just over 3 years old. The apartment is in excelle...",
+    "price": 3350,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-13",
+    "imageUrl": "https://preview.redd.it/r8v1w06bz4vh1.jpg?width=140&height=95&auto=webp&s=2122a2d1ac9ea18baf561a82110fe9485575fb86",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x4jm04/lease_takeover_luxury_new_building_1b1b_in_forest/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/No_Attention_5799",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/r8v1w06bz4vh1.jpg?width=140&height=95&auto=webp&s=2122a2d1ac9ea18baf561a82110fe9485575fb86"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-sublet",
     "title": "North Park Slope Light Filled and Spacious 3 Bed Sublet",
     "description": "Gut-renovated three-bedroom, two-bath sublet with a spacious full-floor layout, abundant natural light, and contemporary finishes throughout. Lots of storage with four large closets. Pre war brownstone building with 4 units total (one per floor). Unit is on third floor...",
@@ -160,6 +231,38 @@
       "Fees mentioned"
     ],
     "utilitiesNotes": "Two takeover price options: *Option 1 current lease takeover ends March 6th, $2520/month+utilities."
+  },
+  {
+    "id": "reddit-bushwick_warehouse_loft_studio",
+    "title": "Bushwick warehouse loft studio",
+    "description": "Looking for a lease takeover, November 15th ideally! I'm moving in with my friend to be more social, but this place has been so good to me. 650 sq ft Right by the Dekalb L, across from a grocery store and laundromat 1 bath, large tons of natural light $3,250 per month submitted...",
+    "price": 3250,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-12",
+    "imageUrl": "https://preview.redd.it/dyxkj7ujk4vh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d4948294bf2dad0afbe3392623106a200228e782",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x4hw9t/bushwick_warehouse_loft_studio/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Dry-Banana1178",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/dyxkj7ujk4vh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d4948294bf2dad0afbe3392623106a200228e782"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
   },
   {
     "id": "listingsproject-24677dcc7609",
