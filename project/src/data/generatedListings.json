@@ -1,5 +1,41 @@
 [
   {
+    "id": "reddit-lease_takeover_8mos_offer_in_large_1bd1br_in",
+    "title": "Lease Takeover (8mos) Offer in Large 1BD-1BR in Denizen Bushwick",
+    "description": "Spacious and sunlit 1BD and 1BR in the heart of Bushwick. Welcome to your new urban oasis! Located in the Denizen building, Noll street side. This 1-bedroom, 1-bathroom apartment is flooded with natural light, featuring oversized, floor-to-ceiling windows (in both rooms) that co...",
+    "price": 3885,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-14",
+    "imageUrl": "https://preview.redd.it/k0ddlvntdcvh1.png?width=140&height=115&auto=webp&s=028d2ca7ade52922b5f1b0f2f8cb9f568d38321a",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x5fi8l/lease_takeover_8mos_offer_in_large_1bd1br_in/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Odd_Let_3857",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/k0ddlvntdcvh1.png?width=140&height=115&auto=webp&s=028d2ca7ade52922b5f1b0f2f8cb9f568d38321a"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Parking",
+      "Gym"
+    ],
+    "extraCosts": [],
+    "parking": "Parking mentioned"
+  },
+  {
     "id": "reddit-650_woodside_november_20_december_8th",
     "title": "$650, Woodside, November 20 - December 8th",
     "description": "Stay in NYC for thanksgiving! 18 day sublet available in Woodside, Queens. 1 bedroom in 5b/2b ALL GIRLS apartment! 6 minutes to 7 Train, 8 minutes to LIRR, 20 minutes to Time Square and Penn station! 1 block to laundry-mat and grocery store! Tons of restaurants, bars and cafes i...",
@@ -209,6 +245,38 @@
       "Utilities mentioned"
     ],
     "utilitiesNotes": "Lease details Start date: December 1, 2026 Lease through: April 30, 2027 (5 months, with the option to renew) Rent: $3,050/month + utilitie..."
+  },
+  {
+    "id": "reddit-looking_for_a_lease_takeover_under_2550",
+    "title": "Looking for a lease takeover under 2550",
+    "description": "Hi there my name is Sam I'm 31 years old I've been living in a homeless shelter since February I'm a substitute teacher working in all five boroughs helping at risk children and I'm trying to go back and get my masters and eventually PhD in psychology and become a psychologist....",
+    "price": 2750,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-13",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x5b4u8/looking_for_a_lease_takeover_under_2550/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Dazzling_Evening_298",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
   },
   {
     "id": "listingsproject-sublet",
@@ -14199,32 +14267,6 @@
     "availabilityLabel": "2026-10-15 to 2027-01-15",
     "availableFrom": "2026-10-15",
     "availableTo": "2027-01-15",
-    "termTags": [],
-    "amenities": [],
-    "extraCosts": []
-  },
-  {
-    "id": "listingsproject-22703a9adcf2",
-    "title": "Sunny Brooklyn Nest with Hygge Vibes",
-    "description": "Subletting my spacious, sun-lit 1-bedroom apartment in the heart of Bed-Stuy while I\u2019m traveling \u2728 Creating spaces that feel calm, warm, and grounding matters deeply to me \u2014 and that spirit is reflected throughout the apartment. The space is bright, peaceful, and...",
-    "price": null,
-    "location": "Bedford-Stuyvesant, New York, NY",
-    "bedrooms": 1,
-    "bathrooms": 1.0,
-    "platform": "Listings Project",
-    "dateListed": "2026-08-26",
-    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/ojzqQhqaBadtZBdHIoHiQQ/fwAYgs-IMG_2118.png?aspect_ratio=3:2&width=330",
-    "sourceUrl": "https://www.listingsproject.com/listings/sunny-brooklyn-nest-with-hygge-vibes-41226db4-5683-4e48-84dc-22703a9adcf2",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": null,
-    "sourceThreadTitle": null,
-    "sourceAuthor": null,
-    "sourceIntent": null,
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": "2026-10-02 to 2026-10-13",
-    "availableFrom": "2026-10-02",
-    "availableTo": "2026-10-13",
     "termTags": [],
     "amenities": [],
     "extraCosts": []
