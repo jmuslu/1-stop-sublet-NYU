@@ -1,5 +1,98 @@
 [
   {
+    "id": "listingsproject-subway",
+    "title": "Micro Studio Apartment on Quiet UWS block, steps from the 1/2/3 Subway",
+    "description": "Available for rent from November 1 until Jan 1 Newly renovated tiny studio apartment on the 3rd floor of an elevator building on a quiet Upper West Side block, steps from Riverside Park and 2 blocks from the 1/2/3 Subway at 96th St. This apartment comes fully...",
+    "price": 2000,
+    "location": "Upper West Side, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-10-15",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/EjtdRRZ4PFjdeucB1EhcNA/YVdHrP-2026-06-12%2015%253A54%253A11%20%2B0000-WhatsApp%20Image%202026-06-12%20at%2011.52.10%20AM%20%282%29.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/micro-studio-apartment-on-quiet-uws-block-steps-from-the-1-2-3-subway",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-11-01 to 2027-01-01",
+    "availableFrom": "2026-11-01",
+    "availableTo": "2027-01-01",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-chauncey_street_studio_1875",
+    "title": "Chauncey street studio - $1875",
+    "description": "Hi, Sublet available for a studio on Chauncey and Saratoga Heat and hot water included Rent stabilized Asap move in Pls dm me submitted by /u/TargetNo7326 [link] [comments]",
+    "price": 1875,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-15",
+    "imageUrl": "https://preview.redd.it/pvlcitx98jvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b715696b6c1bad1346bc6a51f80c94d16d258955",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x68mon/chauncey_street_studio_1875/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/TargetNo7326",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/pvlcitx98jvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b715696b6c1bad1346bc6a51f80c94d16d258955"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-hunters_point_lease_takeover",
+    "title": "Hunter\u2019s point - lease takeover",
+    "description": "Hi! My husband and I are leaving our apartment in November and are looking for someone to take over the lease until March 1, 2027. It's also possible to extend the lease for longer if needed. We're in Hunter's Point, at 4545 Center Boulevard, one subway stop from Grand Central a...",
+    "price": null,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-15",
+    "imageUrl": "https://preview.redd.it/ihg2lhuzejvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5f120be167d3adda611bbd9b034b0633e69ea5a9",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x69dgk/hunters_point_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/VegetableWave3577",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ihg2lhuzejvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5f120be167d3adda611bbd9b034b0633e69ea5a9"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-lease_takeover_8mos_offer_in_large_1bd1br_in",
     "title": "Lease Takeover (8mos) Offer in Large 1BD-1BR in Denizen Bushwick",
     "description": "Spacious and sunlit 1BD and 1BR in the heart of Bushwick. Welcome to your new urban oasis! Located in the Denizen building, Noll street side. This 1-bedroom, 1-bathroom apartment is flooded with natural light, featuring oversized, floor-to-ceiling windows (in both rooms) that co...",
@@ -736,6 +829,114 @@
       "Housing megathread"
     ],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-newly_renovated_apartment_in_the_bronx_super",
+    "title": "Newly Renovated Apartment in the Bronx! Super close to Manhattan!",
+    "description": "Hi everyone! Looking for an immediate sublet for an apartment in the Bronx super close to the 2 and 5 train! It's is newly renovated and you'd be living with a couple! Our names are Mabel and Jon. We have 3 lovely cats! They are awesome and friendly. We are open to more pets if...",
+    "price": 1400,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-14",
+    "imageUrl": "https://preview.redd.it/ddchhil3eivh1.jpg?width=140&height=99&auto=webp&s=6030c163ad890c4d9e5f72a6e90c3fa7b78fd455",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x651kl/newly_renovated_apartment_in_the_bronx_super/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/FirefighterFit1318",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ddchhil3eivh1.jpg?width=140&height=99&auto=webp&s=6030c163ad890c4d9e5f72a6e90c3fa7b78fd455"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Rent would be 1400 and utilities are separate."
+  },
+  {
+    "id": "reddit-lease_takeover_sublet_room_available_in_rent",
+    "title": "Room available in rent stabilized Bed Stuy 3BR/2BA - $1181/month - available 11...",
+    "description": "Hi everyone, I'm looking for someone to fill my room in a rent stabilized 3BR/2BA in Bed Stuy. Rent for the room would be $1181/mo. The lease term would be from 11/15/26 - 7/31/27, with the option to renew. The room has a pretty spacious closet and can comfortably fit a queen be...",
+    "price": 1181,
+    "location": "New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-14",
+    "imageUrl": "https://preview.redd.it/6406dpky9ivh1.jpg?width=140&height=105&auto=webp&s=2cf323e2e92200c3c936b1996953ecfd2380678d",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x64joh/lease_takeover_sublet_room_available_in_rent/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/warehaej",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/6406dpky9ivh1.jpg?width=140&height=105&auto=webp&s=2cf323e2e92200c3c936b1996953ecfd2380678d"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Near campus",
+      "Sublet"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-1b1b_hells_kitchen_lease_takeover_2995mo",
+    "title": "1B/1B Hell\u2019s Kitchen Lease Takeover ($2995/mo)",
+    "description": "Details: - Move in date is flexible - Lease ends August 31st, 2027 - 48th St, between 10th and 11th - 1B/1B (3/4 wall with accordion doors) - Pet friendly - $2995/mo - In-building laundry (in basement) - Newly renovated marble bathroom - 4th floor of a walk-up - Available to tou...",
+    "price": 2995,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-14",
+    "imageUrl": "https://preview.redd.it/963ybqkf7ivh1.jpg?width=140&height=120&auto=webp&s=9865ea4b12ba6a83c55c431d57be7156e9191728",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x645v0/1b1b_hells_kitchen_lease_takeover_2995mo/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/-Miyako",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/963ybqkf7ivh1.jpg?width=140&height=120&auto=webp&s=9865ea4b12ba6a83c55c431d57be7156e9191728"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
   },
   {
     "id": "reddit-650_woodside_november_20_december_8th",
@@ -8621,32 +8822,6 @@
       "Sublet",
       "Roommate"
     ],
-    "extraCosts": []
-  },
-  {
-    "id": "listingsproject-92547ca6a8da",
-    "title": "Central Harlem Studio Rental",
-    "description": "Subletting my studio throughout the summer! Short to medium term stays so I can fit in some summer travel. Specifically looking for Sept 29-Oct 14th but also looking for a subletter for Jan-Mar of 2027. Internet and electricity included. Gym and co-working space in the...",
-    "price": null,
-    "location": "Harlem, New York, NY",
-    "bedrooms": 0,
-    "bathrooms": 1.0,
-    "platform": "Listings Project",
-    "dateListed": "2026-09-17",
-    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/PoIKzkx4LuqVdTwj70eDBQ/M6_j1W-IMG_6124.jpeg?aspect_ratio=3:2&width=330",
-    "sourceUrl": "https://www.listingsproject.com/listings/central-harlem-studio-rental-d0398ade-4060-4f32-9410-92547ca6a8da",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": null,
-    "sourceThreadTitle": null,
-    "sourceAuthor": null,
-    "sourceIntent": null,
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": "2026-09-29 to 2026-10-14",
-    "availableFrom": "2026-09-29",
-    "availableTo": "2026-10-14",
-    "termTags": [],
-    "amenities": [],
     "extraCosts": []
   },
   {
