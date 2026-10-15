@@ -183,6 +183,68 @@
     "parking": "Parking mentioned"
   },
   {
+    "id": "listingsproject-8490d34211e2",
+    "title": "Cute Chelsea Hudson Yards 1 Bedroom fully furnished",
+    "description": "This Chelsea 1 Bedroom apartment is available on Oct 3 for any duration of time between 30 days and 1 year. Located on the 3rd floor of a walkup building on West 30th st between 8th and 9th, it's rumored that Madonna lived here when she first arrived to New York City....",
+    "price": 4750,
+    "location": "Chelsea, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-10-15",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/-brI8FIvQSez-AY0HtFhYQ/sjUhzm-2026-07-26 17_33_22 +0000-IMG_1708.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/cute-chelsea-hudson-yards-1-bedroom-fully-furnished-a900e59f-90b7-4c97-8910-8490d34211e2",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-11-04 to 2027-01-04",
+    "availableFrom": "2026-11-04",
+    "availableTo": "2027-01-04",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-1725_private_room_available_in_clinton_hill_4bd",
+    "title": "$1725 Private Room Available in Clinton Hill 4bd",
+    "description": "Private room available November 1st Largest (112sq ft) room on top floor of 4 bed 1.5 bath in Clinton Hill. Ideally looking for mid-20s to mid-30s to join our home in Clinton Hill in August! Lease or sublet until Apr 2027. If you are interested, message me to set up some time to...",
+    "price": 1725,
+    "location": "New York, NY",
+    "bedrooms": 4,
+    "bathrooms": 1.5,
+    "platform": "Reddit",
+    "dateListed": "2026-10-15",
+    "imageUrl": "https://preview.redd.it/8x6wmbyrgnvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c03828cf4e630f4e6ae5cadd7b8e4cf26dc4d821",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x6oubv/1725_private_room_available_in_clinton_hill_4bd/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/ruddyscrud",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/8x6wmbyrgnvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c03828cf4e630f4e6ae5cadd7b8e4cf26dc4d821"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-lease_takeover_8mos_offer_in_large_1bd1br_in",
     "title": "Lease Takeover (8mos) Offer in Large 1BD-1BR in Denizen Bushwick",
     "description": "Spacious and sunlit 1BD and 1BR in the heart of Bushwick. Welcome to your new urban oasis! Located in the Denizen building, Noll street side. This 1-bedroom, 1-bathroom apartment is flooded with natural light, featuring oversized, floor-to-ceiling windows (in both rooms) that co...",
