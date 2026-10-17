@@ -36,6 +36,32 @@
     "utilitiesNotes": "Rent: $2,850 per month, plus utilities Available: November 1st, 2026 Lease term: Flexible, but not less than 2 months."
   },
   {
+    "id": "listingsproject-jan",
+    "title": "Furnished 1BR / 1BA with Rooftop + Gym | $4,300/month | Nov\u2013Jan",
+    "description": "Looking for a comfortable, fully furnished NYC home for a few months? I\u2019m renting out my beautiful one-bedroom, one-bathroom apartment in a full-service building for $4,300/month. \u2728 The apartment * Fully furnished and move-in ready * Beautiful views + tons of natural...",
+    "price": 4300,
+    "location": "Boerum Hill, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-10-17",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/nK6tzCboxopia6LYleeOZg/Gp3q_G-IMG_7719.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/furnished-1br-1ba-with-rooftop-gym-4-300-month-nov-jan",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-11-01 to 2027-01-31",
+    "availableFrom": "2026-11-01",
+    "availableTo": "2027-01-31",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-nov",
     "title": "Large, airy 2-bedroom w/balcony in heart of Fort Greene for Nov./Dec.",
     "description": "Combining the convenience and cleanliness of a new building with the charm of a prewar living, this large, airy apartment has a location that can't be beat: it is Brownstone Brooklyn at its best, steps away from BAM and Fort Greene Park, with boutiques and restaurants...",
@@ -382,6 +408,38 @@
       "Utilities mentioned"
     ],
     "utilitiesNotes": "Location: 47th St & 9th Ave, Hell\u2019s Kitchen Dates: Nov 1-March 1 Rent: $2,175/month + utilities Subletting my fully furnished bedroom with..."
+  },
+  {
+    "id": "reddit-2_bedroom_lease_transfer_in_prospect_heights",
+    "title": "2 bedroom lease transfer in Prospect Heights",
+    "description": "2 bedroom / 2 bath apt in Prospect Heights luxury building Convenient to many trains including LIRR SW & NW facing In-unit Washer & Dryer 5 closets, including a walk-in Beautiful skyline and Brooklyn views This is a lease takeover as of 11/15/2026 (can be somewhat flexible) Rent...",
+    "price": null,
+    "location": "Prospect Heights, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-16",
+    "imageUrl": "https://preview.redd.it/d88y46bnxwvh1.jpg?width=140&height=105&auto=webp&s=63be4e6112cf1cab14967602d9cd39ac2639c157",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x7v5sn/2_bedroom_lease_transfer_in_prospect_heights/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/NewSeaworthiness7028",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/d88y46bnxwvh1.jpg?width=140&height=105&auto=webp&s=63be4e6112cf1cab14967602d9cd39ac2639c157"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
   },
   {
     "id": "listingsproject-subway",
