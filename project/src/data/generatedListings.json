@@ -1,5 +1,41 @@
 [
   {
+    "id": "reddit-studio_sublet_on_the_upper_east_side",
+    "title": "Studio sublet on the Upper East Side",
+    "description": "Hi all, I\u2019m subletting my cozy studio in the Upper East Side, NYC. Rent: $2,850 per month, plus utilities Available: November 1st, 2026 Lease term: Flexible, but not less than 2 months. Location: 70s and Second Avenue - close to the Q and 6 trains Pets: No pets Apartment feature...",
+    "price": 2850,
+    "location": "Upper East Side, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-17",
+    "imageUrl": "https://preview.redd.it/oeto9woodxvh1.jpg?width=140&height=105&auto=webp&s=7f4da6be6a502adddd5cb168a39b2b2dcd8fd8a2",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x7xfh1/studio_sublet_on_the_upper_east_side/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Salty-Contribution57",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/oeto9woodxvh1.jpg?width=140&height=105&auto=webp&s=7f4da6be6a502adddd5cb168a39b2b2dcd8fd8a2"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Rent: $2,850 per month, plus utilities Available: November 1st, 2026 Lease term: Flexible, but not less than 2 months."
+  },
+  {
     "id": "listingsproject-nov",
     "title": "Large, airy 2-bedroom w/balcony in heart of Fort Greene for Nov./Dec.",
     "description": "Combining the convenience and cleanliness of a new building with the charm of a prewar living, this large, airy apartment has a location that can't be beat: it is Brownstone Brooklyn at its best, steps away from BAM and Fort Greene Park, with boutiques and restaurants...",
@@ -270,6 +306,82 @@
       "Housing megathread"
     ],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-sublet_lease_takeover_available",
+    "title": "Sublet / Lease Takeover Available",
+    "description": "\ud83c\udfd9\ufe0f LEASE TAKEOVER: 1-BEDROOM | HUDSON YARDS \ud83d\udcc5 Available: December 1 (or earlier) \u2013 May 31 \ud83d\udcb0 Rent: $6,080/month We\u2019re relocating and looking for someone to take over the lease on our beautiful 1-bedroom apartment in Hudson Yards! The Apartment \ud83d\udecf\ufe0f Spacious 1 bedroom, 1 bathroom \ud83e\uddfa...",
+    "price": null,
+    "location": "Chelsea, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-16",
+    "imageUrl": "https://preview.redd.it/4woaaqrhkwvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7aafdb30331694a32e567330ffe41ed95a07c4d1",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x7ti8a/sublet_lease_takeover_available/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/dizzleb1tches",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/4woaaqrhkwvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7aafdb30331694a32e567330ffe41ed95a07c4d1"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-furnished_bedroom_private_office_bathroom_in",
+    "title": "Furnished Bedroom, Private Office, Bathroom in Hells Kitchen | Nov-March | $2,1...",
+    "description": "Location: 47th St & 9th Ave, Hell\u2019s Kitchen Dates: Nov 1-March 1 Rent: $2,175/month + utilities Subletting my fully furnished bedroom with a private office and private full bathroom in an awesome Hell\u2019s Kitchen townhouse for the last 4 months of the lease. I\u2019m moving in with my...",
+    "price": 2175,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-16",
+    "imageUrl": "https://preview.redd.it/8ysb74kxdwvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=4eff3d19b2ee75b00bf339d32bd7b5adba30124a",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x7ssfl/furnished_bedroom_private_office_bathroom_in/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/OkGene6833",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/8ysb74kxdwvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=4eff3d19b2ee75b00bf339d32bd7b5adba30124a",
+      "https://preview.redd.it/8ysb74kxdwvh1.png?width=1086&format=png&auto=webp&s=33552f6185e3d38b5cb4a9e70dd272f715b693fc",
+      "https://preview.redd.it/myny6tn0ewvh1.png?width=1086&format=png&auto=webp&s=8560f705a1cbd4b20a1bf35064742937125259dc",
+      "https://preview.redd.it/j7mnn473ewvh1.png?width=1067&format=png&auto=webp&s=7adbaa2424b95a4fa6f4ec64699be487562e6c67",
+      "https://preview.redd.it/50tgtxf4ewvh1.png?width=1067&format=png&auto=webp&s=6031093ef7d7619142b5f1ba61a0779d18010eca",
+      "https://preview.redd.it/nyuup1n5ewvh1.png?width=1067&format=png&auto=webp&s=408b9c9b96f80a47feb018d2b6c19f202cac2299"
+    ],
+    "availabilityLabel": "Nov 1-March 1",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Location: 47th St & 9th Ave, Hell\u2019s Kitchen Dates: Nov 1-March 1 Rent: $2,175/month + utilities Subletting my fully furnished bedroom with..."
   },
   {
     "id": "listingsproject-subway",
