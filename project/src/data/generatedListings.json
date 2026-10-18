@@ -78,6 +78,116 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-furnished_upper_east_side_apartment_for_sublet",
+    "title": "Furnished Upper East Side Apartment for Sublet \u2013 November 3rd",
+    "description": "Hi everyone! I\u2019m looking for someone to sublet my furnished apartment on the Upper East Side of Manhattan for 6 months, starting November 3rd. A few details: Rent: $4,920/month Utilities: Included in the rent Available from: November 3, 2026 Sublet duration: 6 months Furnishing:...",
+    "price": 4920,
+    "location": "Upper East Side, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-18",
+    "imageUrl": "https://preview.redd.it/u9iy55m9x9wh1.jpg?width=140&height=78&auto=webp&s=69c785fa72bbe2ce47066dfda59fc2833c5d3508",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x9bd06/furnished_upper_east_side_apartment_for_sublet/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/loud_n_subtle",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/u9iy55m9x9wh1.jpg?width=140&height=78&auto=webp&s=69c785fa72bbe2ce47066dfda59fc2833c5d3508"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Near campus",
+      "Sublet"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "A few details: Rent: $4,920/month Utilities: Included in the rent Available from: November 3, 2026 Sublet duration: 6 months Furnishing: Fu..."
+  },
+  {
+    "id": "reddit-700_woodside_nov_18dec_9",
+    "title": "$700, Woodside, Nov 18-Dec 9",
+    "description": "Stay in NYC for thanksgiving! 18 day sublet available in Woodside, Queens. 1 bedroom in 5b/2b ALL GIRLS apartment! 6 minutes to 7 Train, 8 minutes to LIRR, 20 minutes to Time Square and Penn station! 1 block to laundry-mat and grocery store! Tons of restaurants, bars and cafes i...",
+    "price": 700,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-18",
+    "imageUrl": "https://preview.redd.it/w9rbdg13g9wh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=686c052512020dce875744892d7c4e4b49cdf818",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x98wwg/700_woodside_nov_18dec_9/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/SelectionRoyal3260",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/w9rbdg13g9wh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=686c052512020dce875744892d7c4e4b49cdf818"
+    ],
+    "availabilityLabel": "Nov 18-Dec 9",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_rent_stabilized_2br1ba_in_bushwick",
+    "title": "Rent stabilized 2BR/1BA in Bushwick, $3,700/mo, Nov 1 - Aug 31, 5 min from L/M,...",
+    "description": "Giving up my 2 bed due to a breakup, which is available for a lease takeover starting Nov 1 which runs through Aug 31. You would sign directly with management. 1141 Willoughby Ave (Willoughby & Knickerbocker), right across from Maria Hernandez Park 2 bed / 1 bath, 7th floor $3,7...",
+    "price": 3700,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-18",
+    "imageUrl": "https://preview.redd.it/d6j3ho9e49wh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2a8a5b5b274b1eaefc48bbb7ba628fdb5de8dd3c",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1x97cqu/lease_takeover_rent_stabilized_2br1ba_in_bushwick/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/lsacoto",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/d6j3ho9e49wh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2a8a5b5b274b1eaefc48bbb7ba628fdb5de8dd3c"
+    ],
+    "availabilityLabel": "Nov 1 - Aug 31",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Parking",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [],
+    "parking": "Parking mentioned"
+  },
+  {
     "id": "reddit-studio_sublet_on_the_upper_east_side",
     "title": "Studio sublet on the Upper East Side",
     "description": "Hi all, I\u2019m subletting my cozy studio in the Upper East Side, NYC. Rent: $2,850 per month, plus utilities Available: November 1st, 2026 Lease term: Flexible, but not less than 2 months. Location: 70s and Second Avenue - close to the Q and 6 trains Pets: No pets Apartment feature...",
