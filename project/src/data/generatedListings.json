@@ -307,6 +307,113 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-sublease_lease_takeover_in_lincoln_center",
+    "title": "Sublease / Lease Takeover in Lincoln Center",
+    "description": "Being relocated for my job and need to find a subleaser for my apartment. It\u2019s a 1BR 1 Bath at West End Towers. Lease would start 11/20, potential for earlier move-in. The lease amount would be 6+ months at $4850/month. Can share a video of the apartment to those who are interes...",
+    "price": 4850,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-19",
+    "imageUrl": "https://preview.redd.it/1c0jkb4dchwh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=75125a23ea2ca24009601c1be18ccb13959dbe84",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xa7bum/sublease_lease_takeover_in_lincoln_center/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Newhere1027",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/1c0jkb4dchwh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=75125a23ea2ca24009601c1be18ccb13959dbe84"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Parking",
+      "Housing megathread"
+    ],
+    "extraCosts": [],
+    "parking": "Parking mentioned"
+  },
+  {
+    "id": "reddit-longterm_sublet_east_village_studio_3300_inunit",
+    "title": "Long-term sublet | East Village studio | $3300 | In-unit laundry",
+    "description": "Looking to sublet my East Village studio from mid-November until the lease expires at the end of August 2027. You could sign a new lease at the end of the term. Unit is not rent stabilized but management raises rent < 5% historically. Preference for subletting it fully furnished...",
+    "price": 3300,
+    "location": "East Village, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-19",
+    "imageUrl": "https://preview.redd.it/yt5y1ff1vgwh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=fc01ffc8f71f68c02f8f748f2908a5d5697ac607",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xa4pxg/longterm_sublet_east_village_studio_3300_inunit/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Educational_Sir4372",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/yt5y1ff1vgwh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=fc01ffc8f71f68c02f8f748f2908a5d5697ac607",
+      "https://preview.redd.it/yt5y1ff1vgwh1.png?width=941&format=png&auto=webp&s=3f0b676963aa63dfe9a1bdce40cd3c8f6048b5a9"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_forest_hills_1b1b_3350_1_month_free",
+    "title": "Forest Hills 1B1B $3350 + 1 month free!",
+    "description": "Hi! I\u2019m looking for someone to take over our lease starting November 15. The lease runs through July 31. If the move-in date works out and you make a quick decision and complete the lease signing with management, we\u2019re willing to offer one month of free rent at our own expense,...",
+    "price": 3350,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-19",
+    "imageUrl": "https://preview.redd.it/omtv2vzgugwh1.jpg?width=140&height=102&auto=webp&s=47244f89b244080127ab6d1c80302a984b2b3c93",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xa4laf/lease_takeover_forest_hills_1b1b_3350_1_month_free/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/No_Attention_5799",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/omtv2vzgugwh1.jpg?width=140&height=102&auto=webp&s=47244f89b244080127ab6d1c80302a984b2b3c93"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-3dc13caddf56",
     "title": "Bright 1Bed + Office. 6 MONTH TO ONE YEAR SUBLET. Carroll Gardens BK $3900. NOV ",
     "description": "NOV 1st MOVE IN Brooklyn Waterfront. 1 Bedroom plus office. Spacious 975 sq ft Sublet. The Space: 6-Month to 1 Year Sublet near the Brooklyn Waterfront in Carroll Gardens/Columbia St. Find this quiet, cozy, :FURNISHED: one-bedroom plus home office. Apartment features...",
