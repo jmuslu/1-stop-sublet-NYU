@@ -1,5 +1,42 @@
 [
   {
+    "id": "reddit-nyc_studio_sublet_hudson_yards_hells_kitchen",
+    "title": "NYC Studio Sublet | Hudson Yards / Hell's Kitchen | $4,200/mo | No Broker Fee o...",
+    "description": "I'm subletting my studio at The Maybury, a modern luxury building at 550 10th Avenue, on the 15th floor. Apartment highlights: Beautiful Hudson River and city views, with great natural light Luxury building with gym, rooftop, and 24/7 doorman Furnished or unfurnished No broker f...",
+    "price": 4200,
+    "location": "Hell's Kitchen, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-20",
+    "imageUrl": "https://preview.redd.it/sinpd34n3mwh1.jpg?width=140&height=105&auto=webp&s=1dc3fe2bbc6eed96f29a9c9d0d1ce02573c6c893",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xaqgn9/nyc_studio_sublet_hudson_yards_hells_kitchen/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/DisastrousRespect788",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/sinpd34n3mwh1.jpg?width=140&height=105&auto=webp&s=1dc3fe2bbc6eed96f29a9c9d0d1ce02573c6c893"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Gym",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-sublet_fully_furnished_1br_750_sq_ft_east_village",
     "title": "Sublet: Fully furnished 1BR, ~750 sq ft, East Village, Dec 1\u2013Mar 1, $4,450 OBO",
     "description": "I'm subletting my apartment starting December 1 because my company is going to lay off and I'm going to stay with my girlfriend for a bit. This is a true grown-up apartment \u2014 we have the whole floor, three full closets, a responsive super, and space to spread out. If you're movi...",
@@ -375,8 +412,10 @@
       "Housing megathread"
     ],
     "extraCosts": [
+      "Utilities mentioned",
       "Fees mentioned"
-    ]
+    ],
+    "utilitiesNotes": "Key points: Rent is $3300 monthly (does not include utilities; electricity+gas is typically $60-100 monthly and internet is $75) Pre-war bu..."
   },
   {
     "id": "reddit-lease_takeover_forest_hills_1b1b_3350_1_month_free",
