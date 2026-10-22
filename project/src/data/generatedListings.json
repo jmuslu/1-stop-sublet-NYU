@@ -78,6 +78,68 @@
     "extraCosts": []
   },
   {
+    "id": "listingsproject-ceilings",
+    "title": "East Village: Large, fully furnished 1bed/1bath with high ceilings",
+    "description": "I'm subletting my beautiful, fully furnished apartment between Dec 1, 2026 and Feb 28, 2027. The apartment is in East Village (Manhattan) on Saint Marks Place (at 1st Ave). \ud83c\udfe0 The apartment \u2022 Fully furnished 1 bed 1 bath, ~750 sq ft with rare 13 ft ceilings \u2022 Tons of...",
+    "price": 4450,
+    "location": "East Village, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-10-22",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/5btv7AYmTqmkR3aNJlosGw/8ZHIad-598CAF2C-36BC-42AC-96D4-21991B0EAD90_1_102_o.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/east-village-large-fully-furnished-1bed-1bath-with-high-ceilings",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-12-01 to 2027-02-28",
+    "availableFrom": "2026-12-01",
+    "availableTo": "2027-02-28",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-122_lease_takeover_uws_2_bed_with_private_outdoor",
+    "title": "12/2 Lease takeover: UWS 2 bed with private outdoor space for $4290/mo",
+    "description": "I am moving out of my UWS apartment early and am looking for someone to take over the lease! The apartment is a 2 bedroom, 1 bathroom 4th floor walk up with a private rooftop that is huge (currently we have a Costco couch, two chairs, coffee table, lounge chairs, umbrella and gr...",
+    "price": 4290,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-22",
+    "imageUrl": "https://preview.redd.it/ccnylruxr0xh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=d22349b5a6a519ca5510a55388c858fafab9d56e",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xciek2/122_lease_takeover_uws_2_bed_with_private_outdoor/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Great_Salt_9163",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ccnylruxr0xh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=d22349b5a6a519ca5510a55388c858fafab9d56e"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-1br1ba_lease_takeover_on_the_uws_87th_amsterdam",
     "title": "1BR/1BA Lease Takeover on the UWS (87th & Amsterdam) - $3,100 rent",
     "description": "$20 Application fee per applicant (This will include a credit check) Minimum yearly income needs to be $124K Minimum Credit score of 720 Taking over my lease starting Nov 7, 2026 , for a full year. I've lived here more than two years and love the place, just moving in with my pa...",
@@ -627,7 +689,7 @@
   {
     "id": "reddit-luxury_1_bedroom_with_amenities_in_mott_haven",
     "title": "Luxury 1 bedroom with amenities in Mott Haven, $3180, Available 11/30",
-    "description": "Looking for someone to take over a lease at 40 Bruckner Boulevard ! This building has resort-style amenities, a rooftop pool, and in unit washer/dryer! Apartment Details One-bedroom apartment 24/7 doorman In unit W/D $3,180/month Bruckner House, Mott Haven, Bronx Move-in date: N...",
+    "description": "[EDIT: DISCOUNTED WITH A RENT CREDIT!] Looking for someone to take over a lease at 40 Bruckner Boulevard ! This building has resort-style amenities, a rooftop pool, and the apartment has in unit washer/dryer! Apartment Details One-bedroom apartment 24/7 doorman In unit W/D Offer...",
     "price": 3180,
     "location": "New York, NY",
     "bedrooms": 1,
