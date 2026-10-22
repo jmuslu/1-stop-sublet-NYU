@@ -140,6 +140,106 @@
     ]
   },
   {
+    "id": "listingsproject-34c41ccf4bc0",
+    "title": "Bohemian Brooklyn Loft with Private Terrace!",
+    "description": "Bright & spacious rooftop loft in prime location Clinton Hill, Brooklyn! Private 600-sq. foot terrace has sweeping views of the Manhattan skyline! Eclectic, vintage, handmade furniture fills the space, with lots of healthy indoor & outdoor plants! You will have...",
+    "price": null,
+    "location": "Clinton Hill, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-10-22",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/cyk9QbkAwqqUqF0SzYPBHw/pkys4I-21aecb39-e783-460a-9b5a-64007eadfcb2.jpg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/bohemian-brooklyn-loft-with-private-terrace-fe164e26-482c-4b19-8271-34c41ccf4bc0",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-11-20 to 2027-03-01",
+    "availableFrom": "2026-11-20",
+    "availableTo": "2027-03-01",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_2600_chelsea_studio",
+    "title": "LEASE TAKEOVER: $2600 CHELSEA STUDIO",
+    "description": "I\u2019m quite fortunate to have been approved for an affordable housing unit so I\u2019m looking for someone to take over my studio in Chelsea starting Nov. 8! It\u2019s on 29th and 8th and is $2600/month (utilities included!). Best price I\u2019ve ever seen in the area to live solo. 1 floor up in...",
+    "price": 2600,
+    "location": "Chelsea, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-22",
+    "imageUrl": "https://preview.redd.it/rv8tn7nt42xh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=9534fde0717e63242e24592ddf39638048ce9125",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xcpphc/lease_takeover_2600_chelsea_studio/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Tibbi1995",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/rv8tn7nt42xh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=9534fde0717e63242e24592ddf39638048ce9125"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "It\u2019s on 29th and 8th and is $2600/month (utilities included!)."
+  },
+  {
+    "id": "reddit-room_available_near_tandon_luxury_apartments",
+    "title": "Room available near Tandon! Luxury apartments female only.",
+    "description": "Hi Looking for a roommate to take a private master bedroom with an en-suite bathroom. (Note: We have 2 cats!) Details: Apartment: 3 beds (2 true + 1 flex) / 2 baths, modern finish, hardwood floors, in-unit washer/dryer, and full stainless steel appliances. Building: 24/7 doorman...",
+    "price": 2350,
+    "location": "Downtown Brooklyn, New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-22",
+    "imageUrl": "https://preview.redd.it/arhvrq8ur2xh1.jpeg?width=140&height=105&auto=webp&s=b7e60c24d4f33f82b5b273c925b730eeb6aa92af",
+    "sourceUrl": "https://www.reddit.com/r/nyu/comments/1xct7vc/room_available_near_tandon_luxury_apartments/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/nyu",
+    "sourceThreadTitle": "r/nyu housing posts",
+    "sourceAuthor": "/u/SomeButterflies",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/arhvrq8ur2xh1.jpeg?width=140&height=105&auto=webp&s=b7e60c24d4f33f82b5b273c925b730eeb6aa92af"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/nyu",
+      "Gym",
+      "Near campus",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-1br1ba_lease_takeover_on_the_uws_87th_amsterdam",
     "title": "1BR/1BA Lease Takeover on the UWS (87th & Amsterdam) - $3,100 rent",
     "description": "$20 Application fee per applicant (This will include a credit check) Minimum yearly income needs to be $124K Minimum Credit score of 720 Taking over my lease starting Nov 7, 2026 , for a full year. I've lived here more than two years and love the place, just moving in with my pa...",
@@ -3466,7 +3566,7 @@
   {
     "id": "reddit-lease_takeover_nov_1st_inwood",
     "title": "Lease Takeover - Nov 1st - Inwood",
-    "description": "This is a Lease takeover (Not a sublet) thru August 1st, 2027. My work is making me move out of state by the end of the month, so we have to unfortunately leave our beautiful apartment. We wouldn't be leaving this place if we didn't have to relocate. Here's all the info: Large 2...",
+    "description": "NO LONGER AVAILABLE This is a Lease takeover (Not a sublet) thru August 1st, 2027. My work is making me move out of state by the end of the month, so we have to unfortunately leave our beautiful apartment. We wouldn't be leaving this place if we didn't have to relocate. Here's a...",
     "price": 3350,
     "location": "Inwood, New York, NY",
     "bedrooms": 2,
