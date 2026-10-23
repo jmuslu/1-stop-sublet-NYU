@@ -52,6 +52,41 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-lease_takeover_forest_hills_new_bldg_1b1b_net",
+    "title": "Forest Hills new bldg 1B1B net $2955.88",
+    "description": "Hi! I\u2019m looking for someone to take over our lease starting November 15. The lease runs through July 31. If the move-in date works out and you make a quick decision and complete the lease signing with management, we\u2019re willing to offer one month of free rent at our own expense,...",
+    "price": 2955,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-23",
+    "imageUrl": "https://preview.redd.it/ok1pjdnfw7xh1.jpeg?width=140&height=102&auto=webp&s=04c188d3b94ef8da4404f1e7d25eb4d5926f40eb",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xddtdf/lease_takeover_forest_hills_new_bldg_1b1b_net/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/No_Attention_5799",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ok1pjdnfw7xh1.jpeg?width=140&height=102&auto=webp&s=04c188d3b94ef8da4404f1e7d25eb4d5926f40eb"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-92f52cdbb0d3",
     "title": "Park Slope Studio Apartment",
     "description": "Cozy & Sunlit Park Slope Apartment Welcome to your cozy, beautiful home in the heart of Park Slope! This charming apartment is located in a well-maintained 12-unit building with a super on-site and excellent property management. The building is quiet, with friendly...",
