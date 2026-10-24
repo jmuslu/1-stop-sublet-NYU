@@ -148,6 +148,104 @@
     ]
   },
   {
+    "id": "listingsproject-may",
+    "title": "Stunning Fidi Studio - Nov/Dec to May",
+    "description": "Sunny High-Floor Studio with Great View in FiDi Doorman Building Hi there! I'm subletting this apartment in FiDi from November/December to May 31 (some flexibility on the dates), and I'd love to find someone who'll enjoy it as much as I have. The Location Located...",
+    "price": 4700,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-10-24",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/yd500V1OklOPwzssxIax-w/Vp19w6-IMG_8955.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/stunning-fidi-studio-nov-dec-to-may",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-12-01 to 2027-05-31",
+    "availableFrom": "2026-12-01",
+    "availableTo": "2027-05-31",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-rent_stabilized_ues_studio_nov_1_move_in",
+    "title": "RENT STABILIZED UES STUDIO NOV 1 MOVE IN",
+    "description": "UES RENT STABILIZED STUDIO AVAIL 11/1 Looking for someone to rent my rent-stabilized studio on the Upper East Side! Available for a brand-new, full 1-year lease starting November 1st \u2014 this is NOT a lease takeover or sublease. \ud83d\udcb0 Rent: $2,671/month \ud83d\udcc5 Move-in: November 1, 2026 \ud83d\udcdd L...",
+    "price": 2671,
+    "location": "Upper East Side, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-24",
+    "imageUrl": "https://preview.redd.it/89qds2seffxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=5cec65904da8872a9fa3da4c9411985c04715287",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xeab6a/rent_stabilized_ues_studio_nov_1_move_in/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/LopsidedMatch4475",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/89qds2seffxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=5cec65904da8872a9fa3da4c9411985c04715287"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "\ud83d\udcb0 Rent: $2,671/month \ud83d\udcc5 Move-in: November 1, 2026 \ud83d\udcdd Lease term: Full 1-year lease \u26a1 Utilities included in rent!"
+  },
+  {
+    "id": "reddit-lease_takeover_quiet_bright_southfacing_studio",
+    "title": "LEASE TAKEOVER: Quiet, bright south-facing studio with an amazing view of Centr...",
+    "description": "Lease $3,350/mo You will have to meet the financial requirements (income=40x rent, etc.) Lease ends July 16. 2027, with the option to sign a longer term with condo owner Move-in flexible: December, January, February Apartment Details: South-facing studio on a high floor with a g...",
+    "price": 3350,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-24",
+    "imageUrl": "https://preview.redd.it/fd9bbeoj9fxh1.jpeg?width=140&height=93&auto=webp&s=f6a4f504fafe5c4db1b295da12f14b3c77559f6b",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xe9kq4/lease_takeover_quiet_bright_southfacing_studio/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Superb-Goal-8427",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/fd9bbeoj9fxh1.jpeg?width=140&height=93&auto=webp&s=f6a4f504fafe5c4db1b295da12f14b3c77559f6b"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-54167372e1b3",
     "title": "Big & Bright Tucked Away Williamsburg Condo with Office/Studio Space",
     "description": "A sunny, stylish and spacious fully furnished loft-like apartment inside a well-kept and quiet building that was once an old steam factory. Features a king-sized bed, a true office/studio space, a large fully equipped kitchen with lots of counter space, and a massive...",
