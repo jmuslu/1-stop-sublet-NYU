@@ -78,6 +78,72 @@
     "utilitiesNotes": "November Sublet in LIC - $1050 + utilities."
   },
   {
+    "id": "reddit-studio_in_gramercy_park_lease_takeover",
+    "title": "Studio in Gramercy Park Lease Takeover",
+    "description": "Hello everyone! My boyfriend and I are leaving our studio apartment in Gramercy at 304 E 20th St. Rent: $2,950/mo Move in: 11/1/2026 Lease ends: 6/30/2026 Photos and more info in the link. Feel free to reach out here or on LeaseBreak if you\u2019d like to tour! submitted by /u/candid...",
+    "price": 2950,
+    "location": "Gramercy, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-25",
+    "imageUrl": "https://external-preview.redd.it/1rXjuoQJ9MYxSopt-6qj4qyRZZe0P41SE84dUtHtG8U.jpeg?width=320&crop=smart&auto=webp&s=4308c5287aa5c6cc641643c60d6391fafc2193cc",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xesmb0/studio_in_gramercy_park_lease_takeover/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/candid_claro",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/1rXjuoQJ9MYxSopt-6qj4qyRZZe0P41SE84dUtHtG8U.jpeg?width=320&crop=smart&auto=webp&s=4308c5287aa5c6cc641643c60d6391fafc2193cc"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_brooklyn_heights_1bed",
+    "title": "Lease Takeover Brooklyn Heights 1bed",
+    "description": "Looking for someone to takeover our lease for a 1bed in Brooklyn Heights. Move in date is flexible between 11/15-12/15, rent is $5200/mo, has in unit W/D, 5th floor walkup. The lease goes until April 30, 2027. Please message if interested, thanks! submitted by /u/Late-Cherry-674...",
+    "price": 5200,
+    "location": "Brooklyn Heights, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-25",
+    "imageUrl": "https://preview.redd.it/4q8ejwwu6jxh1.jpeg?width=140&height=93&auto=webp&s=cd04288cb1de59d5b4fbff650420deed2fc59f7b",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xerkp0/lease_takeover_brooklyn_heights_1bed/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Late-Cherry-6746",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/4q8ejwwu6jxh1.jpeg?width=140&height=93&auto=webp&s=cd04288cb1de59d5b4fbff650420deed2fc59f7b"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-3bda5c3e2b2a",
     "title": "Fully Furnished Sunny 1BR in Windsor Terrace \u2013 All Utilities Included \u2013 6-Month ",
     "description": "$3,500/month | Fully Furnished | All Utilities & Wi-Fi Included | No Broker Fee Bright, sunny and fully furnished one-bedroom apartment in Windsor Terrace, available for a six-month rental. The apartment has high ceilings, beautiful hardwood/parquet floors and lots...",
@@ -529,6 +595,43 @@
       "Housing megathread"
     ],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-nofee_studio_seaport_fidi_lease_takeover_w_inunit",
+    "title": "NO-FEE STUDIO SEAPORT FIDI LEASE TAKEOVER W/ IN-UNIT LAUNDRY AND ROOFTOP POOL",
+    "description": "Available starting November 3rd. Fully furnished option! Looking for someone to take over my lease at 180 Water Street (Aqua House)! - Rent is typically $4,160, but willing to sublease for $3,764 per month, lease ends September 13th, 2027 - Studio apartment, 1 bath, closet, in u...",
+    "price": 4160,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-24",
+    "imageUrl": "https://preview.redd.it/iozdq7ioehxh1.jpeg?width=140&height=90&auto=webp&s=5f7a8846685a1d26a3fb57308f2461c59bf69ab8",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xek4yh/nofee_studio_seaport_fidi_lease_takeover_w_inunit/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/GoldPop8446",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/iozdq7ioehxh1.jpeg?width=140&height=90&auto=webp&s=5f7a8846685a1d26a3fb57308f2461c59bf69ab8"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
   },
   {
     "id": "listingsproject-54167372e1b3",
