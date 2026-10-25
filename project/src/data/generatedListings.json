@@ -170,6 +170,116 @@
     "extraCosts": []
   },
   {
+    "id": "reddit-spacious_sublet_in_bushwick_december_20january_30",
+    "title": "Spacious Sublet in Bushwick December 20-January 30",
+    "description": "Bedroom available for sublease in Bushwick while I'm traveling! Apartment is on Hart and Wilson, close to the Dekalb L and Central M. Available December 21 - January 30, but flexible by a few days if needed. Apartment is a 3 bed 1.5 bath. Other roommates are the absolute homies...",
+    "price": 1600,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 1.5,
+    "platform": "Reddit",
+    "dateListed": "2026-10-25",
+    "imageUrl": "https://preview.redd.it/zjbsfu213oxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=3b8807a05e861893a8f6b04756222379afb75fa2",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xfbt3h/spacious_sublet_in_bushwick_december_20january_30/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/chillinwithmyfriends",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/zjbsfu213oxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=3b8807a05e861893a8f6b04756222379afb75fa2"
+    ],
+    "availabilityLabel": "December 20-January 30",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Utilities included."
+  },
+  {
+    "id": "reddit-1bd_in_astoria_w_backyard_washerdryer_for_sublet",
+    "title": "1bd in Astoria w/ backyard & washer/dryer for sublet",
+    "description": "Hello there! I'm subletting my amazing 1 bedroom apartment in Astoria from December 1st through the end of February with a flexible start date for $2900/month w/utilities included . It's located just off the Ditmars Blvd. stop (N/W line) in Astoria with tons of restaurants, bars...",
+    "price": 2900,
+    "location": "Astoria, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-25",
+    "imageUrl": "https://preview.redd.it/ewhhses93nxh1.jpeg?width=140&height=105&auto=webp&s=fa1065551ea8814781374e92cc08b44ade234cad",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xf6ovc/1bd_in_astoria_w_backyard_washerdryer_for_sublet/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/smwnewyork",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/ewhhses93nxh1.jpeg?width=140&height=105&auto=webp&s=fa1065551ea8814781374e92cc08b44ade234cad"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "I'm subletting my amazing 1 bedroom apartment in Astoria from December 1st through the end of February with a flexible start date for $2900..."
+  },
+  {
+    "id": "reddit-1_bedroom_in_lic_lease_takeover_dec_2026april",
+    "title": "1 bedroom in LIC lease takeover Dec 2026-April 2027 (flexible) - $3750/month",
+    "description": "Hi guys - I will be travelling and won\u2019t be in NYC so looking for someone to either takeover my lease for my apartment from Dec 2026 to April 2027 (can be flexible). Current lease is $3750 / month. The link to the apartment is here: https://streeteasy.com/rental/4111874 ? Huge 1...",
+    "price": 3750,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-25",
+    "imageUrl": "https://preview.redd.it/xfcqhf8ejnxh1.jpeg?width=640&crop=smart&auto=webp&s=ff4646ef3f27608d033b360f48015055169702db",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xf8zwh/1_bedroom_in_lic_lease_takeover_dec_2026april/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Aggressive-Debt6563",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/xfcqhf8ejnxh1.jpeg?width=640&crop=smart&auto=webp&s=ff4646ef3f27608d033b360f48015055169702db",
+      "https://i.redd.it/xfcqhf8ejnxh1.jpeg"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-3bda5c3e2b2a",
     "title": "Fully Furnished Sunny 1BR in Windsor Terrace \u2013 All Utilities Included \u2013 6-Month ",
     "description": "$3,500/month | Fully Furnished | All Utilities & Wi-Fi Included | No Broker Fee Bright, sunny and fully furnished one-bedroom apartment in Windsor Terrace, available for a six-month rental. The apartment has high ceilings, beautiful hardwood/parquet floors and lots...",
