@@ -1,5 +1,82 @@
 [
   {
+    "id": "reddit-wburg_room_in_updated_3_bed_1_bath_rent_stab",
+    "title": "Wburg Room in Updated 3 Bed 1 Bath Rent Stab., Central HVAC Apartment @$1,275",
+    "description": "Please read full description. I mention it below but my handle is ian.misho on Instagram if you want to verify that this is not a scam Available as early as Nov 6-8 or Nov 15 or Dec 1 >>ROOM IN QUESTION: One of the ones without the balcony. This is on the fourth floor as a walku...",
+    "price": 1275,
+    "location": "New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-26",
+    "imageUrl": "https://preview.redd.it/a29rsb5whpxh1.jpeg?width=140&height=93&auto=webp&s=85a19ba6d7484a3bdda883e545113392b33093a0",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xfigjp/wburg_room_in_updated_3_bed_1_bath_rent_stab/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/mornrover",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/a29rsb5whpxh1.jpeg?width=140&height=93&auto=webp&s=85a19ba6d7484a3bdda883e545113392b33093a0"
+    ],
+    "availabilityLabel": "Nov 6-8",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [
+      "Summer"
+    ],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Sublet",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": ">>$ AND LEASE: $1,275 for rent, about $17 for internet (Spectrum, haven't had issues so far), and utilities are $50-100 sometimes a tad mor..."
+  },
+  {
+    "id": "reddit-1bedroom_1bathroom_lease_takeover_on_the_upper",
+    "title": "1-bedroom, 1-bathroom lease takeover on the Upper East Side, near 89th Street a...",
+    "description": "Hi guys, Looking for someone to take over my lease on 11/1, it ends on 2/28. You can choose to extend it if you like as well! The video attached is from when I first moved in but I\u2019m attaching pictures of it furnished in the comments! About the building & apartment: It\u2019s a pre-w...",
+    "price": 2700,
+    "location": "Upper East Side, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-26",
+    "imageUrl": "https://external-preview.redd.it/cXp4bDBzYnR0cHhoMehXrzHJFZWdP9FUTh5VVmZPHc1Yd_hpaLLwQEvwwYJW.jpeg?width=640&crop=smart&auto=webp&s=26a9d760ad144483e8768364a28e0dbe7cc5da60",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xfjwoj/1bedroom_1bathroom_lease_takeover_on_the_upper/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/ApartmentGlum9378",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/cXp4bDBzYnR0cHhoMehXrzHJFZWdP9FUTh5VVmZPHc1Yd_hpaLLwQEvwwYJW.jpeg?width=640&crop=smart&auto=webp&s=26a9d760ad144483e8768364a28e0dbe7cc5da60"
+    ],
+    "availabilityLabel": "Summer",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [
+      "Summer"
+    ],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "reddit-2b1b_williamsburg_lease_takeover_nov_1_3800",
     "title": "2B1B Williamsburg Lease Takeover Nov 1 - $3800",
     "description": "10 min walk to Metropolitan-Lorimer L/G. Lorimer and cross st is a couple block south of Grand St. My commute to manhattan is ~20mins. LIDL right up the street, and lots of great bars and restaurants in the vicinity. Looking for a lease takeover as early as Nov 1, but flexible....",
@@ -273,6 +350,113 @@
       "r/NYCapartments",
       "Furnished",
       "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-bright_fully_furnished_room_in_bushwick_off_lm",
+    "title": "Bright, Fully Furnished Room in Bushwick (Off L/M Trains).",
+    "description": "Hi everyone! I\u2019m subletting a bright, spacious, and fully furnished room in a beautiful Bushwick apartment starting November 1st. Base Rent: $1,500/month Utilities & Perks: $150/month flat fee (Includes ConEd/electric, high-speed Wi-Fi, professional cleaning service, and fully s...",
+    "price": 1500,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-25",
+    "imageUrl": "https://external-preview.redd.it/b2U1MDIxZXhwb3hoMSfbOYnB71Tlx9Tm2BfzAsOYSilYQQLlLAhnxMaORNqI.jpeg?width=640&crop=smart&auto=webp&s=bb866d15fa64a11d904b983c8cda17c326b8ca76",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xfex77/bright_fully_furnished_room_in_bushwick_off_lm/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Lonely-Patience2666",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/b2U1MDIxZXhwb3hoMSfbOYnB71Tlx9Tm2BfzAsOYSilYQQLlLAhnxMaORNqI.jpeg?width=640&crop=smart&auto=webp&s=bb866d15fa64a11d904b983c8cda17c326b8ca76"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Base Rent: $1,500/month Utilities & Perks: $150/month flat fee (Includes ConEd/electric, high-speed Wi-Fi, professional cleaning service, a..."
+  },
+  {
+    "id": "reddit-2br2ba_lease_takeover_in_fort_greene_brooklyn_3",
+    "title": "2BR/2BA Lease Takeover in Fort Greene Brooklyn (3 block from Fort Greene park!)...",
+    "description": "LEASE TRANSFER - Fort Greene 2BR/2BA plus balcony) in full amenity building. Looking at late November or early December start. Pets allowed. Bike storage available. Goes through June 30, 2027, likely option to renew. $6500/month rent Happy to answer any questions. Feel free to D...",
+    "price": null,
+    "location": "Fort Greene, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-25",
+    "imageUrl": "https://preview.redd.it/lkz8jqc0loxh1.jpeg?width=140&height=105&auto=webp&s=999fcf69902777b445663e1a19d24757e3999a18",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xfeadd/2br2ba_lease_takeover_in_fort_greene_brooklyn_3/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Healthy-Definition90",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/lkz8jqc0loxh1.jpeg?width=140&height=105&auto=webp&s=999fcf69902777b445663e1a19d24757e3999a18"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-1br1ba_lease_takeover_on_the_uws_87th_amsterdam",
+    "title": "1BR/1BA Lease Takeover on the UWS (87th & Amsterdam) - $3,100 rent",
+    "description": "$20 Application fee per applicant (This will include a credit check) Minimum yearly income needs to be $124K Minimum Credit score of 720 Taking over my lease starting Nov 8, 2026 , for a full year. I've lived here more than two years and love the place, just moving in with my pa...",
+    "price": 3100,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-25",
+    "imageUrl": "https://external-preview.redd.it/YmJycXpycTJmb3hoMVoeOzRhjV1UrkS6V63AjIc6qjIFGE-Myv5mb95ogKUk.png?width=320&crop=smart&auto=webp&s=7229f965cdad8fec3770d7bdd57f730ad1805994",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xfdhqj/1br1ba_lease_takeover_on_the_uws_87th_amsterdam/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/ShelterOk4339",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/YmJycXpycTJmb3hoMVoeOzRhjV1UrkS6V63AjIc6qjIFGE-Myv5mb95ogKUk.png?width=320&crop=smart&auto=webp&s=7229f965cdad8fec3770d7bdd57f730ad1805994"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
       "Housing megathread"
     ],
     "extraCosts": [
