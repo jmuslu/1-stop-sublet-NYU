@@ -35,6 +35,44 @@
     ]
   },
   {
+    "id": "reddit-room_available_in_bushwick",
+    "title": "Room available in Bushwick",
+    "description": "Hi! I\u2019m looking for someone to sublet or take over my lease in Bushwick! It is for a room in a 3 bed/1bath apartment near the Halsey L. Only one other roommate, 37M, chill guy. 3rd bedroom is currently used as an office. 3rd floor of 3 story walk up. Roof access. $1665/mo + util...",
+    "price": 1665,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-27",
+    "imageUrl": "https://preview.redd.it/g9sr87t530yh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=33015d1c3a08f6d44f6242fcb317f63313740241",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xgqqaf/room_available_in_bushwick/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Bright-Helicopter735",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/g9sr87t530yh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=33015d1c3a08f6d44f6242fcb317f63313740241"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Near campus",
+      "Sublet",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "$1665/mo + utilities."
+  },
+  {
     "id": "reddit-wburg_room_in_updated_3_bed_1_bath_rent_stab",
     "title": "Wburg Room in Updated 3 Bed 1 Bath Rent Stab., Central HVAC Apartment @$1,275",
     "description": "Please read full description. I mention it below but my handle is ian.misho on Instagram if you want to verify that this is not a scam Available as early as Nov 6-8 or Nov 15 or Dec 1 >>ROOM IN QUESTION: One of the ones without the balcony. This is on the fourth floor as a walku...",
