@@ -74,6 +74,79 @@
     ]
   },
   {
+    "id": "reddit-lisiting_astoria_2_bed_1_bath_1_room_novdec",
+    "title": "Astoria, 2 Bed / 1 Bath - [1 Room] [Nov-Dec Flexible]",
+    "description": "Short-term Room Sublet \u2013 Astoria, Queens I'm looking for someone to sublease a fully furnished bedroom in a 2-bedroom apartment in Astoria, two blocks from 30th ave station (N,W line) Sublease Details: Move-in: November 4, 2026 (flexible) Move-out: December 5, 2026 (flexible) Mo...",
+    "price": 1400,
+    "location": "Astoria, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-28",
+    "imageUrl": "https://preview.redd.it/xrnqg42t25yh1.jpeg?width=140&height=105&auto=webp&s=976ecb99117a2788e8be504e7beaa62335d96dda",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xhf0tv/lisiting_astoria_2_bed_1_bath_1_room_novdec/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/nomad_life_nyc",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/xrnqg42t25yh1.jpeg?width=140&height=105&auto=webp&s=976ecb99117a2788e8be504e7beaa62335d96dda"
+    ],
+    "availabilityLabel": "Nov-Dec",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Short-term Room Sublet \u2013 Astoria, Queens I'm looking for someone to sublease a fully furnished bedroom in a 2-bedroom apartment in Astoria,..."
+  },
+  {
+    "id": "reddit-lease_takeover_in_convenient_spot_of_lic",
+    "title": "Lease takeover in convenient spot of LIC!",
+    "description": "Hi all! We\u2019re looking for someone to take over our lease on a 1BR/1BA at Factory House (42-60 Crescent St), a boutique condo building in Long Island City. You\u2019d take over from mid-December (slightly flexible - please ask me about a date you have in mind!) through July 31, 2027,...",
+    "price": 3900,
+    "location": "Long Island City, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-28",
+    "imageUrl": "https://preview.redd.it/d3p31s4ti4yh1.jpeg?width=140&height=93&auto=webp&s=b1eec09bd97d48f82fb56ccf1c930e596f6ca18d",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xhcxou/lease_takeover_in_convenient_spot_of_lic/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Horo-Horo-Horo-Horo",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/d3p31s4ti4yh1.jpeg?width=140&height=93&auto=webp&s=b1eec09bd97d48f82fb56ccf1c930e596f6ca18d"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-lease_takeover_sunny_1br_office_w_large_private",
     "title": "Lease Takeover: Sunny 1BR + Office w/ Large Private Patio, Greenpoint, $4,700,...",
     "description": "Rent: $4,700/mo. No broker fee Available: Nov 1 \u00b7 lease runs through May 2027, with the option to renew Layout: 1BR + office/nook Location: Clay Street Streeteasy listing : https://streeteasy.com/building/42-clay-street-brooklyn/top?utm_campaign=rental_listing&utm_medium=share&u...",
