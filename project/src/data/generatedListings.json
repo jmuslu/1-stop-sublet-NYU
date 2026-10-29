@@ -193,6 +193,79 @@
     ]
   },
   {
+    "id": "reddit-bedroom_in_a_3bed_apartment_in_bedstuy_avail_for",
+    "title": "Bedroom in a 3-bed apartment in Bedstuy avail for sublet.",
+    "description": "Hi all. I have my room in a 3-bedroom (+1 den), 1.5 bathroom apartment available for sublet starting January 1st to February 28th 2027. Can also start December 15, 2026. Rent is $1,500 per month with utilities hitting approx. $100 (~$16 for internet and rest is electricity). You...",
+    "price": 1500,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.5,
+    "platform": "Reddit",
+    "dateListed": "2026-10-29",
+    "imageUrl": "https://preview.redd.it/q6cb1aig0hyh1.jpeg?width=140&height=78&auto=webp&s=5d6e68cdf2b4614cf664c41e6142f221934467ab",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xiw3rq/bedroom_in_a_3bed_apartment_in_bedstuy_avail_for/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/NoResponse4120",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/q6cb1aig0hyh1.jpeg?width=140&height=78&auto=webp&s=5d6e68cdf2b4614cf664c41e6142f221934467ab"
+    ],
+    "availabilityLabel": "January 1st to February 28th",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Rent is $1,500 per month with utilities hitting approx."
+  },
+  {
+    "id": "reddit-harlem_studio_available_for_sublet_flexible_dates",
+    "title": "Harlem Studio Available for Sublet (Flexible Dates)",
+    "description": "Subletting a cozy furnished studio in the Sugar Hill neighborhood. It is available starting Dec. 2026 - flexible end date. Preferred to find someone who needs a place for 3 months or more (reach out if you have other dates in mind) and can provide proof of income. Feel free to D...",
+    "price": 1850,
+    "location": "Harlem, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-29",
+    "imageUrl": "https://preview.redd.it/y9vecd49pgyh1.jpeg?width=140&height=105&auto=webp&s=8624056d0d6633bfc4f7d25bea7d7ed14d48e12b",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xiufls/harlem_studio_available_for_sublet_flexible_dates/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/jazz-lab",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/y9vecd49pgyh1.jpeg?width=140&height=105&auto=webp&s=8624056d0d6633bfc4f7d25bea7d7ed14d48e12b"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-sunny_bushwick_room_sublet_jan_1_midmay_2027",
     "title": "Sunny Bushwick room sublet | Jan 1 \u2013 mid-May 2027 | $1,675/mo",
     "description": "Subletting my room while I'm in California for the spring. It's a bright, furnished room with 16-foot ceilings and a ginkgo tree right outside the window. The room - Tons of natural light, plus blackout curtains (going up soon) for the French doors - Your own heater, so you cont...",
