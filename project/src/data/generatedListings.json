@@ -104,6 +104,95 @@
     "extraCosts": []
   },
   {
+    "id": "listingsproject-15",
+    "title": "Charming, Furnished West Village 1BR \u2014 Dec 3 to May 15",
+    "description": "This is my furnished one-bedroom home in the West Village / Greenwich Village, available while I spend the winter and early spring in Montreal. THE LOCATION \u2022 Minetta Street \u2014 a tiny, charming, tucked-away Village street right in the heart of downtown Manhattan \u2022...",
+    "price": 2770,
+    "location": "Greenwich Village, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-10-29",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/pmtt-7NTN4P4hMrblzyy-w/Xh6_rF-West%20Village%20Sublet%20-%201.png?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/charming-furnished-west-village-1br-dec-3-to-may-15",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-12-03 to 2027-05-15",
+    "availableFrom": "2026-12-03",
+    "availableTo": "2027-05-15",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "listingsproject-e32aae2ef543",
+    "title": "Bohemian Brooklyn Loft with Private Terrace!",
+    "description": "Bright & spacious rooftop loft in prime location Clinton Hill, Brooklyn! Private 600-sq. foot terrace has sweeping views of the Manhattan skyline! Eclectic, vintage, handmade furniture fills the space, with lots of healthy indoor & outdoor plants! You will have...",
+    "price": null,
+    "location": "Clinton Hill, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-10-29",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/eAWKup4sNlY3KPwnrJ4Leg/pkys4I-21aecb39-e783-460a-9b5a-64007eadfcb2.jpg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/bohemian-brooklyn-loft-with-private-terrace-db0d766e-5fbb-426b-b4f9-e32aae2ef543",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-11-20 to 2027-03-01",
+    "availableFrom": "2026-11-20",
+    "availableTo": "2027-03-01",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_fidi_studio_at_63_wall_st",
+    "title": "FiDi Studio at 63 Wall St \u2013 $3,807/month | No Broker Fee | Available Nov 14",
+    "description": "Hi everyone! I'm looking for someone to take over my lease for a bright, spacious studio apartment at 63 Wall Street in the Financial District (FiDi) . Apartment details: \ud83d\udccd Location: 63 Wall Street, Manhattan, NYC \ud83d\udcb0 Rent: $3,807/month \ud83d\udcc5 Available: November 14, 2026 (12 months w/...",
+    "price": 3807,
+    "location": "Financial District, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-29",
+    "imageUrl": "https://preview.redd.it/p3hu1zhscbyh1.jpeg?width=140&height=105&auto=webp&s=e0f3eb2c144802a3967933cc5066e32f1c03838b",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xi7g4r/lease_takeover_fidi_studio_at_63_wall_st/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Happy_Theme_8732",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/p3hu1zhscbyh1.jpeg?width=140&height=105&auto=webp&s=e0f3eb2c144802a3967933cc5066e32f1c03838b"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "reddit-sunny_bushwick_room_sublet_jan_1_midmay_2027",
     "title": "Sunny Bushwick room sublet | Jan 1 \u2013 mid-May 2027 | $1,675/mo",
     "description": "Subletting my room while I'm in California for the spring. It's a bright, furnished room with 16-foot ceilings and a ginkgo tree right outside the window. The room - Tons of natural light, plus blackout curtains (going up soon) for the French doors - Your own heater, so you cont...",
@@ -715,6 +804,114 @@
       "Housing megathread"
     ],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_starting_december_1st_2026",
+    "title": "Lease Takeover starting December 1st 2026 - December 2027",
+    "description": "Hi! I unfortunately have to move for work and was looking for someone to takeover my lease in this beautiful apartment in East Harlem. Rent is $1,915/month + utilities and it is a 4 bed 2 bath apartment. Great location only 2 blocks away from the 125th metro north station and 1...",
+    "price": 1915,
+    "location": "Harlem, New York, NY",
+    "bedrooms": 4,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-28",
+    "imageUrl": "https://preview.redd.it/qe8u3ev5nayh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=79e4b581bb136fa3fe61f7135113c6ec3df75f40",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xi48uh/lease_takeover_starting_december_1st_2026/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/MaggiePramenko",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/qe8u3ev5nayh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=79e4b581bb136fa3fe61f7135113c6ec3df75f40"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Rent is $1,915/month + utilities and it is a 4 bed 2 bath apartment."
+  },
+  {
+    "id": "reddit-room_available_at_dean_house_outpost_club",
+    "title": "\ud83c\udfe1 ROOM AVAILABLE AT DEAN HOUSE @ Outpost Club, BROOKLYN \u2014 LEASE TAKEOVER ASAP!",
+    "description": "I\u2019m leaving NYC and looking for someone to take over my room at Dean House through Outpost Club! If you\u2019re a student, commuter, or young professional looking for a comfortable, convenient place to live with a built-in community, this could be a great fit. This has been approved...",
+    "price": 1850,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-28",
+    "imageUrl": "https://preview.redd.it/q0rfigp6v9yh1.png?width=140&height=88&auto=webp&s=b30267df7df7690a98d0fe72aab0286002262580",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xi0ga9/room_available_at_dean_house_outpost_club/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/machada1234",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/q0rfigp6v9yh1.png?width=140&height=88&auto=webp&s=b30267df7df7690a98d0fe72aab0286002262580"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "\u2728 About the house and room: \ud83d\udecf\ufe0f Your own private room with a HUGE closet and tons of storage space \ud83c\udfe0 A community house with 9 residents acro..."
+  },
+  {
+    "id": "reddit-rent_stabilized_large_private_penthouse_huge",
+    "title": "RENT STABILIZED LARGE PRIVATE PENTHOUSE/ HUGE TERRACE/ 1 BED/1 BATH",
+    "description": "BROOKLYN DITMAS PARK CORNER ONE BEDROOM ONE BATH WITH HUGE TERRACE ON OCEAN AVE/AVE H, Q STOP VERY CLOSE !!! RENT STABILIZED 13 month lease takeover starting Dec 1. 2926.53/month Relocating out of state. this one won\u2019t last; it\u2019s a GEM ! \ud83d\udc8e I\u2019m the original tenant since the new b...",
+    "price": null,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-28",
+    "imageUrl": "https://preview.redd.it/2akqrrrvn9yh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=a633e430e317f96b051fbf381eca228e64de7f13",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xhzawo/rent_stabilized_large_private_penthouse_huge/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/oceanmaestro",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/2akqrrrvn9yh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=a633e430e317f96b051fbf381eca228e64de7f13"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
   },
   {
     "id": "reddit-lease_takeover_sunny_1br_office_w_large_private",
