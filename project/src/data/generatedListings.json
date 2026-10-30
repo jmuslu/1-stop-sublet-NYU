@@ -1,5 +1,69 @@
 [
   {
+    "id": "listingsproject-hill",
+    "title": "Spacious, Cozy 1 bed, 1 bath, in Clinton Hill",
+    "description": "PLEASE NOTE: PET CARE REQUIRED FOR THIS SUBLET Looking to sublet my cozy apartment in the month of Dec to early January. I live on the 6th floor (top floor) of an elevator building. The apartment gets a lot of sunlight as it\u2019s on the 6th floor. Looking for the full...",
+    "price": 2200,
+    "location": "Clinton Hill, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-10-30",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/7sPS_Qu_X4EXEhU97wzdKQ/AKSftu-IMG_8759.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/spacious-cozy-1-bed-1-bath-in-clinton-hill",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-12-09 to 2027-01-09",
+    "availableFrom": "2026-12-09",
+    "availableTo": "2027-01-09",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-sublet_furnished_2br1ba_uws_95th_st_dec_1jan_31",
+    "title": "Furnished 2BR/1BA UWS (95th St) - Dec 1-Jan 31 + possible option to renew",
+    "description": "My roommate and I are subletting our entire 2BD/1BA on the Upper West Side through the remainder of our lease (ends Jan 31, 2027). The basics: - $4,000/month for the whole apartment, utilities included - Two bedrooms, furnished - Elevator building at W 95th & West End Ave - One...",
+    "price": 4000,
+    "location": "Upper West Side, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-30",
+    "imageUrl": "https://preview.redd.it/phcwi2znmmyh1.jpeg?width=140&height=104&auto=webp&s=ab2e99427422fede8644be6d38f6afca658e3fc4",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xjj4s7/sublet_furnished_2br1ba_uws_95th_st_dec_1jan_31/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/PoolPartyGraves",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/phcwi2znmmyh1.jpeg?width=140&height=104&auto=webp&s=ab2e99427422fede8644be6d38f6afca658e3fc4"
+    ],
+    "availabilityLabel": "Dec 1-Jan 31",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Roommate"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "The basics: - $4,000/month for the whole apartment, utilities included - Two bedrooms, furnished - Elevator building at W 95th & West End A..."
+  },
+  {
     "id": "listingsproject-home",
     "title": "Room in Astoria in 3Bed/1Ba | Nov. 1 Move-In | Queer-Friendly Home",
     "description": "Hi! My name is Solange (she/her), and our household is looking for a 4th roommate to join our queer-friendly home here in Astoria, Queens! We\u2019re a couple (27F, 24NB), and another roommate (27F), looking for someone who\u2019s clean, communicative, considerate, and shares a...",
@@ -232,7 +296,7 @@
   {
     "id": "reddit-harlem_studio_available_for_sublet_flexible_dates",
     "title": "Harlem Studio Available for Sublet (Flexible Dates)",
-    "description": "Subletting a cozy furnished studio in the Sugar Hill neighborhood. It is available starting Dec. 2026 - flexible end date. Preferred to find someone who needs a place for 3 months or more (reach out if you have other dates in mind) and can provide proof of income. Feel free to D...",
+    "description": "Subletting a cozy furnished studio in the Sugar Hill neighborhood. It is available starting Dec. 2026 - flexible end date. Preferred to find someone who needs a place for 3 months or more (reach out if you have other dates in mind) and can provide proof of income (40x rent). Fee...",
     "price": 1850,
     "location": "Harlem, New York, NY",
     "bedrooms": 0,
