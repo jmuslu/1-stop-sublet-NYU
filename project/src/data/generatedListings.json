@@ -28,7 +28,7 @@
   {
     "id": "reddit-2b1b_williamsburg_lease_takeover_dec_6_3800",
     "title": "2B1B Williamsburg Lease Takeover Dec 6 - $3800",
-    "description": "[Reposted, with updated date and details] - if you're interested please message me with how many people, move-in date, and income. If its up it's available. 10 min walk to Metropolitan-Lorimer L/G. Lorimer and cross st is a couple blocks south of Grand St. My commute to manhatta...",
+    "description": "[Reposted, with updated date and details] - if you're interested please message me with how many people, move-in date, and income. If its up it's available. Edit: I am getting a lot of DMs (thank you) - if you are serious and would like to view this weekend (10/31-11/1) it is pr...",
     "price": 3800,
     "location": "Williamsburg, New York, NY",
     "bedrooms": 2,
@@ -89,6 +89,151 @@
     "availableTo": "2027-03-31",
     "termTags": [],
     "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-room_available_for_sublet_in_a_4bd_2bath",
+    "title": "Room available for sublet in a 4bd 2bath penthouse in Brooklyn ($1600 with util...",
+    "description": "Hello, I am looking for someone to sublet this beautiful room in our 4bedroom 2bathroom apartment. Me : I am a 24 years old Model who has been living in the city for a year now. I am really clean, neat and communicative. My other roommates : First one on the right of my room : H...",
+    "price": 1600,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 4,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-31",
+    "imageUrl": "https://preview.redd.it/m322cb4sqtyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=70e16d2124eeff1eb2342a7bdea4891540f5014b",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xkdnp8/room_available_for_sublet_in_a_4bd_2bath/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Opening-Nobody-2160",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/m322cb4sqtyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=70e16d2124eeff1eb2342a7bdea4891540f5014b"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Room available for sublet in a 4bd 2bath penthouse in Brooklyn ($1600 with utilities included) Move in is Dec1st."
+  },
+  {
+    "id": "reddit-room_available_for_sublet_in_a_4bed_2bath",
+    "title": "Room available for Sublet in a 4bed 2bath Penthouse in Brooklyn ($1600 with uti...",
+    "description": "Hello, I am looking for someone to sublet this beautiful room in our 4bedroom 2bathroom apartment. Me : I am a 24 years old Model who has been living in the city for a year now. I am really clean, neat and communicative. My other roommates : First one on the right of my room : H...",
+    "price": 1600,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 4,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-31",
+    "imageUrl": "https://preview.redd.it/d41vxnguktyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=bc88e66a937a382de002b8dbe6a332a21968e90d",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xkcue7/room_available_for_sublet_in_a_4bed_2bath/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Elvisgbossou",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/d41vxnguktyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=bc88e66a937a382de002b8dbe6a332a21968e90d"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Room available for Sublet in a 4bed 2bath Penthouse in Brooklyn ($1600 with utilities included)."
+  },
+  {
+    "id": "reddit-two_bridges_sublet_2970_113731",
+    "title": "Two Bridges Sublet - $2970 - 11/3-7/31",
+    "description": "Had a sublet set up, but they fell through, so looking for someone for November 3rd-July 31st 2027. Slightly flexible on the start date, but preference for those that can start earlier than later. The apartment is on Pike St and Monroe St, about 5 minutes walking to the East Bro...",
+    "price": 2970,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-31",
+    "imageUrl": "https://preview.redd.it/jbweee57qsyh1.jpeg?width=140&height=105&auto=webp&s=5303a4d9d86aff9d0f10e44c2163aa253910ac39",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xk8yqb/two_bridges_sublet_2970_113731/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/lilkimspastor",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/jbweee57qsyh1.jpeg?width=140&height=105&auto=webp&s=5303a4d9d86aff9d0f10e44c2163aa253910ac39"
+    ],
+    "availabilityLabel": "November 3rd-July 31st",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "We would ask you to cover utilities (~$100-$150) and internet ($60) while you are staying here."
+  },
+  {
+    "id": "reddit-1150_lease_takeover_3bd_1br_bushwick_brooklyn_mid",
+    "title": "$1150 Lease Takeover, 3bd 1br, Bushwick Brooklyn, mid November till 5/31/27",
+    "description": "Hi everyone, I am relocating due to work and I am looking for 1 person to take over my end of the lease in Bushwick, Brooklyn for $1150 starting mid November at the earliest and the lease ends on 5/31/27. Cold water is included, laundromat is 4 minute walk away, and ~8 minute wa...",
+    "price": 1150,
+    "location": "Bushwick, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-10-31",
+    "imageUrl": "https://preview.redd.it/5ehg2stfjtyh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=0654700cdee2ef866ed9589c04388305efa3b2cb",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xkcoci/1150_lease_takeover_3bd_1br_bushwick_brooklyn_mid/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/valkin123",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/5ehg2stfjtyh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=0654700cdee2ef866ed9589c04388305efa3b2cb"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Roommate",
+      "Housing megathread"
+    ],
     "extraCosts": []
   },
   {
