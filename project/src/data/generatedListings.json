@@ -96,6 +96,43 @@
     ]
   },
   {
+    "id": "reddit-sublet_1br_apartment_in_manhattan_valley_4020month",
+    "title": "1BR Apartment in Manhattan Valley \u2013 $4,020/month",
+    "description": "I'm looking to sublet my one-bedroom apartment in Manhattan Valley, available from November 30th for a period of six months. The apartment is a comfortable space with a good-sized bedroom, spacious living room, separate dining area and renovated kitchen with a dishwasher. It off...",
+    "price": 4020,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-01",
+    "imageUrl": "https://preview.redd.it/znvvwq5kt0zh1.jpeg?width=140&height=78&auto=webp&s=72da6ead2a25819e3c4be781015e984dd1e0a800",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xl64x4/sublet_1br_apartment_in_manhattan_valley_4020month/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/loud_n_subtle",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/znvvwq5kt0zh1.jpeg?width=140&height=78&auto=webp&s=72da6ead2a25819e3c4be781015e984dd1e0a800"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Near campus",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
     "id": "listingsproject-included",
     "title": "studio apartment in luxury tower in Williamsburg (bills included!!)",
     "description": "brand-new studio apartment near Montrose Av L! - doorman building - gym - beautiful roof with stunning Manhattan view & BBQs - elevator - full kitchen + dishwasher - in-unit washer/dryer - large bathroom - fully furnished (bed, sidetable, sofa, shelves, desk,...",
