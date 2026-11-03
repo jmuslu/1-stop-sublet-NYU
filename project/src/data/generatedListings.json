@@ -130,6 +130,107 @@
     "extraCosts": []
   },
   {
+    "id": "listingsproject-24d3e841609c",
+    "title": "Charming UWS Studio Steps from Central Park",
+    "description": "Step into your own quiet sanctuary in the heart of Manhattan\u2014a cool, cozy studio tucked inside a 120-year-old brownstone just half a block from Central Park West. With its classic New York charm and brand-new furnishings, this ground-floor space gives you the rare...",
+    "price": 3200,
+    "location": "Upper West Side, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-11-03",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/NVnKA_C04Xk4hPrcOgpLBg/fsy3Jc-IMG_5343.jpeg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/charming-uws-studio-steps-from-central-park-80f09961-676b-4fa3-9fa4-24d3e841609c",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2027-01-01 to 2027-02-19",
+    "availableFrom": "2027-01-01",
+    "availableTo": "2027-02-19",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-furnished_studio_apartment_in_les_available_dec_1",
+    "title": "Furnished Studio Apartment in LES available Dec 1 to Jan 5",
+    "description": "I know it's super last minute, but I'll be at my parent's home for the holidays so I'm looking for someone to sublet my Lower East Side studio. Apartment Features: * Fully furnished studio * Recently renovated * 2nd floor (just one flight up!) * In-Unit laundry (heads up: the wa...",
+    "price": 3200,
+    "location": "Lower East Side, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-03",
+    "imageUrl": "https://preview.redd.it/hvji2a7gegzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=0e0e51685f0be928236e4ff70d9cd0efa38d96bb",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xn3i0i/furnished_studio_apartment_in_les_available_dec_1/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/goyardman",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/hvji2a7gegzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=0e0e51685f0be928236e4ff70d9cd0efa38d96bb"
+    ],
+    "availabilityLabel": "Dec 1 to Jan 5",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-room_for_sublet_east_broadway_manhattan_nov_15th",
+    "title": "Room for Sublet \u2013 East Broadway, Manhattan ( Nov 15th move in)",
+    "description": "Room for Sublet \u2013 East Broadway, Manhattan \ud83d\udcc5 Move-in: November 1st Looking for someone to sublet my room in a 2 bed / 1 bath apartment in a great location on the Lower East Side. \ud83d\udccd East Broadway \u2014 just a 2-minute walk to the subway station \ud83d\udcb0 Rent: $2,500/month + utilities \ud83d\udecb\ufe0f Ful...",
+    "price": 2500,
+    "location": "Lower East Side, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-11-03",
+    "imageUrl": "https://preview.redd.it/gey9felgdfzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=8c2cbb8fca347974e6586164801fe00653805151",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xmxr29/room_for_sublet_east_broadway_manhattan_nov_15th/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Yanivhaki666",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/gey9felgdfzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=8c2cbb8fca347974e6586164801fe00653805151"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Sublet",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "\ud83d\udccd East Broadway \u2014 just a 2-minute walk to the subway station \ud83d\udcb0 Rent: $2,500/month + utilities \ud83d\udecb\ufe0f Fully furnished \u2014 move-in ready \ud83c\udf3f Large pr..."
+  },
+  {
     "id": "listingsproject-sublet",
     "title": "Furnished 1-Bedroom Apartment in Prime Williamsburg \u2013 Short-Term Sublet",
     "description": "Spacious, fully furnished 1-bedroom apartment in a fantastic Williamsburg location, just steps from McCarren Park! Perfect for anyone looking for a comfortable, move-in-ready home in NYC over the holiday period. \ud83d\udccd 101 Bedford Avenue, Williamsburg, Brooklyn \ud83d\udcc5...",
