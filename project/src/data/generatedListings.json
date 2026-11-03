@@ -1,5 +1,135 @@
 [
   {
+    "id": "listingsproject-6cad8784a043",
+    "title": "Furnished Upper East Side Studio | Madison Avenue & 73rd Street | Summer / Autum",
+    "description": "A bright and unusually spacious furnished studio apartment in a full-service doorman building on Madison Avenue and East 73rd Street. Thoughtfully arranged with a mix of antique and contemporary furnishings, the apartment offers distinct living, dining and sleeping...",
+    "price": 5500,
+    "location": "Upper East Side, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-11-03",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/BUmHizGpfMxinSr_Zye6-Q/kEQLhY-Apt1.JPG?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/furnished-upper-east-side-studio-madison-avenue-73rd-street-summer-autumn-rental-02ab0eaf-56a7-4917-a82f-6cad8784a043",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-12-01 to 2027-03-31",
+    "availableFrom": "2026-12-01",
+    "availableTo": "2027-03-31",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-room_available_in_2br_hudson_yards_garment",
+    "title": "Room available in 2BR \u2014 Hudson Yards / Garment District \u2014 $2,400/mo",
+    "description": "Subletting my room in a 2-bed, pre-war walk-up at 314 West 39th St, right in Hudson Yards/Garment District. Available Dec 1 (flexible, could work earlier) through June 1. Location: Can\u2019t beat the transit \u2014 Times Square\u201342nd St (A/C/E/N/Q/R/W/S/1/2/3/7) is under 500 ft away, Penn...",
+    "price": 2400,
+    "location": "Chelsea, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-03",
+    "imageUrl": "https://preview.redd.it/rrnr05pzsdzh1.jpeg?width=140&height=74&auto=webp&s=e9903fa2d847be37616624e7717dc6563ca86db9",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xmqc6a/room_available_in_2br_hudson_yards_garment/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Affectionate_Ad8711",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/rrnr05pzsdzh1.jpeg?width=140&height=74&auto=webp&s=e9903fa2d847be37616624e7717dc6563ca86db9"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-fidi_lease_takeover_huge_822_sq_ft_highfloor",
+    "title": "FiDi Lease Takeover. Huge 822 sq ft High-Floor Studio. $4,350. Available Immedi...",
+    "description": "I\u2019ve permanently relocated out of New York and am looking for someone to take over my lease at 100 John Street, Apt. 3202 in FiDi. I posted this originally a couple weeks ago but the prospective tenant fell through at the last minute. Contract rent: $4,350/month Available: Immed...",
+    "price": 4350,
+    "location": "New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-03",
+    "imageUrl": "https://preview.redd.it/85qu8x3hkazh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=cb5344379beec9980921896e2ccda6752a4f1876",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xmeej9/fidi_lease_takeover_huge_822_sq_ft_highfloor/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/t420babe",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/85qu8x3hkazh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=cb5344379beec9980921896e2ccda6752a4f1876"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Sublet",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-brooklyn_greenwood_heightssunset_park_private_bed",
+    "title": "Brooklyn Greenwood Heights/Sunset Park | Private Bed & Bath | $1,250/month",
+    "description": "Hello! I'm looking for someone to take over my lease starting December 1st. Earlier move-in in November is also possible. The lease ends in July 2027. Location: 3rd Ave & 29th St, Brooklyn, 11232 Rent: $1,250/month, water included. Electricity and Wi-Fi are usually around $70-$8...",
+    "price": 1250,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-03",
+    "imageUrl": "https://preview.redd.it/o8kmziau9bzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=df88fa0e102152bc9a20c15ee7b337227639eddb",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xmhzm9/brooklyn_greenwood_heightssunset_park_private_bed/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/neversatnever",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/o8kmziau9bzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=df88fa0e102152bc9a20c15ee7b337227639eddb"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Near campus",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-sublet",
     "title": "Furnished 1-Bedroom Apartment in Prime Williamsburg \u2013 Short-Term Sublet",
     "description": "Spacious, fully furnished 1-bedroom apartment in a fantastic Williamsburg location, just steps from McCarren Park! Perfect for anyone looking for a comfortable, move-in-ready home in NYC over the holiday period. \ud83d\udccd 101 Bedford Avenue, Williamsburg, Brooklyn \ud83d\udcc5...",
@@ -389,6 +519,104 @@
     "extraCosts": [
       "Fees mentioned"
     ]
+  },
+  {
+    "id": "reddit-3_bed_2_bath_sundrenched_apartment_for_rent_lease",
+    "title": "3 bed 2 bath sun-drenched apartment for rent (lease takeover) in Red Hook. Newl...",
+    "description": "Flexible on availability - lease runs to end June 30 but I can move quickly if you want the unit in 2026. Happy to offer showings. Please DM me your email address for more details. submitted by /u/ermyburgh [link] [comments]",
+    "price": 5000,
+    "location": "New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-11-02",
+    "imageUrl": "https://preview.redd.it/6ey95r6qo9zh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=ac60025feda41138abf9563e67285c48463b2187",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xma2ku/3_bed_2_bath_sundrenched_apartment_for_rent_lease/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/ermyburgh",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/6ey95r6qo9zh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=ac60025feda41138abf9563e67285c48463b2187"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-from_the_leasetakeovernyc_community_on_reddit",
+    "title": "From the LeaseTakeoverNYC community on Reddit: Lease Takeover / New Lease - Dec...",
+    "description": "1 bedroom can be used as a flex 2 bedroom if desired. Prime Crown Heights on the border of Prospect Heights. Elevator building, dishwasher, central HVAC and laundry in building. Follow link for more info! submitted by /u/CantaloupePrize4957 [link] [comments]",
+    "price": 3500,
+    "location": "Prospect Heights, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-02",
+    "imageUrl": "https://preview.redd.it/irp12axikmyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=fc8c251fa3fb2f63f7bf852f5e55d8c4e5b756e3",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xm6mo6/from_the_leasetakeovernyc_community_on_reddit/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/CantaloupePrize4957",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/irp12axikmyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=fc8c251fa3fb2f63f7bf852f5e55d8c4e5b756e3"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_spacious_flex_1_bedroom_at_65th",
+    "title": "Lease takeover - Spacious flex 1 bedroom at 65th & Columbus Ave, $3500",
+    "description": "- Lease dates: November 28, 2026 - July 31, 2027 (slightly flexible move-in date) - Laundry in building - Dishwasher - Live-in super - Elevator - Income of at least 40x the monthly rent required submitted by /u/Low-Barracuda6573 [link] [comments]",
+    "price": 3500,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-02",
+    "imageUrl": "https://preview.redd.it/naj6b67m45zh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=a6c0fdea8dec39ed712f0e65ae2e66d9456635a7",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xlpkdq/lease_takeover_spacious_flex_1_bedroom_at_65th/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Low-Barracuda6573",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/naj6b67m45zh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=a6c0fdea8dec39ed712f0e65ae2e66d9456635a7"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": []
   },
   {
     "id": "listingsproject-amenities",
@@ -946,7 +1174,7 @@
   {
     "id": "reddit-lease_takeover_manhattan_fidi_luxury_apt",
     "title": "Lease Takeover \u2014 Manhattan (Fidi) Luxury Apt",
-    "description": "116 John St on 19th floor Move\u2011in: January- February 2027 (flexible) Rent: $6,750/mo, security deposit paid already Lease ends: June 15, 2027 (with option to extend) Bedrooms: 2 BR flexed into 3 BR (option to be either) Baths: 2 full bathrooms We are looking for someone to take...",
+    "description": "Move\u2011in: January 2027 (flexible) Rent: $6,750/mo + security deposit already paid! Lease ends June 15, 2027 + option to extend Bedrooms: True 2 BR flexed into 3 BR (flex wall already built up to the ceiling with soundproofing, can also remove to revert back to 2bed layout) Baths:...",
     "price": null,
     "location": "New York, NY",
     "bedrooms": 2,
@@ -965,7 +1193,7 @@
       "https://preview.redd.it/4esx352youyh1.jpeg?width=640&crop=smart&auto=webp&s=787bbc849df4a66210af90a90d4fafc3c2ea4169",
       "https://i.redd.it/4esx352youyh1.jpeg"
     ],
-    "availabilityLabel": "January- February",
+    "availabilityLabel": null,
     "availableFrom": null,
     "availableTo": null,
     "termTags": [],
@@ -973,8 +1201,8 @@
       "Reddit",
       "r/NYCapartments",
       "Laundry",
+      "Gym",
       "Near campus",
-      "Roommate",
       "Housing megathread"
     ],
     "extraCosts": []
@@ -2813,6 +3041,39 @@
     "sourceSubreddit": "r/NYCapartments",
     "sourceThreadTitle": "r/NYCapartments housing posts",
     "sourceAuthor": "/u/hokie1996",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_break_nofee_2br1ba_on_riverside_dr_at_93rd",
+    "title": "No-fee 2BR/1BA on Riverside Dr at 93rd \u2013 $4,500 \u2013 Dec 1 move-in",
+    "description": "UPDATE: Terms confirmed with building management. Lease takeover: new lease directly with the landlord through Aug 31, 2027 at $4,500/mo, with the option to renew. A 12-month lease is also available at $4,800/mo. No broker fee. - 2BR/1BA, 7th floor, lots of natural light, parque...",
+    "price": 4500,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-10-27",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xgiqsb/lease_break_nofee_2br1ba_on_riverside_dr_at_93rd/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/FlanSlow9028",
     "sourceIntent": "offer",
     "school": null,
     "imageUrls": [],
@@ -5504,8 +5765,8 @@
   {
     "id": "reddit-sublease_lease_takeover_in_lincoln_center",
     "title": "Sublease / Lease Takeover in Lincoln Center",
-    "description": "Being relocated for my job and need to find a subleaser for my apartment. It\u2019s a 1BR 1 Bath at West End Towers. Lease would start 11/20, potential for earlier move-in. The lease amount would be 6+ months at $4850/month. Can share a video of the apartment to those who are interes...",
-    "price": 4850,
+    "description": "Being relocated for my job and need to find a subleaser for my apartment. It\u2019s a 1BR 1 Bath at West End Towers. Lease would start 11/20, potential for earlier move-in. The lease amount would be 6+ months at $4650/month. Can share a video of the apartment to those who are interes...",
+    "price": 4650,
     "location": "New York, NY",
     "bedrooms": 1,
     "bathrooms": 1.0,
