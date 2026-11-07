@@ -1,5 +1,75 @@
 [
   {
+    "id": "reddit-beautiful_studio_lease_takeover_in_the_heart_of",
+    "title": "Beautiful studio lease takeover in the heart of Gowanus! $3,480/month",
+    "description": "Beautiful studio lease takeover in the heart of Gowanus! Cross streets are 3rd and President. 5 minute walk to the R trains on Union and 4th. Just next to Park Slope and beautiful 5th Ave! A quick bike ride to Prospect Park. Wonderful breweries, coffee shops, and restaurants nea...",
+    "price": 3480,
+    "location": "Park Slope, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-07",
+    "imageUrl": "https://preview.redd.it/plngik5wc70i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=f8efa22ca172dada19f7ebd69daaaffc116d33c3",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xq7zmc/beautiful_studio_lease_takeover_in_the_heart_of/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/AuntMickey",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/plngik5wc70i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=f8efa22ca172dada19f7ebd69daaaffc116d33c3"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_in_chinatownles",
+    "title": "Lease takeover in Chinatown/LES",
+    "description": "Looking for someone to takeover my Chinatown/lower east side lease! It's super close to a bunch of subway stations and there's a lot of food and activities nearby. It's on the 4th floor so 3 flights of stairs and no laundry in building but a lot of laundromats on the street. Ren...",
+    "price": 2750,
+    "location": "Lower East Side, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-07",
+    "imageUrl": "https://preview.redd.it/psqykmwpy60i1.jpeg?width=140&height=105&auto=webp&s=7b6d079f00b071cb9fa5a6f75a307dcb3213896d",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xq68xo/lease_takeover_in_chinatownles/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/ElectronicSea6287",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/psqykmwpy60i1.jpeg?width=140&height=105&auto=webp&s=7b6d079f00b071cb9fa5a6f75a307dcb3213896d"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-ee03e0684058",
     "title": "Cute Two Bedroom Apartment near Prospect park and Food Coop!",
     "description": "Hello! I\u2019m subletting my bright, fully furnished two-bedroom apartment in Park Slope while I\u2019m away. ** Discounted rate for full month rental The apartment is on the second floor of a walk-up, just a few blocks from Prospect Park and located between 5th and 7th...",
