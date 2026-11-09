@@ -1,5 +1,98 @@
 [
   {
+    "id": "listingsproject-flexible",
+    "title": "Furnished 1,000 sq ft 1BR with Private Terrace \u2013 Williamsburg (Dec to Mar/Apr, f",
+    "description": "Sublet my spacious, fully furnished one-bedroom in South Williamsburg for the winter. At about 1,000 sq ft it's twice the size of a typical NYC 1BR, with a private outdoor terrace for coffee or dinner outside. \u2022 Bedroom with queen bed \u2022 Full-size sofa bed plus a twin...",
+    "price": 4900,
+    "location": "Williamsburg, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "platform": "Listings Project",
+    "dateListed": "2026-11-09",
+    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/tJ2eUo0BsX_7g1AK9vSSGw/XXVldA-photo1.jpg?aspect_ratio=3:2&width=330",
+    "sourceUrl": "https://www.listingsproject.com/listings/furnished-1-000-sq-ft-1br-with-private-terrace-williamsburg-dec-to-mar-apr-flexible",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": null,
+    "sourceThreadTitle": null,
+    "sourceAuthor": null,
+    "sourceIntent": null,
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": "2026-12-12 to 2027-04-15",
+    "availableFrom": "2026-12-12",
+    "availableTo": "2027-04-15",
+    "termTags": [],
+    "amenities": [],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-big_studio_at_the_rocklyn_brooklyn_3980",
+    "title": "Big studio at The Rocklyn, Brooklyn - $3980",
+    "description": "Lease Takeover / Re-assignment \u2014 Big Studio at The Rocklyn, Fort Greene \u2014 Move-in 11/21/26 Big studio, 1 bath, floor 15 at The Rocklyn, 20 Rockwell Pl, Brooklyn, NY 11201. Available November 21, 2026 through May 19, 2027. Renewal/extension possible. $3,980/month rent + $100/mont...",
+    "price": 3980,
+    "location": "Fort Greene, New York, NY",
+    "bedrooms": 0,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-11-09",
+    "imageUrl": "https://preview.redd.it/wazrzemtzh0i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=755e13ebadfe6caed9df2a47d74d17a9dbe45b51",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xrg10d/big_studio_at_the_rocklyn_brooklyn_3980/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Sea_Region_7609",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/wazrzemtzh0i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=755e13ebadfe6caed9df2a47d74d17a9dbe45b51"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Laundry",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-looking_for_a_1bedroom_apt_lease_takeover_end_of",
+    "title": "Looking for a 1bedroom apt (lease takeover) END OF JANUARY / FIRST WEEK OF FEB....",
+    "description": "submitted by /u/Middle_Philosophy324 [link] [comments]",
+    "price": 2700,
+    "location": "Prospect Heights, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-09",
+    "imageUrl": null,
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xrf0ed/looking_for_a_1bedroom_apt_lease_takeover_end_of/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Middle_Philosophy324",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
     "id": "listingsproject-hill",
     "title": "Quiet, bright and cozy 1BR apartment in Clinton Hill",
     "description": "Charming one bedroom apartment in Clinton Hill/Prospect Heights. Spacious bedroom, dining area, kitchen, and a bright living room in a railroad style apartment. Walk-up building and located on the third floor. Central heat. All utilities will be included. 3min walk to...",
@@ -50,6 +143,227 @@
     "termTags": [],
     "amenities": [],
     "extraCosts": []
+  },
+  {
+    "id": "reddit-lease_takeover_prospect_park_apt_private_bedroom",
+    "title": "Lease Takeover | Prospect Park Apt | Private Bedroom + Bath + Balcony + Walk-In...",
+    "description": "Spacious private bedroom with its own bath, balcony, and walk-in closet in a luxury 2BR/2BA apartment. One roommate, full building amenities, and a prime location by Prospect Park and multiple train lines. I'm moving abroad to be with family and am looking for someone to take ov...",
+    "price": 2908,
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "platform": "Reddit",
+    "dateListed": "2026-11-08",
+    "imageUrl": "https://preview.redd.it/89gff9ywzg0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=5b2d1ed847d03e3a39234d3670c7967fc2caef59",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xrbvaq/lease_takeover_prospect_park_apt_private_bedroom/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/curious_rush_",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/89gff9ywzg0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=5b2d1ed847d03e3a39234d3670c7967fc2caef59"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Gym",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": []
+  },
+  {
+    "id": "reddit-carroll_gardens_room",
+    "title": "Carroll Gardens Room",
+    "description": "Room in a 3bed/1bath in Carroll gardens $1860/month (with utilities). 4 minute walk to F/G train. Two female roommates early/mid 20s. 4th floor walk up. In unit washer/dryer +private terrace. Completely furnished (full bed, desk, drawers + closet). Subleasing from April-July (wi...",
+    "price": 1860,
+    "location": "Carroll Gardens, New York, NY",
+    "bedrooms": 3,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-11-08",
+    "imageUrl": "https://preview.redd.it/tad9twaoie0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=739786c14a065d68dc18b5ced058c91837560810",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xr025i/carroll_gardens_room/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/manimoto123",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/tad9twaoie0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=739786c14a065d68dc18b5ced058c91837560810"
+    ],
+    "availabilityLabel": "April-July",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Roommate",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned"
+    ],
+    "utilitiesNotes": "Room in a 3bed/1bath in Carroll gardens $1860/month (with utilities)."
+  },
+  {
+    "id": "reddit-lic_1br_lease_takeover_at_the_forge_541month",
+    "title": "LIC 1BR Lease Takeover at The Forge | ~$541/month below rent in area | Nov\u2013May...",
+    "description": "I\u2019m relocating and looking for someone to take over my lease at The Forge, a luxury rental building at 44-28 Purves Street in Long Island City. This approximately 700 sq ft, unfurnished 1-bedroom faces the courtyard and is exceptionally quiet\u2014even with the windows open. At $4,05...",
+    "price": 541,
+    "location": "Long Island City, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-08",
+    "imageUrl": "https://preview.redd.it/fl4zt7qjyg0i1.jpeg?width=140&height=121&auto=webp&s=bf4674ce9e4bee0d5de15b495a8e34fe758cf3d4",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xrbp5b/lic_1br_lease_takeover_at_the_forge_541month/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/BranchBusiness9798",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/fl4zt7qjyg0i1.jpeg?width=140&height=121&auto=webp&s=bf4674ce9e4bee0d5de15b495a8e34fe758cf3d4"
+    ],
+    "availabilityLabel": "Nov\u2013May",
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Furnished",
+      "Parking",
+      "Gym",
+      "Near campus"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "parking": "Parking mentioned",
+    "utilitiesNotes": "- Total rent + amenities: $4,158.73/month, before separately billed utilities or services."
+  },
+  {
+    "id": "reddit-5552_2b1b_lease_takeover_jackson_park_long_island",
+    "title": "$5,552 - 2B1B Lease Takeover, Jackson Park Long Island City, Rent Stabilized",
+    "description": "Availability: December or early January Rent: $5,551.99/mo (Stabilized) Lease End Date: Aug28, 2027 Floor: 30s Amenities: indoor / outdoor swimming pool gym basketball & squash court sauna entertainment and meeting rooms Amenity fee: $145pp/month (optional) Apartment Unit Featur...",
+    "price": 5552,
+    "location": "Long Island City, New York, NY",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-08",
+    "imageUrl": "https://external-preview.redd.it/17xwtk2rG5m5rocCTVocDnbpDAuBQs39TE77GT4nhdI.jpeg?width=320&crop=smart&auto=webp&s=3ed8098fcc293f493a12c588aecf3915ca6312a7",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xraisy/5552_2b1b_lease_takeover_jackson_park_long_island/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Familiar_Town_5238",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://external-preview.redd.it/17xwtk2rG5m5rocCTVocDnbpDAuBQs39TE77GT4nhdI.jpeg?width=320&crop=smart&auto=webp&s=3ed8098fcc293f493a12c588aecf3915ca6312a7"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_new_lease_dec_1_crown_heights",
+    "title": "Lease Takeover / New Lease Dec 1 Crown Heights / Prospect Heights",
+    "description": "$3,500 / mo. Great price for this area. 2 Bed / 1 Bath in Crown Heights, Brooklyn. Near Classon Ave. All Pets Allowed. Nearby subway stations include: Franklin Av(2, 3, 4, 5), Franklin Av(A, C), Park Pl (S). Well sized unit, can be used as 1 br with office / den or 2BR (2nd room...",
+    "price": 3500,
+    "location": "Prospect Heights, New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 1.0,
+    "platform": "Reddit",
+    "dateListed": "2026-11-08",
+    "imageUrl": "https://preview.redd.it/1e951ya9tf0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=73477023fbb6bacf3a6e9a89a54854b9b2ead434",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xr6a3c/lease_takeover_new_lease_dec_1_crown_heights/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/AnxiousStation1707",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/1e951ya9tf0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=73477023fbb6bacf3a6e9a89a54854b9b2ead434"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Near campus",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Fees mentioned"
+    ]
+  },
+  {
+    "id": "reddit-lease_takeover_downtown_jersey_city_235_grand",
+    "title": "Downtown Jersey City | 235 Grand studio | 37th floor | $3,140/mo incl. amenity...",
+    "description": "I\u2019m looking for someone interested in taking over my studio at 235 Grand in Downtown Jersey City. Preferred move-in is January 2027; mid-December may be possible. My current lease ends June 6, 2027. Current lease charges are $3,075 base rent + $65 monthly amenity fee ($3,140 com...",
+    "price": 3140,
+    "location": "Jersey City, NJ",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "platform": "Reddit",
+    "dateListed": "2026-11-08",
+    "imageUrl": "https://preview.redd.it/m86ujhkfkf0i1.jpeg?width=140&height=93&auto=webp&s=a096fd465e1c0d9ef2b76941b09f9b789d4b8e41",
+    "sourceUrl": "https://www.reddit.com/r/NYCapartments/comments/1xr52kp/lease_takeover_downtown_jersey_city_235_grand/",
+    "sourceVettedUsers": false,
+    "sourceSubreddit": "r/NYCapartments",
+    "sourceThreadTitle": "r/NYCapartments housing posts",
+    "sourceAuthor": "/u/Justthea8",
+    "sourceIntent": "offer",
+    "school": null,
+    "imageUrls": [
+      "https://preview.redd.it/m86ujhkfkf0i1.jpeg?width=140&height=93&auto=webp&s=a096fd465e1c0d9ef2b76941b09f9b789d4b8e41"
+    ],
+    "availabilityLabel": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "termTags": [],
+    "amenities": [
+      "Reddit",
+      "r/NYCapartments",
+      "Laundry",
+      "Gym",
+      "Housing megathread"
+    ],
+    "extraCosts": [
+      "Utilities mentioned",
+      "Fees mentioned"
+    ],
+    "utilitiesNotes": "Current lease charges are $3,075 base rent + $65 monthly amenity fee ($3,140 combined); utilities and any other applicable charges are extr..."
   },
   {
     "id": "reddit-beautiful_studio_lease_takeover_in_the_heart_of",
@@ -15423,32 +15737,6 @@
       "Laundry",
       "Housing megathread"
     ],
-    "extraCosts": []
-  },
-  {
-    "id": "listingsproject-47f83e7e6ae3",
-    "title": "Gorgeous plant filled one-bedroom Gowanus condo",
-    "description": "This gorgeous plant filled condo is located on 4th Ave in Brooklyn where Gowanus meets Park Slope. It's a bright and airy one-bedroom apartment on the third floor of a ten floor elevator building. I'll be out of town for work and I'm looking for a mature, responsible,...",
-    "price": 4000,
-    "location": "Park Slope, New York, NY",
-    "bedrooms": 1,
-    "bathrooms": 1.0,
-    "platform": "Listings Project",
-    "dateListed": "2026-09-24",
-    "imageUrl": "https://listing-photos.b-cdn.net/listing_photos/6-CXa2t0BMwVS0eKZ2ShEQ/O8I7-v-full room.jpg?aspect_ratio=3:2&width=330",
-    "sourceUrl": "https://www.listingsproject.com/listings/gorgeous-plant-filled-one-bedroom-gowanus-condo-f3d4995d-41fe-4541-b32d-47f83e7e6ae3",
-    "sourceVettedUsers": false,
-    "sourceSubreddit": null,
-    "sourceThreadTitle": null,
-    "sourceAuthor": null,
-    "sourceIntent": null,
-    "school": null,
-    "imageUrls": [],
-    "availabilityLabel": "2026-10-03 to 2026-11-08",
-    "availableFrom": "2026-10-03",
-    "availableTo": "2026-11-08",
-    "termTags": [],
-    "amenities": [],
     "extraCosts": []
   },
   {
